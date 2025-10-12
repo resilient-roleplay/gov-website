@@ -70,10 +70,10 @@ export default {
       prev: false,
       next: true,
     },
-    editLink: {
+    /* editLink: {
       pattern: 'https://github.com/resilient-roleplay/gov-website/edit/production/docs/:path',
       text: 'Edit this page on GitHub'
-    },
+    }, */
     footer: {
       message: "",
       copyright: "Copyright © 2025 Resilient Roleplay",
