@@ -24,13 +24,13 @@ features:
     details: Check out our city's legislation here!
   - icon: 👮
     title: <a href="/applications">Police Applications</a>
-    details: ...
+    details: Los Santos Police Department
   - icon: 🧑‍⚕️
     title: <a href="/applications">EMS Applications</a>
-    details: ...
+    details: San Andread Medical Service
   - icon: 🧑‍⚖️
     title: <a href="/applications">DOJ Applications</a>
-    details: ...
+    details: Department of Justice
 
 # Meta property
 head:
