@@ -1,0 +1,19 @@
+{
+  "name": "@resilient-roleplay/gov-website",
+  "version": "1.0.0",
+  "description": "Central Government Website for Resilient Roleplay",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "keywords": [],
+  "author": "ohAidan",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "vitepress": "^1.6.3",
+    "vue": "^3.4.21"
+  }
+}
