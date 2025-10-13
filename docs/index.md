@@ -20,7 +20,7 @@ hero:
 # Features section
 features:
   - icon: 📃
-    title: <a href="/sdk/intro">Legislation</a>
+    title: <a href="/legislation">Legislation</a>
     details: Check out our city's legislation here!
   - icon: 👮
     title: <a href="/applications">Police Applications</a>
