@@ -62,7 +62,7 @@ Pursuant to *Article III - Rights and Freedoms* of the Constitution of San Andre
 - Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
-- Justice KATHERINE THE 3RD
+- Justice Tess Timony
 - Justice James Anderson
 ---
 ### Process Summary (Internal Use)

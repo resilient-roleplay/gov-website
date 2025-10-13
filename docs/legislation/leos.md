@@ -54,5 +54,5 @@ The *Right to Dignity* ensures that all citizens are treated with fairness and r
 - Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
-- Justice KATHERINE THE 3RD
+- Justice Tess Timony
 - Justice James Anderson

@@ -102,5 +102,5 @@ This Act ensures that all searches and seizures within San Andreas are conducted
 - Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
-- Justice KATHERINE THE 3RD
+- Justice Tess Timony
 - Justice James Anderson

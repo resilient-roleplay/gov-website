@@ -103,5 +103,5 @@ Any disciplinary or removal decision must be accompanied by written justificatio
 - Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
-- Justice KATHERINE THE 3RD
+- Justice Tess Timony
 - Justice James Anderson
