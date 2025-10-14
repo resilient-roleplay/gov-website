@@ -72,5 +72,5 @@ This Act reaffirms the fundamental right of citizens to defend themselves and ot
 - Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
-- Justice KATHERINE THE 3RD
+- Justice Tess Timony
 - Justice James Anderson

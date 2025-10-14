@@ -46,5 +46,5 @@ This Act establishes a balance between effective law enforcement and the protect
 - Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
-- Justice KATHERINE THE 3RD
+- Justice Tess Timony
 - Justice James Anderson

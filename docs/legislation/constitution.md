@@ -125,7 +125,7 @@ This Constitution is hereby ratified and enacted by the State of San Andreas as 
 - Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
-- Justice KATHERINE THE 3RD
+- Justice Tess Timony
 - Justice James Anderson
 
 **Underwriter:**

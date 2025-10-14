@@ -58,5 +58,5 @@ This legislation is grounded in the principles of fair trial and due process as 
 - Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
-- Justice KATHERINE THE 3RD
+- Justice Tess Timony
 - Justice James Anderson

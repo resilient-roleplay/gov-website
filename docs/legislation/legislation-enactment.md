@@ -82,5 +82,5 @@ The Act shall take effect immediately upon publication, unless a later date is s
 - Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
-- Justice KATHERINE THE 3RD
+- Justice Tess Timony
 - Justice James Anderson
