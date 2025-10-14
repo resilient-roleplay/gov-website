@@ -183,9 +183,9 @@
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Attempted Murder of a Government Employee</div>
-      <div class="charge-row principal">45 months - $2200</div>
-      <div class="charge-row accomplice">45 months - $2200</div>
-      <div class="charge-row accessory">36 months - $1700</div>
+      <div class="charge-row principal">120 months - $2200</div>
+      <div class="charge-row accomplice">75 months - $2200</div>
+      <div class="charge-row accessory">56 months - $1700</div>
     </div>
   </div>
 

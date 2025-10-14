@@ -89,7 +89,6 @@ export default {
             { text: "Offenses Against Public Health and Morals", link: "/legislation/charges/offences-against-public-health-and-morals" },
             { text: "Offenses Against Public Safety", link: "/legislation/charges/offences-against-public-safety" },
             { text: "Offenses Involving Operation of a Vehicle/General Citations", link: "/legislation/charges/offences-involving-operation-of-a-vehicle-general-citations" },
-            { text: "Inchoate Offenses", link: "/legislation/charges/inchoate-offenses" },
           ],
         },
          {
@@ -106,7 +105,6 @@ export default {
             { text: "Offenses Against Public Health and Morals", link: "/legislation/criminal-code/offences-against-public-health-and-morals" },
             { text: "Offenses Against Public Safety", link: "/legislation/criminal-code/offences-against-public-safety" },
             { text: "Offenses Involving Operation of a Vehicle/General Citations", link: "/legislation/criminal-code/offences-involving-operation-of-a-vehicle-general-citations" },
-            { text: "Inchoate Offenses", link: "/legislation/criminal-code/inchoate-offenses" },
           ],
         },
       ],
