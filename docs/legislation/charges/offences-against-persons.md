@@ -236,12 +236,6 @@
 </div>
 
 <style>
-body {
-  margin: 0;
-  background-color: #2b2b2b;
-  font-family: sans-serif;
-}
-
 .charges-container {
   display: flex;
   flex-wrap: wrap;
