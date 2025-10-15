@@ -77,7 +77,7 @@ export default {
           ],
         },
         {
-          text: "Charges ",
+          text: "Penal Code",
           collapsible: false,
           collapsed: true,
           items: [
@@ -92,7 +92,7 @@ export default {
             { text: "Offenses Involving Operation of a Vehicle/General Citations", link: "/legislation/charges/offences-involving-operation-of-a-vehicle-general-citations" },
           ],
         },
-         {
+        /* {
           text: "Criminal Code ",
           collapsible: false,
           collapsed: true,
@@ -107,7 +107,7 @@ export default {
             { text: "Offenses Against Public Safety", link: "/legislation/criminal-code/offences-against-public-safety" },
             { text: "Offenses Involving Operation of a Vehicle/General Citations", link: "/legislation/criminal-code/offences-involving-operation-of-a-vehicle-general-citations" },
           ],
-        },
+        }, */
       ],
     },
     ],
