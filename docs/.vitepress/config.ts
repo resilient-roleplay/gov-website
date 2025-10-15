@@ -31,6 +31,7 @@ export default {
     ],
     // Sidebar
     sidebar: [
+      { text: "Home", link: "/home" },
       {
         text: "Applications",
         link: "/applications",
