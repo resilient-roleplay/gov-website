@@ -31,6 +31,7 @@ export default {
     ],
     // Sidebar
     sidebar: [
+      { text: "Home", link: "/home" },
       {
         text: "Applications",
         link: "/applications",
@@ -43,7 +44,7 @@ export default {
       {
       text: "State of San Andreas - State Register of Laws",
       link: "/legislation",
-      collapsible: true,
+      collapsible: false,
       collapsed: false,
       items: [
         /* { text: "Setup", link: "/legislation/setup" }, */
@@ -76,22 +77,25 @@ export default {
           ],
         },
         {
-          text: "Charges ",
+          text: "Penal Code",
           collapsible: false,
           collapsed: true,
           items: [
             { text: "Offenses Against Persons", link: "/legislation/charges/offences-against-persons" },
-            { text: "Offenses Involving Theft", link: "/legislation/charges/offences-involving-theft" },
+            { text: "Offenses Involving Theft and Deception", link: "/legislation/charges/offences-involving-theft-and-deception" },
             { text: "Offenses Involving Fraud", link: "/legislation/charges/offences-involving-fraud" },
-            { text: "Offenses Involving Damage to Property", link: "/legislation/charges/offences-involving-damage-to-property" },
+            { text: "Offenses Against Property", link: "/legislation/charges/offences-against-property" },
             { text: "Offenses Against Public Administration", link: "/legislation/charges/offences-against-public-administration" },
             { text: "Offenses Against Public Order", link: "/legislation/charges/offences-against-public-order" },
             { text: "Offenses Against Public Health and Morals", link: "/legislation/charges/offences-against-public-health-and-morals" },
             { text: "Offenses Against Public Safety", link: "/legislation/charges/offences-against-public-safety" },
             { text: "Offenses Involving Operation of a Vehicle/General Citations", link: "/legislation/charges/offences-involving-operation-of-a-vehicle-general-citations" },
+            { text: "Offences Involving Weapons and Firearms", link: "/legislation/charges/offences-involving-weapons-and-firearms" },
+            { text: "Offences Against the State", link: "/legislation/charges/offences-against-the-state" },
+            { text: "Offences Against Civil Conduct", link: "/legislation/charges/offences-against-civil-conduct" },
           ],
         },
-         {
+        /* {
           text: "Criminal Code ",
           collapsible: false,
           collapsed: true,
@@ -106,7 +110,7 @@ export default {
             { text: "Offenses Against Public Safety", link: "/legislation/criminal-code/offences-against-public-safety" },
             { text: "Offenses Involving Operation of a Vehicle/General Citations", link: "/legislation/criminal-code/offences-involving-operation-of-a-vehicle-general-citations" },
           ],
-        },
+        }, */
       ],
     },
     ],

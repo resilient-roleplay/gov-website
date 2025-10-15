@@ -1,4 +1,5 @@
 # Offences Against Public Order
+__***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
 <div class="charges-container">
 
   <!-- Riot -->
@@ -40,6 +41,27 @@
           <li>The defendant intentionally interfered with evidence.</li>
           <li>The evidence was relevant to an official investigation or proceeding.</li>
           <li>The defendant acted knowingly and with intent to obstruct justice.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+ <!-- Public Intoxication -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Public Intoxication (INFRACTION)</div>
+      <div class="charge-row principal">Principal - 5 months - $500</div>
+      <div class="charge-row accomplice">Accomplice - 5 months - $500</div>
+      <div class="charge-row accessory">Accessory - 3 months - $300</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Being visibly intoxicated in public to the point of causing disruption or risk to safety.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant was intoxicated in a public place.</li>
+          <li>The intoxication posed risk or disruption to public safety.</li>
         </ul>
       </div>
     </div>
@@ -111,72 +133,6 @@
     </div>
   </div>
 
-  <!-- Act of Torture -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Act of Torture (FELONY)</div>
-      <div class="charge-row principal">Principal - 100 months - $5000</div>
-      <div class="charge-row accomplice">Accomplice - 100 months - $5000</div>
-      <div class="charge-row accessory">Accessory - 100 months - $5000</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Inflicting severe physical or psychological pain intentionally to punish, intimidate, or coerce another individual.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant intentionally caused extreme pain or suffering.</li>
-          <li>The act was deliberate and without consent.</li>
-          <li>The harm was inflicted for punishment, intimidation, or coercion.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- 1st Degree Murder -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">1st Degree Murder (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Premeditated and intentional killing of another human being.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant intentionally caused the death of a person.</li>
-          <li>The act was premeditated and planned.</li>
-          <li>No legal justification or self-defense existed.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Serial Assaults and Killings -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Serial Assaults and Killings (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Multiple acts of assault or killing committed over a period of time targeting one or more victims.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant committed repeated violent acts.</li>
-          <li>The acts caused physical harm or death.</li>
-          <li>There was intent and planning involved in each act.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
   <!-- DISOBEYING A PEACE OFFICER (MISDEMEANOR) -->
   <div class="charge misdemeanor-charge">
     <div class="misdemeanor"></div>
@@ -200,44 +156,42 @@
   </div>
 
   <!-- Disorderly Conduct -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
+  <div class="charge felony-charge">
+    <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Disorderly Conduct (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 5 months - $170</div>
-      <div class="charge-row accomplice">Accomplice - 5 months - $170</div>
-      <div class="charge-row accessory">Accessory - 4 months - $140</div>
+      <div class="charge-row charge-name">Disorderly Conduct (INFRACTION)</div>
+      <div class="charge-row principal">Principal - 5 months - $500</div>
+      <div class="charge-row accomplice">Accomplice - 5 months - $500</div>
+      <div class="charge-row accessory">Accessory - 3 months - $300</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Engaging in disruptive, noisy, or unsafe behavior in public that causes inconvenience, alarm, or risk.
+        Acting in a disruptive, abusive, or violent manner that disturbs public peace or safety.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant acted in a manner that was disruptive or unsafe.</li>
-          <li>The conduct occurred in a public place.</li>
-          <li>The act was intentional or reckless.</li>
+          <li>The defendant engaged in disruptive or abusive conduct.</li>
+          <li>The conduct disturbed public peace or safety.</li>
         </ul>
       </div>
     </div>
   </div>
 
   <!-- Disturbing the Peace -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
+  <div class="charge felony-charge">
+    <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Disturbing the Peace (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 5 months - $190</div>
-      <div class="charge-row accomplice">Accomplice - 5 months - $190</div>
-      <div class="charge-row accessory">Accessory - 4 months - $160</div>
+      <div class="charge-row charge-name">Disturbing the Peace (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 8 months - $750</div>
+      <div class="charge-row accomplice">Accomplice - 8 months - $750</div>
+      <div class="charge-row accessory">Accessory - 5 months - $450</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Engaging in acts that disrupt public order, peace, or tranquility.
+        Engaging in loud, unruly, or disruptive behaviour that interferes with public order.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant intentionally disturbed others’ peace or tranquility.</li>
-          <li>The behavior occurred in a public or shared space.</li>
-          <li>The act was unprovoked and without lawful reason.</li>
+          <li>The defendant caused a disturbance through noise or actions.</li>
+          <li>The behaviour disrupted public order or peace.</li>
         </ul>
       </div>
     </div>
@@ -374,100 +328,4 @@
       </div>
     </div>
   </div>
-
 </div>
-
-
-
-
-<style>
-
-.charges-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 15px;
-  justify-content: center;
-  padding: 20px;
-}
-
-.charge {
-  width: 270px;
-  height: 270px;
-  border-radius: 10px;
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  background-color: #3b3b3b;
-  box-shadow: 0 0 6px rgba(0,0,0,0.4);
-}
-
-.felony {
-  height: 5px;
-  width: 100%;
-}
-
-.charge.capital .felony { background-color: #b95759; box-shadow: 0 0 4px #b95759; }
-.charge.felony-charge .felony { background-color: #ddcd65; box-shadow: 0 0 4px #ddcd65; }
-.charge.misdemeanor .felony { background-color: #35c1a4; box-shadow: 0 0 4px #35c1a4; }
-
-.charge-content {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  overflow-y: auto; /* allows scrolling if content is long */
-  padding: 8px;
-}
-
-/* optional - adds a scrollbar style for dark theme */
-.charge-content::-webkit-scrollbar {
-  width: 6px;
-}
-.charge-content::-webkit-scrollbar-thumb {
-  background: #555;
-  border-radius: 3px;
-}
-.charge-content::-webkit-scrollbar-thumb:hover {
-  background: #777;
-}
-
-.charge-description {
-  text-align: left;
-  font-size: 12px;
-  line-height: 1.4;
-  color: #ddd;
-  margin-top: 8px;
-}
-
-.charge-description strong {
-  color: #fff;
-  display: block;
-  margin-bottom: 3px;
-}
-
-.charge-description ul {
-  padding-left: 18px;
-  margin: 6px 0 0;
-}
-
-.charge-description li {
-  margin-bottom: 4px;
-}
-
-
-
-
-.charge-row {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 0 5px;
-  word-wrap: break-word;
-}
-
-.charge-name { font-weight: bold; font-size: 14px; }
-.principal { background-color: #f40505ff; }
-.accomplice { background-color: #e75d07ff; }
-.accessory { background-color: #0b846cff; }
-</style>

@@ -1,4 +1,5 @@
 # Offences Involving Fraud
+__***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
 <div class="charges-container">
 
   <!-- Witness Tampering -->
@@ -28,9 +29,9 @@
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Money Laundering (FELONY)</div>
-      <div class="charge-row principal">Principal - 30 months - $1,130</div>
-      <div class="charge-row accomplice">Accomplice - 30 months - $1,130</div>
-      <div class="charge-row accessory">Accessory - 25 months - $900</div>
+      <div class="charge-row principal">Principal - 40 months - $4,000</div>
+      <div class="charge-row accomplice">Accomplice - 40 months - $4,000</div>
+      <div class="charge-row accessory">Accessory - 25 months - $2,500</div>
       <div class="charge-description">
         <strong>Description:</strong>
         Conducting financial transactions to conceal the origin of illegally obtained money.
@@ -145,6 +146,29 @@
     </div>
   </div>
 
+<!-- Identity Theft -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Identity Theft (FELONY)</div>
+      <div class="charge-row principal">Principal - 25 months - $2500</div>
+      <div class="charge-row accomplice">Accomplice - 25 months - $2500</div>
+      <div class="charge-row accessory">Accessory - 15 months - $1500</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Using another’s personal information without consent for unlawful gain.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant obtained personal information of another.</li>
+          <li>The information was used without consent.</li>
+          <li>Intent to commit fraud or gain unlawfully was present.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
   <!-- Impersonating a Clergyman -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -159,6 +183,28 @@
         <ul>
           <li>The defendant represented themselves as a clergyman.</li>
           <li>The act was intended to deceive, manipulate, or gain unlawful advantage.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- Counterfeiting -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Counterfeiting (FELONY)</div>
+      <div class="charge-row principal">Principal - 30 months - $3500</div>
+      <div class="charge-row accomplice">Accomplice - 30 months - $3500</div>
+      <div class="charge-row accessory">Accessory - 18 months - $2100</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Creating or distributing fake currency or documents.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant produced or distributed counterfeit currency or documents.</li>
+          <li>There was intent to deceive or defraud.</li>
+          <li>The act was unlawful and without authority.</li>
         </ul>
       </div>
     </div>
@@ -225,6 +271,72 @@
     </div>
   </div>
 
+  <!-- Bribery of a Government Official -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Bribery of a Government Official (FELONY)</div>
+      <div class="charge-row principal">Principal - 40 months - $5000</div>
+      <div class="charge-row accomplice">Accomplice - 40 months - $5000</div>
+      <div class="charge-row accessory">Accessory - 24 months - $3000</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Offering or giving any benefit to a Government Employee to influence decisions.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant offered or gave a benefit to a government employee.</li>
+          <li>The purpose was to influence an official decision or action.</li>
+          <li>The act was unlawful and intentional.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- Embezzlement -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Embezzlement (FELONY)</div>
+      <div class="charge-row principal">Principal - 35 months - $3000</div>
+      <div class="charge-row accomplice">Accomplice - 35 months - $3000</div>
+      <div class="charge-row accessory">Accessory - 21 months - $1800</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Misappropriating funds entrusted to one’s care for personal use.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant was entrusted with property or funds.</li>
+          <li>The defendant intentionally misused the property or funds.</li>
+          <li>The act was without authorization and for personal gain.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- Insurance or Loan Fraud -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Insurance or Loan Fraud (FELONY)</div>
+      <div class="charge-row principal">Principal - 25 months - $2500</div>
+      <div class="charge-row accomplice">Accomplice - 25 months - $2500</div>
+      <div class="charge-row accessory">Accessory - 15 months - $1500</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Submitting false information for financial gain.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant provided false statements or documents.</li>
+          <li>There was intent to obtain financial gain.</li>
+          <li>The false information influenced the transaction or process.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Possession of Band of Notes and Small Band of Notes -->
   <div class="charge misdemeanor">
     <div class="misdemeanor"></div>
@@ -243,99 +355,4 @@
       </div>
     </div>
   </div>
-
 </div>
-
-
-
-<style>
-
-.charges-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 15px;
-  justify-content: center;
-  padding: 20px;
-}
-
-.charge {
-  width: 270px;
-  height: 270px;
-  border-radius: 10px;
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  background-color: #3b3b3b;
-  box-shadow: 0 0 6px rgba(0,0,0,0.4);
-}
-
-.felony {
-  height: 5px;
-  width: 100%;
-}
-
-.charge.capital .felony { background-color: #b95759; box-shadow: 0 0 4px #b95759; }
-.charge.felony-charge .felony { background-color: #ddcd65; box-shadow: 0 0 4px #ddcd65; }
-.charge.misdemeanor .felony { background-color: #35c1a4; box-shadow: 0 0 4px #35c1a4; }
-
-.charge-content {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  overflow-y: auto; /* allows scrolling if content is long */
-  padding: 8px;
-}
-
-/* optional - adds a scrollbar style for dark theme */
-.charge-content::-webkit-scrollbar {
-  width: 6px;
-}
-.charge-content::-webkit-scrollbar-thumb {
-  background: #555;
-  border-radius: 3px;
-}
-.charge-content::-webkit-scrollbar-thumb:hover {
-  background: #777;
-}
-
-.charge-description {
-  text-align: left;
-  font-size: 12px;
-  line-height: 1.4;
-  color: #ddd;
-  margin-top: 8px;
-}
-
-.charge-description strong {
-  color: #fff;
-  display: block;
-  margin-bottom: 3px;
-}
-
-.charge-description ul {
-  padding-left: 18px;
-  margin: 6px 0 0;
-}
-
-.charge-description li {
-  margin-bottom: 4px;
-}
-
-
-
-
-.charge-row {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 0 5px;
-  word-wrap: break-word;
-}
-
-.charge-name { font-weight: bold; font-size: 14px; }
-.principal { background-color: #f40505ff; }
-.accomplice { background-color: #e75d07ff; }
-.accessory { background-color: #0b846cff; }
-</style>
