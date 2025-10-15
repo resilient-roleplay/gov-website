@@ -44,7 +44,7 @@ export default {
       {
       text: "State of San Andreas - State Register of Laws",
       link: "/legislation",
-      collapsible: true,
+      collapsible: false,
       collapsed: false,
       items: [
         /* { text: "Setup", link: "/legislation/setup" }, */
