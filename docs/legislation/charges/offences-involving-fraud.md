@@ -5,10 +5,21 @@
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Witness Tampering</div>
-      <div class="charge-row principal">0 months - $0</div>
-      <div class="charge-row accomplice">0 months - $0</div>
-      <div class="charge-row accessory">0 months - $0</div>
+      <div class="charge-row charge-name">Witness Tampering (FELONY)</div>
+      <div class="charge-row principal">Principal - 0 months - $0</div>
+      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
+      <div class="charge-row accessory">Accessory - 0 months - $0</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Interfering with a witness's testimony or efforts to provide evidence in a legal proceeding.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant attempted to influence, intimidate, or threaten a witness.</li>
+          <li>The act was intended to alter or prevent testimony or evidence.</li>
+          <li>No lawful justification existed for the conduct.</li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -16,10 +27,20 @@
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Money Laundering</div>
-      <div class="charge-row principal">30 months - $1130</div>
-      <div class="charge-row accomplice">30 months - $1130</div>
-      <div class="charge-row accessory">25 months - $900</div>
+      <div class="charge-row charge-name">Money Laundering (FELONY)</div>
+      <div class="charge-row principal">Principal - 30 months - $1,130</div>
+      <div class="charge-row accomplice">Accomplice - 30 months - $1,130</div>
+      <div class="charge-row accessory">Accessory - 25 months - $900</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Conducting financial transactions to conceal the origin of illegally obtained money.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant engaged in financial transactions involving proceeds from unlawful activity.</li>
+          <li>The intent was to conceal the source, ownership, or control of the funds.</li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -27,10 +48,20 @@
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Extortion</div>
-      <div class="charge-row principal">14 months - $630</div>
-      <div class="charge-row accomplice">14 months - $630</div>
-      <div class="charge-row accessory">12 months - $510</div>
+      <div class="charge-row charge-name">Extortion (FELONY)</div>
+      <div class="charge-row principal">Principal - 14 months - $630</div>
+      <div class="charge-row accomplice">Accomplice - 14 months - $630</div>
+      <div class="charge-row accessory">Accessory - 12 months - $510</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Obtaining money, property, or services through threats, intimidation, or coercion.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant threatened harm, property damage, or exposure to compel action.</li>
+          <li>The victim was coerced to provide money, property, or services.</li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -38,8 +69,18 @@
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Possession of a Tampered Firearm</div>
-      <div class="charge-row principal">50 months - $15000</div>
+      <div class="charge-row charge-name">Possession of a Tampered Firearm (FELONY)</div>
+      <div class="charge-row principal">Principal - 50 months - $15,000</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Possessing a firearm that has been illegally altered, modified, or tampered with to enhance functionality or evade detection.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant possessed a firearm that was modified from its original state.</li>
+          <li>The modifications were illegal or prohibited by law.</li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -47,8 +88,18 @@
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Voter Fraud</div>
-      <div class="charge-row principal">100 months - $40000</div>
+      <div class="charge-row charge-name">Voter Fraud (FELONY)</div>
+      <div class="charge-row principal">Principal - 100 months - $40,000</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Illegally interfering with or manipulating the election process.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant knowingly submitted false information or engaged in prohibited voting conduct.</li>
+          <li>The action had potential to affect the outcome of an election.</li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -56,10 +107,20 @@
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Impersonating a Government Employee</div>
-      <div class="charge-row principal">21 months - $790</div>
-      <div class="charge-row accomplice">21 months - $790</div>
-      <div class="charge-row accessory">17 months - $630</div>
+      <div class="charge-row charge-name">Impersonating a Government Employee (FELONY)</div>
+      <div class="charge-row principal">Principal - 21 months - $790</div>
+      <div class="charge-row accomplice">Accomplice - 21 months - $790</div>
+      <div class="charge-row accessory">Accessory - 17 months - $630</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Pretending to be a government official to deceive or commit unlawful acts.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant falsely represented themselves as a government employee.</li>
+          <li>The impersonation was intended to deceive, intimidate, or commit a crime.</li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -67,10 +128,20 @@
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Fraud</div>
-      <div class="charge-row principal">14 months - $530</div>
-      <div class="charge-row accomplice">14 months - $530</div>
-      <div class="charge-row accessory">12 months - $420</div>
+      <div class="charge-row charge-name">Fraud (FELONY)</div>
+      <div class="charge-row principal">Principal - 14 months - $530</div>
+      <div class="charge-row accomplice">Accomplice - 14 months - $530</div>
+      <div class="charge-row accessory">Accessory - 12 months - $420</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Deception intended to result in financial or personal gain at another's expense.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant knowingly made false statements or misrepresentations.</li>
+          <li>The deception caused or intended to cause loss or gain.</li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -78,8 +149,18 @@
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Impersonating a Clergyman</div>
-      <div class="charge-row principal">35 months - $500</div>
+      <div class="charge-row charge-name">Impersonating a Clergyman (FELONY)</div>
+      <div class="charge-row principal">Principal - 35 months - $500</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Pretending to be a religious official to mislead or defraud others.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant represented themselves as a clergyman.</li>
+          <li>The act was intended to deceive, manipulate, or gain unlawful advantage.</li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -87,10 +168,20 @@
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Impersonation</div>
-      <div class="charge-row principal">14 months - $530</div>
-      <div class="charge-row accomplice">14 months - $530</div>
-      <div class="charge-row accessory">12 months - $420</div>
+      <div class="charge-row charge-name">Impersonation (FELONY)</div>
+      <div class="charge-row principal">Principal - 14 months - $530</div>
+      <div class="charge-row accomplice">Accomplice - 14 months - $530</div>
+      <div class="charge-row accessory">Accessory - 12 months - $420</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Falsely representing oneself as another individual for deception or gain.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant assumed the identity of another person.</li>
+          <li>The act was intended to deceive, commit fraud, or obtain benefit.</li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -98,8 +189,18 @@
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Vehicle Registration Fraud</div>
-      <div class="charge-row principal">21 months - $790</div>
+      <div class="charge-row charge-name">Vehicle Registration Fraud (FELONY)</div>
+      <div class="charge-row principal">Principal - 21 months - $790</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Fraudulently registering or altering vehicle registration information.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant submitted false or misleading registration information.</li>
+          <li>The intent was to deceive authorities or gain unlawful advantage.</li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -107,20 +208,134 @@
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Identity Theft</div>
-      <div class="charge-row principal">21 months - $790</div>
-      <div class="charge-row accomplice">21 months - $790</div>
-      <div class="charge-row accessory">17 months - $630</div>
+      <div class="charge-row charge-name">Identity Theft (FELONY)</div>
+      <div class="charge-row principal">Principal - 21 months - $790</div>
+      <div class="charge-row accomplice">Accomplice - 21 months - $790</div>
+      <div class="charge-row accessory">Accessory - 17 months - $630</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Using another person’s identifying information without consent for unlawful purposes.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant obtained or used personal information of another.</li>
+          <li>The use was without consent and intended for fraud or gain.</li>
+        </ul>
+      </div>
     </div>
   </div>
 
   <!-- Possession of Band of Notes and Small Band of Notes -->
   <div class="charge misdemeanor">
-    <div class="felony"></div>
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Possession of Band of Notes and Small Band of Notes</div>
-      <div class="charge-row principal">0 months - $0</div>
+      <div class="charge-row charge-name">Possession of Band of Notes and Small Band of Notes (MISDEMEANOR)</div>
+      <div class="charge-row principal">Principal - 0 months - $0</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Possessing organized bundles of banknotes, often linked to unlawful financial activity.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant had possession of banknotes in bands or organized bundles.</li>
+          <li>The possession was linked or intended for unlawful activity.</li>
+        </ul>
+      </div>
     </div>
   </div>
 
 </div>
+
+
+
+<style>
+
+.charges-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  padding: 20px;
+}
+
+.charge {
+  width: 270px;
+  height: 270px;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-color: #3b3b3b;
+  box-shadow: 0 0 6px rgba(0,0,0,0.4);
+}
+
+.felony {
+  height: 5px;
+  width: 100%;
+}
+
+.charge.capital .felony { background-color: #b95759; box-shadow: 0 0 4px #b95759; }
+.charge.felony-charge .felony { background-color: #ddcd65; box-shadow: 0 0 4px #ddcd65; }
+.charge.misdemeanor .felony { background-color: #35c1a4; box-shadow: 0 0 4px #35c1a4; }
+
+.charge-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto; /* allows scrolling if content is long */
+  padding: 8px;
+}
+
+/* optional - adds a scrollbar style for dark theme */
+.charge-content::-webkit-scrollbar {
+  width: 6px;
+}
+.charge-content::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 3px;
+}
+.charge-content::-webkit-scrollbar-thumb:hover {
+  background: #777;
+}
+
+.charge-description {
+  text-align: left;
+  font-size: 12px;
+  line-height: 1.4;
+  color: #ddd;
+  margin-top: 8px;
+}
+
+.charge-description strong {
+  color: #fff;
+  display: block;
+  margin-bottom: 3px;
+}
+
+.charge-description ul {
+  padding-left: 18px;
+  margin: 6px 0 0;
+}
+
+.charge-description li {
+  margin-bottom: 4px;
+}
+
+
+
+
+.charge-row {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 5px;
+  word-wrap: break-word;
+}
+
+.charge-name { font-weight: bold; font-size: 14px; }
+.principal { background-color: #f40505ff; }
+.accomplice { background-color: #e75d07ff; }
+.accessory { background-color: #0b846cff; }
+</style>
