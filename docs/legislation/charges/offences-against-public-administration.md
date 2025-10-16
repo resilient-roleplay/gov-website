@@ -1,134 +1,131 @@
 # Offences Against Public Administration 
+__***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
 <div class="charges-container">
 
-  <!-- Attempted Prison Break -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- Contempt of Court -->
+  <div class="charge misdemeanour-charge">
+    <div class="misdemeanour"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Prison Break (FELONY)</div>
-      <div class="charge-row principal">Principal - 28 months - $1680</div>
-      <div class="charge-row accomplice">Accomplice - 28 months - $1680</div>
-      <div class="charge-row accessory">Accessory - 23 months - $1470</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Attempting to unlawfully escape from a correctional or detention facility without authorization or permission.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant was lawfully detained or incarcerated.</li>
-          <li>The defendant took direct actions toward escaping custody.</li>
-          <li>The attempt was intentional and not accidental.</li>
-          <li>The escape was not authorized or lawfully permitted.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Introducing Contraband into a Government Facility -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Introducing Contraband into a Government Facility (FELONY)</div>
-      <div class="charge-row principal">Principal - 20 months - $750</div>
-      <div class="charge-row accomplice">Accomplice - 20 months - $750</div>
-      <div class="charge-row accessory">Accessory - 16 months - $620</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Knowingly bringing or attempting to bring illegal items into a secure government facility such as a prison, courthouse, or police station.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant knowingly brought or attempted to bring contraband into a restricted or government-controlled facility.</li>
-          <li>The facility was officially designated as a government or correctional building.</li>
-          <li>The items were classified as contraband under applicable law or regulation.</li>
-          <li>The defendant had no lawful authority or permission to possess or introduce the items.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Parole Violation -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Parole Violation (FELONY)</div>
+      <div class="charge-row charge-name">Contempt of Court (MISDEMEANOUR)</div>
       <div class="charge-row principal">Principal - 0 months - $0</div>
+      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
+      <div class="charge-row accessory">Accessory - 0 months - $0</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Failing to comply with the conditions of parole as set by a court or parole board.
+        Disrupting, disobeying, or showing disrespect toward the authority or orders of the court. Subject to Department of Justice discretion.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant was released on parole under specific conditions.</li>
-          <li>The defendant knowingly violated one or more of those conditions.</li>
-          <li>The violation was willful and not due to circumstances beyond the defendant’s control.</li>
+          <li>Defendant acted in a manner that disrespected or obstructed the court.</li>
+          <li>Actions interfered with judicial authority or proceedings.</li>
+          <li>Act was intentional or willful.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Bribery -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- Attempted Contempt of Court -->
+  <div class="charge misdemeanour-charge">
+    <div class="misdemeanour"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Bribery (FELONY)</div>
-      <div class="charge-row principal">Principal - 12 months - $450</div>
-      <div class="charge-row accomplice">Accomplice - 12 months - $450</div>
-      <div class="charge-row accessory">Accessory - 10 months - $360</div>
+      <div class="charge-row charge-name">Attempted Contempt of Court (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 0 months - $0</div>
+      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
+      <div class="charge-row accessory">Accessory - 0 months - $0</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Offering, giving, receiving, or soliciting something of value to influence the actions of an official or person in authority.
+        Attempting to disrupt, disobey, or disrespect court authority without completing the act.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>A thing of value was offered, given, or received.</li>
-          <li>The intent was to influence an official act or decision.</li>
-          <li>The recipient was a person in a position of authority or influence.</li>
-          <li>The exchange was not authorized or lawful.</li>
+          <li>Defendant took steps toward disobeying or obstructing the court.</li>
+          <li>Actions did not fully interfere but were intentional.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Escaping Custody -->
+  <!-- Impersonation of an Official -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Escaping Custody (FELONY)</div>
-      <div class="charge-row principal">Principal - 14 months - $530</div>
-      <div class="charge-row accomplice">Accomplice - 14 months - $530</div>
-      <div class="charge-row accessory">Accessory - 12 months - $430</div>
+      <div class="charge-row charge-name">Impersonation of an Official (FELONY)</div>
+      <div class="charge-row principal">Principal - 30 months - $3,000</div>
+      <div class="charge-row accomplice">Accomplice - 30 months - $3,000</div>
+      <div class="charge-row accessory">Accessory - 18 months - $1,800</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Escaping or attempting to escape from lawful arrest, detention, or custody without permission.
+        Pretending to be a government employee, law enforcement officer, or justice official to deceive or defraud.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant was under lawful arrest or detention.</li>
-          <li>The defendant intentionally left or attempted to leave custody without authorization.</li>
-          <li>The act was willful and not a misunderstanding or accident.</li>
+          <li>Defendant assumed the identity of an official.</li>
+          <li>Intent was to deceive, defraud, or mislead others.</li>
+          <li>Actions were without lawful authority.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Prison Break -->
+  <!-- Attempted Impersonation of an Official -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Prison Break (FELONY)</div>
-      <div class="charge-row principal">Principal - 40 months - $2400</div>
-      <div class="charge-row accomplice">Accomplice - 40 months - $2400</div>
-      <div class="charge-row accessory">Accessory - 32 months - $2100</div>
+      <div class="charge-row charge-name">Attempted Impersonation of an Official (FELONY)</div>
+      <div class="charge-row principal">Principal - 15 months - $1,500</div>
+      <div class="charge-row accomplice">Accomplice - 15 months - $1,500</div>
+      <div class="charge-row accessory">Accessory - 9 months - $900</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Successfully escaping or assisting another to escape from a correctional or detention facility.
+        Attempting to assume the identity of a government official without completing the act.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant was lawfully detained or assisted someone who was.</li>
-          <li>An escape occurred from a correctional or detention facility.</li>
-          <li>The defendant intentionally carried out or aided in the escape.</li>
+          <li>Defendant took steps to impersonate an official.</li>
+          <li>Intent was present, but the act was not fully executed.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Corruption -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Corruption (FELONY)</div>
+      <div class="charge-row principal">Principal - 60 months - $7,000</div>
+      <div class="charge-row accomplice">Accomplice - 60 months - $7,000</div>
+      <div class="charge-row accessory">Accessory - 36 months - $4,200</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Misusing one’s position of authority or trust for personal gain or unlawful benefit.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant held a position of trust or authority.</li>
+          <li>They used that position to obtain personal gain or advantage.</li>
+          <li>Actions were intentional and unlawful.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Corruption -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Corruption (FELONY)</div>
+      <div class="charge-row principal">Principal - 30 months - $3,500</div>
+      <div class="charge-row accomplice">Accomplice - 30 months - $3,500</div>
+      <div class="charge-row accessory">Accessory - 18 months - $2,100</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to misuse a position of authority for personal gain without fully completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps to exploit authority for gain.</li>
+          <li>Intent existed but the act was incomplete.</li>
         </ul>
       </div>
     </div>
@@ -139,18 +136,211 @@
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Perjury (FELONY)</div>
-      <div class="charge-row principal">Principal - 21 months - $1260</div>
-      <div class="charge-row accomplice">Accomplice - 21 months - $1260</div>
-      <div class="charge-row accessory">Accessory - 17 months - $1070</div>
+      <div class="charge-row principal">Principal - 25 months - $2,500</div>
+      <div class="charge-row accomplice">Accomplice - 25 months - $2,500</div>
+      <div class="charge-row accessory">Accessory - 15 months - $1,500</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Knowingly making false statements under oath during judicial, governmental, or official proceedings.
+        Knowingly providing false statements or testimony under oath during a judicial or official proceeding.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant was lawfully sworn under oath or affirmation.</li>
-          <li>The defendant made a false statement of material fact.</li>
-          <li>The defendant knew the statement was false at the time it was made.</li>
+          <li>Defendant gave testimony or statements under oath.</li>
+          <li>Statements were knowingly false.</li>
+          <li>Intent was to mislead or deceive the court.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Perjury -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Perjury (FELONY)</div>
+      <div class="charge-row principal">Principal - 12 months - $1,250</div>
+      <div class="charge-row accomplice">Accomplice - 12 months - $1,250</div>
+      <div class="charge-row accessory">Accessory - 8 months - $750</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to give false statements under oath without fully committing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant prepared or intended to provide false testimony.</li>
+          <li>Intent existed but act was incomplete.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Witness Tampering -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Witness Tampering (FELONY)</div>
+      <div class="charge-row principal">Principal - 50 months - $5,000</div>
+      <div class="charge-row accomplice">Accomplice - 50 months - $5,000</div>
+      <div class="charge-row accessory">Accessory - 30 months - $3,000</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Intimidating, threatening, or bribing a witness to influence or alter testimony.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant attempted to influence a witness's testimony.</li>
+          <li>Actions included threats, intimidation, or bribery.</li>
+          <li>Act was intentional and unlawful.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Witness Tampering -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Witness Tampering (FELONY)</div>
+      <div class="charge-row principal">Principal - 25 months - $2,500</div>
+      <div class="charge-row accomplice">Accomplice - 25 months - $2,500</div>
+      <div class="charge-row accessory">Accessory - 15 months - $1,500</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to intimidate, threaten, or bribe a witness without fully influencing them.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps to influence a witness.</li>
+          <li>Intent existed but act was incomplete.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Evidence Tampering -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Evidence Tampering (FELONY)</div>
+      <div class="charge-row principal">Principal - 25 months - $2,000</div>
+      <div class="charge-row accomplice">Accomplice - 25 months - $2,000</div>
+      <div class="charge-row accessory">Accessory - 15 months - $1,200</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Altering, destroying, or concealing evidence to obstruct an investigation or legal proceeding.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant altered, destroyed, or concealed evidence.</li>
+          <li>Intent was to obstruct justice.</li>
+          <li>Action was deliberate and unlawful.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Evidence Tampering -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Evidence Tampering (FELONY)</div>
+      <div class="charge-row principal">Principal - 12 months - $1,000</div>
+      <div class="charge-row accomplice">Accomplice - 12 months - $1,000</div>
+      <div class="charge-row accessory">Accessory - 8 months - $600</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to alter, destroy, or conceal evidence without fully obstructing an investigation.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps toward tampering with evidence.</li>
+          <li>Intent existed but act was incomplete.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Escaping Custody -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Escaping Custody (FELONY)</div>
+      <div class="charge-row principal">Principal - 40 months - $3,000</div>
+      <div class="charge-row accomplice">Accomplice - 40 months - $3,000</div>
+      <div class="charge-row accessory">Accessory - 24 months - $1,800</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Fleeing or attempting to flee from lawful arrest, detention, or imprisonment.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant was in lawful custody.</li>
+          <li>They attempted or successfully escaped.</li>
+          <li>Act was intentional and without authorization.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Escaping Custody -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Escaping Custody (FELONY)</div>
+      <div class="charge-row principal">Principal - 20 months - $1,500</div>
+      <div class="charge-row accomplice">Accomplice - 20 months - $1,500</div>
+      <div class="charge-row accessory">Accessory - 12 months - $900</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to flee lawful custody without successfully escaping.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps toward escaping custody.</li>
+          <li>Intent existed but escape was incomplete.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bribery of a Government Official -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Bribery of a Government Official (FELONY)</div>
+      <div class="charge-row principal">Principal - 40 months - $5,000</div>
+      <div class="charge-row accomplice">Accomplice - 40 months - $5,000</div>
+      <div class="charge-row accessory">Accessory - 24 months - $3,000</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Offering or providing anything of value to a government employee to influence their duties or decisions.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant offered or gave something of value.</li>
+          <li>Intent was to influence official duties.</li>
+          <li>Action was unlawful and deliberate.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Bribery of a Government Official -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Bribery of a Government Official (FELONY)</div>
+      <div class="charge-row principal">Principal - 20 months - $2,500</div>
+      <div class="charge-row accomplice">Accomplice - 20 months - $2,500</div>
+      <div class="charge-row accessory">Accessory - 12 months - $1,500</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to offer or provide value to influence a government official without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps to bribe or influence an official.</li>
+          <li>Intent existed but act was incomplete.</li>
         </ul>
       </div>
     </div>
@@ -161,203 +351,39 @@
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Violating a Court Order (FELONY)</div>
-      <div class="charge-row principal">Principal - 28 months - $1050</div>
-      <div class="charge-row accomplice">Accomplice - 28 months - $1050</div>
-      <div class="charge-row accessory">Accessory - 23 months - $940</div>
+      <div class="charge-row principal">Principal - 30 months - $10,000</div>
+      <div class="charge-row accomplice">Accomplice - 30 months - $10,000</div>
+      <div class="charge-row accessory">Accessory - 18 months - $6,000</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Willfully disobeying or violating an order, injunction, or mandate issued by a court of law.
+        Willful disobedience of a lawful court order, including sentencing terms, protective, or restraining orders.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>A lawful court order was in effect and binding upon the defendant.</li>
-          <li>The defendant had knowledge of the order.</li>
-          <li>The defendant willfully disobeyed or acted in defiance of that order.</li>
+          <li>Defendant was subject to a lawful court order.</li>
+          <li>They willfully disobeyed or failed to comply.</li>
+          <li>Action was intentional and without legal excuse.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Embezzlement -->
+  <!-- Attempted Violating a Court Order -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Embezzlement (FELONY)</div>
-      <div class="charge-row principal">Principal - 50 months - $3000</div>
-      <div class="charge-row accomplice">Accomplice - 50 months - $3000</div>
-      <div class="charge-row accessory">Accessory - 17 months - $2250</div>
+      <div class="charge-row charge-name">Attempted Violating a Court Order (FELONY)</div>
+      <div class="charge-row principal">Principal - 15 months - $5,000</div>
+      <div class="charge-row accomplice">Accomplice - 15 months - $5,000</div>
+      <div class="charge-row accessory">Accessory - 9 months - $3,000</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        The fraudulent appropriation of funds or property by a person entrusted with its possession.
+        Attempting to disobey or violate a court order without fully committing the act.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant was entrusted with property or funds belonging to another.</li>
-          <li>The defendant fraudulently converted or used the property for personal gain.</li>
-          <li>The act was done intentionally and without consent.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Contempt of Court -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Contempt of Court (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Disrupting or showing disrespect toward a court proceeding or failing to comply with a lawful court directive.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant acted in a way that obstructed or disrespected the authority of the court.</li>
-          <li>The conduct was intentional and occurred during or in relation to court proceedings.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Failure to Appear -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Failure to Appear (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Failing to appear in court or before a lawful authority as required by a summons, subpoena, or release condition.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant was legally required to appear in court or before an authority.</li>
-          <li>The defendant willfully failed to appear at the scheduled time and place.</li>
-          <li>No lawful excuse or justification existed for the failure.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Unauthorized Practice of Law -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Unauthorized Practice of Law (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 5 months - $170</div>
-      <div class="charge-row accomplice">Accomplice - 5 months - $170</div>
-      <div class="charge-row accessory">Accessory - 4 months - $150</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Providing legal services, advice, or representation without being licensed or authorized to practice law.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant engaged in activities that constitute the practice of law.</li>
-          <li>The defendant was not licensed or authorized to practice law.</li>
-          <li>The acts were performed knowingly and without lawful exemption.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Conspiracy -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Conspiracy (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 7 months - $240</div>
-      <div class="charge-row accomplice">Accomplice - 7 months - $240</div>
-      <div class="charge-row accessory">Accessory - 6 months - $168</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Agreeing with one or more persons to commit an unlawful act and taking steps toward its execution.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Two or more people agreed to commit a crime.</li>
-          <li>The defendant knowingly participated in the agreement.</li>
-          <li>At least one overt act was taken in furtherance of the conspiracy.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Misuse of a 911 System -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Misuse of a 911 System (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 7 months - $240</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Improperly using the 911 emergency system for non-emergency, prank, or deceptive purposes.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant made a call or used the 911 system.</li>
-          <li>The call or use was not for an actual emergency.</li>
-          <li>The defendant knew or should have known it was a misuse of emergency services.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Unauthorized Sales -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Unauthorized Sales (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 0 months - $410</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Selling or offering goods or services without the required license, authorization, or compliance with regulations.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant offered or conducted a sale of goods or services.</li>
-          <li>No proper license, authorization, or permit was held.</li>
-          <li>The defendant acted knowingly and without lawful authority.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Criminal Misuse of a Towing Clamp -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Criminal Misuse of a Towing Clamp (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 10 months - $800</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Using or removing a towing clamp unlawfully, or interfering with its lawful application.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The towing clamp was lawfully applied to a vehicle.</li>
-          <li>The defendant tampered with, removed, or misused the clamp without authorization.</li>
-          <li>The act was intentional and without legal excuse.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Adoption Fraud -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Adoption Fraud (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 0 months - $60000</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Engaging in deceptive or unlawful practices related to the adoption process for financial or personal gain.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant engaged in an adoption-related transaction or process.</li>
-          <li>The defendant used deception, falsified information, or concealed material facts.</li>
-          <li>The intent was to obtain money, property, or unlawful advantage.</li>
+          <li>Defendant took steps toward violating a court order.</li>
+          <li>Intent existed but act was incomplete.</li>
         </ul>
       </div>
     </div>
