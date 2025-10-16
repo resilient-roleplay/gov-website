@@ -24,6 +24,28 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Assault & Battery -->
+  <div class="charge misdemeanour">
+    <div class="misdemeanour"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Assault & Battery (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 8 months - $600</div>
+      <div class="charge-row accomplice">Accomplice - 8 months - $600</div>
+      <div class="charge-row accessory">Accessory - 4 months - $300</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to threaten or harm another person without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant attempted to commit battery or assault.</li>
+          <li>The act was intentional.</li>
+          <li>Harm was intended but not completed.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Criminal Threats -->
   <div class="charge misdemeanour">
     <div class="misdemeanour"></div>
@@ -90,6 +112,28 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Reckless Endangerment -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Reckless Endangerment (FELONY)</div>
+      <div class="charge-row principal">Principal - 12 months - $1000</div>
+      <div class="charge-row accomplice">Accomplice - 12 months - $1000</div>
+      <div class="charge-row accessory">Accessory - 6 months - $600</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Taking substantial steps that could have created serious risk but no harm occurred.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant acted recklessly toward potential victims.</li>
+          <li>Substantial risk of injury was present.</li>
+          <li>Harm was not completed, but intent or disregard is clear.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Hostage Taking -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -107,6 +151,28 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>Defendant detained another person without consent.</li>
           <li>Detention was used to compel action or advantage.</li>
           <li>Force or threats were used or implied.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Hostage Taking -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Hostage Taking (FELONY)</div>
+      <div class="charge-row principal">Principal - 15 months - $2500</div>
+      <div class="charge-row accomplice">Accomplice - 15 months - $2500</div>
+      <div class="charge-row accessory">Accessory - 9 months - $1500</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to detain or hold another person against their will to compel action or advantage.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant attempted to detain another person.</li>
+          <li>Intent was to compel action or advantage.</li>
+          <li>Force or threats were used or intended.</li>
         </ul>
       </div>
     </div>
@@ -156,6 +222,28 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Battery on a Government Employee -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Battery on a Government Employee (FELONY)</div>
+      <div class="charge-row principal">Principal - 20 months - $1750</div>
+      <div class="charge-row accomplice">Accomplice - 20 months - $1750</div>
+      <div class="charge-row accessory">Accessory - 12 months - $1050</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to assault an on-duty government employee without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps to strike or harm the employee.</li>
+          <li>Employee was performing official duties.</li>
+          <li>The act was intentional but incomplete.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Kidnapping -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -179,6 +267,28 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Kidnapping -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Kidnapping (FELONY)</div>
+      <div class="charge-row principal">Principal - 35 months - $2500</div>
+      <div class="charge-row accomplice">Accomplice - 35 months - $2500</div>
+      <div class="charge-row accessory">Accessory - 21 months - $1500</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to forcibly move or detain a person without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps toward restraining or moving the victim.</li>
+          <li>Victim did not consent.</li>
+          <li>Act was intentional and without lawful authority.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Torture -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -196,6 +306,28 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>Defendant intentionally caused extreme suffering.</li>
           <li>The victim suffered severe physical or mental harm.</li>
           <li>The act was deliberate and unlawful.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Torture -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Torture (FELONY)</div>
+      <div class="charge-row principal">Principal - 60 months - $5000</div>
+      <div class="charge-row accomplice">Accomplice - 60 months - $5000</div>
+      <div class="charge-row accessory">Accessory - 36 months - $3000</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to inflict extreme physical or mental suffering without completion.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took actions toward causing severe suffering.</li>
+          <li>Intent to harm was present.</li>
+          <li>Act was deliberate but incomplete.</li>
         </ul>
       </div>
     </div>

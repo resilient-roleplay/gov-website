@@ -24,6 +24,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Reckless Driving -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Reckless Driving (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 6 months - $500</div>
+      <div class="charge-row accomplice">Accomplice - 6 months - $500</div>
+      <div class="charge-row accessory">Accessory - 3 months - $300</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to operate a vehicle recklessly without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps toward reckless operation.</li>
+          <li>Intent existed but act was incomplete.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Driving Under the Influence (DUI) -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -41,6 +62,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>Defendant operated a vehicle under the influence.</li>
           <li>Blood alcohol content or impairment exceeded legal limits.</li>
           <li>Defendant’s ability to drive safely was impaired.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted DUI -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Driving Under the Influence (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 9 months - $750</div>
+      <div class="charge-row accomplice">Accomplice - 9 months - $750</div>
+      <div class="charge-row accessory">Accessory - 5 months - $450</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to operate a vehicle under the influence without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps toward operating under influence.</li>
+          <li>Intent existed but act was incomplete.</li>
         </ul>
       </div>
     </div>
@@ -68,6 +110,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Vehicular Manslaughter -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Vehicular Manslaughter (FELONY)</div>
+      <div class="charge-row principal">Principal - 18 months - $2,000</div>
+      <div class="charge-row accomplice">Accomplice - 18 months - $2,000</div>
+      <div class="charge-row accessory">Accessory - 11 months - $1,200</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to cause death through negligent or reckless driving without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps toward negligent or reckless driving causing death.</li>
+          <li>Intent existed but death did not occur.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Public Endangerment -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -85,6 +148,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>Defendant acted in a way that endangered the public.</li>
           <li>The risk of harm was foreseeable.</li>
           <li>Defendant’s actions were intentional or reckless.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Public Endangerment -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Public Endangerment (FELONY)</div>
+      <div class="charge-row principal">Principal - 15 months - $1,500</div>
+      <div class="charge-row accomplice">Accomplice - 15 months - $1,500</div>
+      <div class="charge-row accessory">Accessory - 9 months - $900</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to engage in conduct that endangers the public without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps to endanger public safety.</li>
+          <li>Intent existed but risk did not fully materialize.</li>
         </ul>
       </div>
     </div>
@@ -112,6 +196,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Arson -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Arson (FELONY)</div>
+      <div class="charge-row principal">Principal - 25 months - $2,500</div>
+      <div class="charge-row accomplice">Accomplice - 25 months - $2,500</div>
+      <div class="charge-row accessory">Accessory - 15 months - $1,500</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to set fire to property without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps toward setting fire intentionally.</li>
+          <li>Intent existed but fire was not completed.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Explosives Offense -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -129,6 +234,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>Defendant handled explosives without lawful authority.</li>
           <li>Act posed a risk to life or property.</li>
           <li>Defendant acted intentionally or recklessly.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Explosives Offense -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Explosives Offense (FELONY)</div>
+      <div class="charge-row principal">Principal - 30 months - $5,000</div>
+      <div class="charge-row accomplice">Accomplice - 30 months - $5,000</div>
+      <div class="charge-row accessory">Accessory - 18 months - $3,000</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to manufacture, possess, or use explosives without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps toward handling explosives unlawfully.</li>
+          <li>Intent existed but act was incomplete.</li>
         </ul>
       </div>
     </div>
@@ -156,6 +282,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Possession of Dangerous Chemicals -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Possession of Dangerous Chemicals (FELONY)</div>
+      <div class="charge-row principal">Principal - 15 months - $1,500</div>
+      <div class="charge-row accomplice">Accomplice - 15 months - $1,500</div>
+      <div class="charge-row accessory">Accessory - 9 months - $900</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to possess dangerous chemicals without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps toward possession.</li>
+          <li>Intent existed but act was incomplete.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Tampering with Public Utilities -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -173,6 +320,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>Defendant intentionally interfered with public utilities.</li>
           <li>Act posed risk to public safety or disrupted services.</li>
           <li>Act was unlawful and deliberate.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Tampering with Public Utilities -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Tampering with Public Utilities (FELONY)</div>
+      <div class="charge-row principal">Principal - 20 months - $2,000</div>
+      <div class="charge-row accomplice">Accomplice - 20 months - $2,000</div>
+      <div class="charge-row accessory">Accessory - 12 months - $1,200</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to interfere with public utilities without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps toward interference.</li>
+          <li>Intent existed but act was incomplete.</li>
         </ul>
       </div>
     </div>

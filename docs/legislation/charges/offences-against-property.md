@@ -2,7 +2,7 @@
 __***ALL CAPITAL OFFENCES ARE HUT CHARGES***__
 <div class="charges-container">
 
-   <!-- Theft -->
+  <!-- Theft -->
   <div class="charge misdemeanour-charge">
     <div class="misdemeanour"></div>
     <div class="charge-content">
@@ -19,6 +19,28 @@ __***ALL CAPITAL OFFENCES ARE HUT CHARGES***__
           <li>Defendant took property belonging to another.</li>
           <li>The act was without consent or legal right.</li>
           <li>Defendant intended to deprive the owner of the property.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Theft -->
+  <div class="charge misdemeanour-charge">
+    <div class="misdemeanour"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Theft (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 6 months - $500</div>
+      <div class="charge-row accomplice">Accomplice - 6 months - $500</div>
+      <div class="charge-row accessory">Accessory - 3 months - $300</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to take property without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took substantial steps to commit theft.</li>
+          <li>The act was intentional.</li>
+          <li>No actual deprivation of property occurred.</li>
         </ul>
       </div>
     </div>
@@ -46,6 +68,28 @@ __***ALL CAPITAL OFFENCES ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Burglary -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Burglary (FELONY)</div>
+      <div class="charge-row principal">Principal - 18 months - $2000</div>
+      <div class="charge-row accomplice">Accomplice - 18 months - $2000</div>
+      <div class="charge-row accessory">Accessory - 10 months - $1200</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to unlawfully enter a building to commit theft or another felony without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps toward unlawful entry.</li>
+          <li>Intent to commit a felony was present.</li>
+          <li>Entry was incomplete or unsuccessful.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Robbery -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -68,6 +112,28 @@ __***ALL CAPITAL OFFENCES ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Robbery -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Robbery (FELONY)</div>
+      <div class="charge-row principal">Principal - 24 months - $2500</div>
+      <div class="charge-row accomplice">Accomplice - 24 months - $2500</div>
+      <div class="charge-row accessory">Accessory - 14 months - $1500</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to take property by force or threat without completion.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant attempted to take property using force or threat.</li>
+          <li>The act was intentional.</li>
+          <li>No property was successfully taken.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Arson -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -85,6 +151,28 @@ __***ALL CAPITAL OFFENCES ARE HUT CHARGES***__
           <li>Defendant intentionally set fire to property.</li>
           <li>The fire caused or could have caused damage.</li>
           <li>The act was unlawful and deliberate.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Arson -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Arson (FELONY)</div>
+      <div class="charge-row principal">Principal - 30 months - $3500</div>
+      <div class="charge-row accomplice">Accomplice - 30 months - $3500</div>
+      <div class="charge-row accessory">Accessory - 18 months - $2100</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to set fire to property without causing damage.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took steps to set a fire.</li>
+          <li>Intent to damage property was present.</li>
+          <li>No actual damage occurred.</li>
         </ul>
       </div>
     </div>

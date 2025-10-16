@@ -24,6 +24,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Petty Larceny -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Petty Larceny (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 5 months - $250</div>
+      <div class="charge-row accomplice">Accomplice - 5 months - $250</div>
+      <div class="charge-row accessory">Accessory - 3 months - $150</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Taking substantial steps toward theft of property valued at $500 or less without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to take property unlawfully.</li>
+          <li>Substantial steps toward the act were taken.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Grand Larceny -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -41,6 +62,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>Defendant took property belonging to another.</li>
           <li>Property value exceeds $2,500.</li>
           <li>Act was intentional and unlawful.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Grand Larceny -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Grand Larceny (FELONY)</div>
+      <div class="charge-row principal">Principal - 15 months - $1,500</div>
+      <div class="charge-row accomplice">Accomplice - 15 months - $1,500</div>
+      <div class="charge-row accessory">Accessory - 9 months - $900</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Taking substantial steps toward theft of property exceeding $2,500 without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to take property unlawfully.</li>
+          <li>Substantial steps toward the act were taken.</li>
         </ul>
       </div>
     </div>
@@ -68,6 +110,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Possession of Stolen Property -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Possession of Stolen Property (FELONY)</div>
+      <div class="charge-row principal">Principal - 10 months - $1,000</div>
+      <div class="charge-row accomplice">Accomplice - 10 months - $1,000</div>
+      <div class="charge-row accessory">Accessory - 6 months - $600</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Substantial steps taken toward knowingly obtaining stolen goods without completing possession.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to possess stolen property.</li>
+          <li>Substantial steps toward possession were taken.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Armed Robbery -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -85,6 +148,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>Defendant took property by force, threat, or intimidation.</li>
           <li>Defendant was armed with a weapon.</li>
           <li>Act was intentional and unlawful.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Armed Robbery -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Armed Robbery (FELONY)</div>
+      <div class="charge-row principal">Principal - 25 months - $2,500</div>
+      <div class="charge-row accomplice">Accomplice - 25 months - $2,500</div>
+      <div class="charge-row accessory">Accessory - 15 months - $1,500</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Taking substantial steps toward committing armed robbery without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to commit armed robbery.</li>
+          <li>Substantial steps toward robbery were taken.</li>
         </ul>
       </div>
     </div>
@@ -112,6 +196,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted ATM Robbery -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted ATM Robbery (FELONY)</div>
+      <div class="charge-row principal">Principal - 22 months - $2,500</div>
+      <div class="charge-row accomplice">Accomplice - 22 months - $2,500</div>
+      <div class="charge-row accessory">Accessory - 13 months - $1,500</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Substantial steps toward robbing an ATM without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to commit ATM robbery.</li>
+          <li>Substantial steps toward the act were taken.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Vehicle Theft -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -129,6 +234,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>Defendant took or operated a vehicle without consent.</li>
           <li>Act was intentional and unlawful.</li>
           <li>Defendant intended permanent or temporary deprivation.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Vehicle Theft -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Vehicle Theft (FELONY)</div>
+      <div class="charge-row principal">Principal - 15 months - $1,500</div>
+      <div class="charge-row accomplice">Accomplice - 15 months - $1,500</div>
+      <div class="charge-row accessory">Accessory - 9 months - $900</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Taking substantial steps toward unlawfully taking or operating a vehicle without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to commit vehicle theft.</li>
+          <li>Substantial steps toward theft were taken.</li>
         </ul>
       </div>
     </div>
@@ -156,6 +282,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Mail Theft -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Mail Theft (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 6 months - $375</div>
+      <div class="charge-row accomplice">Accomplice - 6 months - $375</div>
+      <div class="charge-row accessory">Accessory - 3 months - $225</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Substantial steps toward stealing or tampering with mail without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to commit mail theft.</li>
+          <li>Substantial steps toward the act were taken.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Fraud -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -173,6 +320,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>Defendant made a false statement or misrepresentation.</li>
           <li>Intended to deceive another for personal gain.</li>
           <li>Another party relied on the deception.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Fraud -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Fraud (FELONY)</div>
+      <div class="charge-row principal">Principal - 12 months - $1,500</div>
+      <div class="charge-row accomplice">Accomplice - 12 months - $1,500</div>
+      <div class="charge-row accessory">Accessory - 8 months - $900</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Substantial steps toward committing fraud without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to commit fraud.</li>
+          <li>Substantial steps toward the act were taken.</li>
         </ul>
       </div>
     </div>
@@ -200,6 +368,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Forgery -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Forgery (FELONY)</div>
+      <div class="charge-row principal">Principal - 10 months - $1,000</div>
+      <div class="charge-row accomplice">Accomplice - 10 months - $1,000</div>
+      <div class="charge-row accessory">Accessory - 6 months - $600</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Substantial steps toward creating or using falsified documents without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to commit forgery.</li>
+          <li>Substantial steps toward the act were taken.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Counterfeiting -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -217,6 +406,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>Defendant produced or distributed counterfeit items.</li>
           <li>Intent to defraud or deceive was present.</li>
           <li>Act was unauthorized and unlawful.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Counterfeiting -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Counterfeiting (FELONY)</div>
+      <div class="charge-row principal">Principal - 15 months - $1,750</div>
+      <div class="charge-row accomplice">Accomplice - 15 months - $1,750</div>
+      <div class="charge-row accessory">Accessory - 9 months - $1,050</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Substantial steps toward creating or distributing counterfeit items without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to commit counterfeiting.</li>
+          <li>Substantial steps toward the act were taken.</li>
         </ul>
       </div>
     </div>
@@ -244,6 +454,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Identity Theft -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Identity Theft (FELONY)</div>
+      <div class="charge-row principal">Principal - 12 months - $1,250</div>
+      <div class="charge-row accomplice">Accomplice - 12 months - $1,250</div>
+      <div class="charge-row accessory">Accessory - 8 months - $750</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Substantial steps toward using another’s personal information without consent without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to commit identity theft.</li>
+          <li>Substantial steps toward the act were taken.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Insurance or Loan Fraud -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -261,6 +492,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>Defendant submitted false statements or documents.</li>
           <li>Intent was to gain money, property, or benefit unlawfully.</li>
           <li>Act was deliberate and unauthorized.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Insurance or Loan Fraud -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Insurance or Loan Fraud (FELONY)</div>
+      <div class="charge-row principal">Principal - 12 months - $1,250</div>
+      <div class="charge-row accomplice">Accomplice - 12 months - $1,250</div>
+      <div class="charge-row accessory">Accessory - 8 months - $750</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Substantial steps toward submitting false information for financial gain without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to commit insurance or loan fraud.</li>
+          <li>Substantial steps toward the act were taken.</li>
         </ul>
       </div>
     </div>
@@ -288,6 +540,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Embezzlement -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Embezzlement (FELONY)</div>
+      <div class="charge-row principal">Principal - 18 months - $1,500</div>
+      <div class="charge-row accomplice">Accomplice - 18 months - $1,500</div>
+      <div class="charge-row accessory">Accessory - 10 months - $900</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Substantial steps toward misappropriating funds without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to commit embezzlement.</li>
+          <li>Substantial steps toward the act were taken.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Money Laundering -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -310,6 +583,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Attempted Money Laundering -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Money Laundering (FELONY)</div>
+      <div class="charge-row principal">Principal - 20 months - $2,000</div>
+      <div class="charge-row accomplice">Accomplice - 20 months - $2,000</div>
+      <div class="charge-row accessory">Accessory - 12 months - $1,200</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Substantial steps toward laundering money without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to commit money laundering.</li>
+          <li>Substantial steps toward the act were taken.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Bribery of a Government Official -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -327,6 +621,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>Defendant offered or received a benefit to influence an official act.</li>
           <li>Act was intentional and unlawful.</li>
           <li>The official was performing duties at the time.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Bribery of a Government Official -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Bribery of a Government Official (FELONY)</div>
+      <div class="charge-row principal">Principal - 20 months - $2,500</div>
+      <div class="charge-row accomplice">Accomplice - 20 months - $2,500</div>
+      <div class="charge-row accessory">Accessory - 12 months - $1,500</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Substantial steps toward offering, giving, or receiving a bribe without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant intended to commit bribery.</li>
+          <li>Substantial steps toward the act were taken.</li>
         </ul>
       </div>
     </div>
