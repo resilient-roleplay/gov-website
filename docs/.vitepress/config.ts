@@ -83,7 +83,6 @@ export default {
           items: [
             { text: "Offenses Against Persons", link: "/legislation/charges/offences-against-persons" },
             { text: "Offenses Involving Theft and Deception", link: "/legislation/charges/offences-involving-theft-and-deception" },
-            { text: "Offenses Involving Fraud", link: "/legislation/charges/offences-involving-fraud" },
             { text: "Offenses Against Property", link: "/legislation/charges/offences-against-property" },
             { text: "Offenses Against Public Administration", link: "/legislation/charges/offences-against-public-administration" },
             { text: "Offenses Against Public Order", link: "/legislation/charges/offences-against-public-order" },

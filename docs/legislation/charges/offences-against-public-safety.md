@@ -2,28 +2,6 @@
 __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
 <div class="charges-container">
 
-  <!-- Treason -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Treason (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Acting to betray one’s country by levying war against it or aiding its enemies.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant committed an act of betrayal against the state.</li>
-          <li>The act involved intent to harm the government or aid its enemies.</li>
-          <li>The actions were deliberate and unlawful under national law.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
   <!-- Weapons Manufacturing -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -46,28 +24,7 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
-  <!-- Terrorism -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Terrorism (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Using violence, threats, or intimidation to achieve political, ideological, or social objectives.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant engaged in acts intended to intimidate or coerce.</li>
-          <li>The acts were aimed at political, social, or ideological goals.</li>
-          <li>The behavior created or intended to create fear among the public or government.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
+ 
   <!-- Harboring a Fugitive -->
   <div class="charge felony-charge">
     <div class="felony"></div>

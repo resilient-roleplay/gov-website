@@ -2,204 +2,63 @@
 __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
 <div class="charges-container">
 
-  <!-- 3rd Degree Speeding -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- Speeding (3rd Degree) -->
+  <div class="charge infraction-charge">
+    <div class="infraction"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">3rd Degree Speeding (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 0 months - $500</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $500</div>
-      <div class="charge-row accessory">Accessory - 0 months - $300</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Driving up to 15mph over the posted speed limit.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant exceeded the posted speed limit by up to 15mph.</li>
-          <li>Speeding was intentional or negligent.</li>
-        </ul>
-      </div>
+      <div class="charge-row charge-name">3rd Degree Speeding</div>
+      <div class="charge-row principal">0 months - $250</div>
+      <div class="charge-row accomplice">0 months - $250</div>
+      <div class="charge-row description">Operating a vehicle 10-20 mph over the posted speed limit.</div>
+      <div class="charge-row points">Radar evidence or officer observation confirming excess speed.</div>
     </div>
   </div>
 
-  <!-- Attempted 3rd Degree Speeding -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- Speeding (2nd Degree) -->
+  <div class="charge infraction-charge">
+    <div class="infraction"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Attempted 3rd Degree Speeding (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 0 months - $250</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $250</div>
-      <div class="charge-row accessory">Accessory - 0 months - $150</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Attempting to exceed the speed limit by up to 15mph without fully doing so.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took steps to drive over the posted speed limit by up to 15mph.</li>
-          <li>Actions demonstrated intent or reckless disregard.</li>
-        </ul>
-      </div>
+      <div class="charge-row charge-name">2nd Degree Speeding</div>
+      <div class="charge-row principal">0 months - $500</div>
+      <div class="charge-row accomplice">0 months - $500</div>
+      <div class="charge-row description">Operating a vehicle 20-40 mph over the posted speed limit.</div>
+      <div class="charge-row points">Radar or other speed detection confirming violation.</div>
     </div>
   </div>
 
-  <!-- 2nd Degree Speeding -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- Speeding (1st Degree) -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">2nd Degree Speeding (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 0 months - $1,000</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $1,000</div>
-      <div class="charge-row accessory">Accessory - 0 months - $600</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Driving 16–30mph over the posted speed limit.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant exceeded the posted speed limit by 16–30mph.</li>
-          <li>Speeding was intentional or negligent.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Attempted 2nd Degree Speeding -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted 2nd Degree Speeding (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 0 months - $500</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $500</div>
-      <div class="charge-row accessory">Accessory - 0 months - $300</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Attempting to drive 16–30mph over the posted speed limit without fully doing so.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took steps to exceed the speed limit by 16–30mph.</li>
-          <li>Actions demonstrated intent or reckless disregard.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- 1st Degree Speeding -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">1st Degree Speeding (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 0 months - $2,500</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $2,500</div>
-      <div class="charge-row accessory">Accessory - 0 months - $1,500</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Driving 31mph or more over the posted speed limit.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant exceeded the posted speed limit by 31mph or more.</li>
-          <li>Speeding was intentional or reckless.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Attempted 1st Degree Speeding -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted 1st Degree Speeding (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 0 months - $1,250</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $1,250</div>
-      <div class="charge-row accessory">Accessory - 0 months - $750</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Attempting to drive 31mph or more over the posted speed limit without fully doing so.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took steps to exceed the speed limit by 31mph or more.</li>
-          <li>Actions demonstrated intent or reckless disregard.</li>
-        </ul>
-      </div>
+      <div class="charge-row charge-name">1st Degree Speeding</div>
+      <div class="charge-row principal">10 months - $1,000</div>
+      <div class="charge-row accomplice">10 months - $1,000</div>
+      <div class="charge-row description">Operating a vehicle 40+ mph over the posted limit or engaging in dangerously excessive speed.</div>
+      <div class="charge-row points">Radar or witness testimony of extreme speed.</div>
     </div>
   </div>
 
   <!-- Reckless Driving -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Reckless Driving (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 10 months - $1,000</div>
-      <div class="charge-row accomplice">Accomplice - 10 months - $1,000</div>
-      <div class="charge-row accessory">Accessory - 6 months - $600</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Driving with reckless disregard for safety or traffic regulations.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant operated a vehicle in a reckless manner.</li>
-          <li>Actions created a significant risk of harm.</li>
-          <li>Reckless behavior was intentional or grossly negligent.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Attempted Reckless Driving -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Reckless Driving (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 5 months - $500</div>
-      <div class="charge-row accomplice">Accomplice - 5 months - $500</div>
-      <div class="charge-row accessory">Accessory - 3 months - $300</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Attempting to operate a vehicle recklessly without fully committing the act.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took steps toward reckless operation of a vehicle.</li>
-          <li>Actions demonstrated intent or gross negligence.</li>
-        </ul>
-      </div>
+      <div class="charge-row charge-name">Reckless Driving</div>
+      <div class="charge-row principal">15 months - $1,500</div>
+      <div class="charge-row accomplice">15 months - $1,500</div>
+      <div class="charge-row description">Driving with willful disregard for safety, including excessive speeding, swerving, or ignoring traffic signals.</div>
+      <div class="charge-row points">Officer observation or dashcam footage showing dangerous conduct.</div>
     </div>
   </div>
 
   <!-- Negligent Driving -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Negligent Driving (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 0 months - $500</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $500</div>
-      <div class="charge-row accessory">Accessory - 0 months - $300</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Operating a vehicle carelessly or without due consideration for traffic laws.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant failed to exercise reasonable care while driving.</li>
-          <li>Negligence created a risk of harm to others.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Attempted Negligent Driving -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Negligent Driving (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 0 months - $250</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $250</div>
-      <div class="charge-row accessory">Accessory - 0 months - $150</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Taking steps to drive carelessly or negligently without fully committing the act.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant acted in a way demonstrating a risk of negligent driving.</li>
-          <li>Actions demonstrated intent or failure to exercise care.</li>
-        </ul>
-      </div>
+      <div class="charge-row charge-name">Negligent Driving</div>
+      <div class="charge-row principal">10 months - $1,000</div>
+      <div class="charge-row accomplice">10 months - $1,000</div>
+      <div class="charge-row description">Operating a vehicle in a careless or inattentive manner causing potential danger to persons or property.</div>
+      <div class="charge-row points">Evidence of distraction, fatigue, or carelessness while driving.</div>
     </div>
   </div>
 
@@ -207,40 +66,11 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Driving Under the Influence (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 15 months - $1,500</div>
-      <div class="charge-row accomplice">Accomplice - 15 months - $1,500</div>
-      <div class="charge-row accessory">Accessory - 9 months - $900</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Operating a vehicle under the influence of alcohol, drugs, or other intoxicating substances.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant was operating a vehicle.</li>
-          <li>Influence of alcohol or drugs impaired driving ability.</li>
-          <li>Defendant knowingly drove while impaired.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Attempted DUI -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Driving Under the Influence (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 7 months - $750</div>
-      <div class="charge-row accomplice">Accomplice - 7 months - $750</div>
-      <div class="charge-row accessory">Accessory - 4 months - $450</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Taking steps to operate a vehicle while impaired without fully doing so.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant intended to operate a vehicle while impaired.</li>
-          <li>Actions demonstrated a risk to safety due to intoxication.</li>
-        </ul>
-      </div>
+      <div class="charge-row charge-name">Driving Under the Influence (DUI)</div>
+      <div class="charge-row principal">25 months - $2,500</div>
+      <div class="charge-row accomplice">25 months - $2,500</div>
+      <div class="charge-row description">Operating a motor vehicle while impaired by alcohol, narcotics, or controlled substances.</div>
+      <div class="charge-row points">Breathalyser, blood test, or officer observation of impairment.</div>
     </div>
   </div>
 
@@ -248,142 +78,143 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Hit and Run (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 20 months - $2,000</div>
-      <div class="charge-row accomplice">Accomplice - 20 months - $2,000</div>
-      <div class="charge-row accessory">Accessory - 12 months - $1,200</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Leaving the scene of an accident causing injury or damage without identifying oneself or rendering aid.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant was involved in a traffic accident.</li>
-          <li>Defendant failed to stop or provide assistance.</li>
-          <li>Actions were intentional or negligent.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Attempted Hit and Run -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Hit and Run (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 10 months - $1,000</div>
-      <div class="charge-row accomplice">Accomplice - 10 months - $1,000</div>
-      <div class="charge-row accessory">Accessory - 6 months - $600</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Taking steps to leave the scene of an accident without fully doing so.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant attempted to leave the scene of an accident without providing assistance.</li>
-          <li>Actions demonstrated intent or negligence.</li>
-        </ul>
-      </div>
+      <div class="charge-row charge-name">Hit and Run</div>
+      <div class="charge-row principal">30 months - $2,000</div>
+      <div class="charge-row accomplice">30 months - $2,000</div>
+      <div class="charge-row description">Leaving the scene of an accident without identifying oneself or assisting injured persons.</div>
+      <div class="charge-row points">Proof of accident involvement and subsequent flight from the scene.</div>
     </div>
   </div>
 
   <!-- Operating Without License -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Operating Without License (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 5 months - $500</div>
-      <div class="charge-row accomplice">Accomplice - 5 months - $500</div>
-      <div class="charge-row accessory">Accessory - 3 months - $300</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Driving without a valid driver’s license or while suspended.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant operated a vehicle.</li>
-          <li>No valid license was held.</li>
-          <li>Defendant knew or should have known they lacked a valid license.</li>
-        </ul>
-      </div>
+      <div class="charge-row charge-name">Operating a Vehicle Without a License</div>
+      <div class="charge-row principal">5 months - $1,000</div>
+      <div class="charge-row accomplice">5 months - $1,000</div>
+      <div class="charge-row description">Driving a motor vehicle without holding a valid driver’s license or permit.</div>
+      <div class="charge-row points">Driver record or absence of valid license documentation.</div>
     </div>
   </div>
 
-  <!-- Attempted Operating Without License -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Operating Without License (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 2 months - $250</div>
-      <div class="charge-row accomplice">Accomplice - 2 months - $250</div>
-      <div class="charge-row accessory">Accessory - 1 month - $150</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Taking steps to operate a vehicle without a valid license without fully committing the act.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant attempted to operate a vehicle without a valid license.</li>
-          <li>Actions demonstrated intent or negligence.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Additional Missing Charges -->
   <!-- Driving Without Insurance -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <div class="charge infraction-charge">
+    <div class="infraction"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Driving Without Insurance (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 5 months - $500</div>
-      <div class="charge-row accomplice">Accomplice - 5 months - $500</div>
-      <div class="charge-row accessory">Accessory - 3 months - $300</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Operating a vehicle without valid insurance coverage.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant operated a vehicle.</li>
-          <li>No valid insurance coverage was held.</li>
-        </ul>
-      </div>
+      <div class="charge-row charge-name">Driving Without Insurance</div>
+      <div class="charge-row principal">0 months - $750</div>
+      <div class="charge-row accomplice">0 months - $750</div>
+      <div class="charge-row description">Operating a vehicle without active insurance coverage as required by law.</div>
+      <div class="charge-row points">Verification of expired or absent insurance documents.</div>
     </div>
   </div>
 
   <!-- Unregistered Vehicle -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <div class="charge infraction-charge">
+    <div class="infraction"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Unregistered Vehicle (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 3 months - $300</div>
-      <div class="charge-row accomplice">Accomplice - 3 months - $300</div>
-      <div class="charge-row accessory">Accessory - 2 months - $150</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Operating a vehicle without valid registration.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant operated a vehicle.</li>
-          <li>No valid registration was in effect.</li>
-        </ul>
-      </div>
+      <div class="charge-row charge-name">Unregistered Vehicle</div>
+      <div class="charge-row principal">0 months - $500</div>
+      <div class="charge-row accomplice">0 months - $500</div>
+      <div class="charge-row description">Operating a vehicle not properly registered with the Department of Motor Vehicles.</div>
+      <div class="charge-row points">Expired registration or absence of valid license plate.</div>
     </div>
   </div>
 
-  <!-- Failure to Signal -->
+  <!-- Failure to Obey Traffic Control Device -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Failure to Obey Traffic Control Device</div>
+      <div class="charge-row principal">10 months - $1,000</div>
+      <div class="charge-row accomplice">10 months - $1,000</div>
+      <div class="charge-row description">Disobeying a traffic signal, stop sign, or road marking that regulates movement.</div>
+      <div class="charge-row points">Officer observation or traffic camera evidence of noncompliance.</div>
+    </div>
+  </div>
+
+  <!-- Illegal Window Tints -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Illegal Window Tints</div>
+      <div class="charge-row principal">10 months - $500</div>
+      <div class="charge-row accomplice">10 months - $500</div>
+      <div class="charge-row description">Applying or maintaining tints that excessively obscure visibility or identification of occupants.</div>
+      <div class="charge-row points">Measurement of tint opacity exceeding legal limit.</div>
+    </div>
+  </div>
+
+  <!-- Illegal Parking -->
+  <div class="charge infraction-charge">
+    <div class="infraction"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Illegal Parking</div>
+      <div class="charge-row principal">0 months - $250</div>
+      <div class="charge-row accomplice">0 months - $250</div>
+      <div class="charge-row description">Parking a vehicle in a restricted area, fire lane, or obstructing access.</div>
+      <div class="charge-row points">Officer citation and vehicle position evidence.</div>
+    </div>
+  </div>
+
+  <!-- Driving on Wrong Side of the Road -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Driving on the Wrong Side of the Road</div>
+      <div class="charge-row principal">10 months - $1,000</div>
+      <div class="charge-row accomplice">10 months - $1,000</div>
+      <div class="charge-row description">Operating a vehicle against designated traffic flow endangering others.</div>
+      <div class="charge-row points">Dashcam or officer observation showing wrong-lane driving.</div>
+    </div>
+  </div>
+
+  <!-- Street Racing -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Failure to Signal (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 0 months - $100</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $100</div>
-      <div class="charge-row accessory">Accessory - 0 months - $50</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Failing to use turn signals when required by law.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant did not signal when required.</li>
-          <li>Failure to signal created a risk of harm or confusion.</li>
-        </ul>
-      </div>
+      <div class="charge-row charge-name">Street Racing</div>
+      <div class="charge-row principal">35 months - $3,000</div>
+      <div class="charge-row accomplice">35 months - $3,000</div>
+      <div class="charge-row description">Engaging in an unauthorised high-speed race on public roads or highways.</div>
+      <div class="charge-row points">Evidence of organised or spontaneous racing behaviour.</div>
+    </div>
+  </div>
+
+  <!-- Attempted Street Racing -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Street Racing</div>
+      <div class="charge-row principal">15 months - $1,500</div>
+      <div class="charge-row accomplice">15 months - $1,500</div>
+      <div class="charge-row description">Preparing or initiating participation in a street race without completing the act.</div>
+      <div class="charge-row points">Officer observation or preparatory conduct (revving, blocking roads).</div>
+    </div>
+  </div>
+
+  <!-- Vehicular Evasion -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Vehicular Evasion</div>
+      <div class="charge-row principal">40 months - $3,500</div>
+      <div class="charge-row accomplice">40 months - $3,500</div>
+      <div class="charge-row description">Operating a vehicle with intent to flee from law enforcement attempting a lawful stop.</div>
+      <div class="charge-row points">Officer pursuit records, dashcam footage, or GPS logs showing active evasion.</div>
+    </div>
+  </div>
+
+  <!-- Attempted Vehicular Evasion -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Vehicular Evasion</div>
+      <div class="charge-row principal">20 months - $1,500</div>
+      <div class="charge-row accomplice">20 months - $1,500</div>
+      <div class="charge-row description">Beginning to evade or failing to stop for law enforcement without completing the escape.</div>
+      <div class="charge-row points">Initiation of flight, such as acceleration or maneuvering, followed by compliance or capture.</div>
     </div>
   </div>
 
