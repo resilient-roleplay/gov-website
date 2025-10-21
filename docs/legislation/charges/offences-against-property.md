@@ -134,49 +134,6 @@ __***ALL CAPITAL OFFENCES ARE HUT CHARGES***__
     </div>
   </div>
 
-  <!-- Arson -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Arson (FELONY)</div>
-      <div class="charge-row principal">Principal - 60 months - $7000</div>
-      <div class="charge-row accomplice">Accomplice - 60 months - $7000</div>
-      <div class="charge-row accessory">Accessory - 36 months - $4200</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Intentionally setting fire to property, causing damage or risk to others.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant intentionally set fire to property.</li>
-          <li>The fire caused or could have caused damage.</li>
-          <li>The act was unlawful and deliberate.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Attempted Arson -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Arson (FELONY)</div>
-      <div class="charge-row principal">Principal - 30 months - $3500</div>
-      <div class="charge-row accomplice">Accomplice - 30 months - $3500</div>
-      <div class="charge-row accessory">Accessory - 18 months - $2100</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Attempting to set fire to property without causing damage.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took steps to set a fire.</li>
-          <li>Intent to damage property was present.</li>
-          <li>No actual damage occurred.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
 
   <!-- Vandalism -->
   <div class="charge misdemeanour-charge">

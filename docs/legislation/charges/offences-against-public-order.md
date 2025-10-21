@@ -2,433 +2,306 @@
 __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
 <div class="charges-container">
 
-  <!-- Felony Possession of Human Remains -->
+  <!-- Riot -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Felony Possession of Human Remains (FELONY)</div>
-      <div class="charge-row principal">Principal - 50 months - $2,000</div>
+      <div class="charge-row charge-name">Riot (FELONY)</div>
+      <div class="charge-row principal">Principal - 18 months - $810</div>
+      <div class="charge-row accomplice">Accomplice - 18 months - $810</div>
+      <div class="charge-row accessory">Accessory - 15 months - $670</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Participating in a public disturbance involving a group of people that creates a risk of injury, property damage, or threat to public safety.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant participated in an assembly of three or more people.</li>
+          <li>The assembly engaged in violent, tumultuous, or threatening behavior.</li>
+          <li>The defendant knowingly contributed to the riotous activity.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Evidence Tampering -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Evidence Tampering (FELONY)</div>
+      <div class="charge-row principal">Principal - 15 months - $3500</div>
+      <div class="charge-row accomplice">Accomplice - 15 months - $3500</div>
+      <div class="charge-row accessory">Accessory - 12 months - $3000</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Altering, concealing, destroying, or fabricating evidence with intent to interfere with an investigation or legal proceeding.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant intentionally interfered with evidence.</li>
+          <li>The evidence was relevant to an official investigation or proceeding.</li>
+          <li>The defendant acted knowingly and with intent to obstruct justice.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+ <!-- Public Intoxication -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Public Intoxication (INFRACTION)</div>
+      <div class="charge-row principal">Principal - 5 months - $500</div>
+      <div class="charge-row accomplice">Accomplice - 5 months - $500</div>
+      <div class="charge-row accessory">Accessory - 3 months - $300</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Being visibly intoxicated in public to the point of causing disruption or risk to safety.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant was intoxicated in a public place.</li>
+          <li>The intoxication posed risk or disruption to public safety.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Destruction of Government Property -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Destruction of Government Property (FELONY)</div>
+      <div class="charge-row principal">Principal - 10 months - $600</div>
       <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
       <div class="charge-row accessory">Accessory - 0 months - $0</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Knowingly possessing, concealing, or transporting human remains without lawful authority or consent.
+        Intentionally damaging, defacing, or destroying property owned or maintained by the government.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant had possession or control of human remains.</li>
-          <li>There was no lawful reason or authorization for such possession.</li>
-          <li>The defendant was aware or should reasonably have been aware of the nature of the remains.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Attempted Felony Possession of Human Remains -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Felony Possession of Human Remains (FELONY)</div>
-      <div class="charge-row principal">Principal - 25 months - $1,000</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Attempting to possess, conceal, or transport human remains without completing the act.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took steps to possess human remains.</li>
-          <li>Intent existed but the act was not fully executed.</li>
-          <li>No lawful authority existed for attempted possession.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Forgery of Medical Documents -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Forgery of Medical Documents (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 45 months - $2,000</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Knowingly falsifying or altering official medical documentation for unlawful benefit or deception.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The document was medical or health-related in nature.</li>
-          <li>The defendant knowingly falsified, forged, or altered the document.</li>
-          <li>The intent was to deceive, defraud, or obtain an unlawful advantage.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Attempted Forgery of Medical Documents -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Forgery of Medical Documents (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 22 months - $1,000</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Attempting to falsify or alter medical documents without fully completing the act.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took steps toward falsifying a document.</li>
-          <li>Intent existed but the act was incomplete.</li>
-          <li>No lawful authority existed for attempted forgery.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Animal Cruelty -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Animal Cruelty (FELONY)</div>
-      <div class="charge-row principal">Principal - 24 months - $1,800</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Intentionally causing harm, neglect, or unnecessary suffering to an animal under one’s care or control.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant acted upon an animal under their control or supervision.</li>
-          <li>The actions were intentional, reckless, or grossly negligent.</li>
-          <li>The conduct caused unnecessary suffering or risk of injury to the animal.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Attempted Animal Cruelty -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Animal Cruelty (FELONY)</div>
-      <div class="charge-row principal">Principal - 12 months - $900</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Attempting to harm, neglect, or cause suffering to an animal without completing the act.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took steps toward harming an animal.</li>
-          <li>Intent existed but the act was incomplete.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Desecration of a Human Corpse -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Desecration of a Human Corpse (FELONY)</div>
-      <div class="charge-row principal">Principal - 18 months - $680</div>
-      <div class="charge-row accomplice">Accomplice - 18 months - $680</div>
-      <div class="charge-row accessory">Accessory - 15 months - $510</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Knowingly disrespecting, mutilating, or interfering with a human corpse without lawful authority.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant intentionally interfered with a corpse.</li>
-          <li>No legal authorization existed for such interference.</li>
-          <li>The act was deliberate and intended to desecrate.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Attempted Desecration of a Human Corpse -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Desecration of a Human Corpse (FELONY)</div>
-      <div class="charge-row principal">Principal - 9 months - $340</div>
-      <div class="charge-row accomplice">Accomplice - 9 months - $340</div>
-      <div class="charge-row accessory">Accessory - 8 months - $255</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Attempting to interfere with or desecrate a human corpse without fully completing the act.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took steps to interfere with a corpse.</li>
-          <li>Intent existed but the act was incomplete.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Illegal Exhumation -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Illegal Exhumation (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Exhuming a human body or remains without proper legal authorization or permit.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant removed or attempted to remove human remains.</li>
-          <li>No legal authorization or permit existed for exhumation.</li>
+          <li>The property belonged to a government entity.</li>
+          <li>The defendant caused damage or destruction.</li>
           <li>The act was intentional and unauthorized.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Attempted Illegal Exhumation -->
+  <!-- Felony Obstruction of Justice -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Illegal Exhumation (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
+      <div class="charge-row charge-name">Felony Obstruction of Justice (FELONY)</div>
+      <div class="charge-row principal">Principal - 24 months - $900</div>
+      <div class="charge-row accomplice">Accomplice - 24 months - $900</div>
+      <div class="charge-row accessory">Accessory - 20 months - $750</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Attempting to exhume a human body or remains without completing the act or without authorization.
+        Acting to impede or interfere with the administration of justice, including influencing witnesses or tampering with investigations.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant took steps toward exhumation.</li>
-          <li>No legal permit existed.</li>
+          <li>The defendant knowingly took steps to obstruct justice.</li>
+          <li>The obstruction was related to an ongoing investigation or legal proceeding.</li>
+          <li>The act was intentional and unauthorized.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Possession of 2nd Degree Controlled Substance -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- DISOBEYING A PEACE OFFICER (MISDEMEANOR) -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Possession of 2nd Degree Controlled Substance (FELONY)</div>
-      <div class="charge-row principal">Principal - 15 months - $1,000</div>
-      <div class="charge-row accomplice">Accomplice - 15 months - $1,000</div>
-      <div class="charge-row accessory">Accessory - 9 months - $600</div>
+      <div class="charge-row charge-name">Disobeying a Peace Officer (MISDEMEANOR)</div>
+      <div class="charge-row principal">Principal - 7 months - $240</div>
+      <div class="charge-row accomplice">Accomplice - 7 months - $240</div>
+      <div class="charge-row accessory">Accessory - 6 months - $168</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Possessing a small quantity of an illegal controlled substance.
+        Failing to comply with lawful commands or instructions issued by a peace officer.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant knowingly possessed the substance.</li>
-          <li>Substance is classified as a 2nd degree controlled substance.</li>
-          <li>Possession was without lawful authorization.</li>
+          <li>The defendant received a lawful order from a peace officer.</li>
+          <li>The defendant intentionally refused or ignored the order.</li>
+          <li>The disobedience occurred knowingly and without legal justification.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Attempted Possession of 2nd Degree Controlled Substance -->
+  <!-- Disorderly Conduct -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Possession of 2nd Degree Controlled Substance (FELONY)</div>
-      <div class="charge-row principal">Principal - 8 months - $500</div>
-      <div class="charge-row accomplice">Accomplice - 8 months - $500</div>
-      <div class="charge-row accessory">Accessory - 5 months - $300</div>
+      <div class="charge-row charge-name">Disorderly Conduct (INFRACTION)</div>
+      <div class="charge-row principal">Principal - 5 months - $500</div>
+      <div class="charge-row accomplice">Accomplice - 5 months - $500</div>
+      <div class="charge-row accessory">Accessory - 3 months - $300</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Attempting to possess a 2nd degree controlled substance without fully completing the act.
+        Acting in a disruptive, abusive, or violent manner that disturbs public peace or safety.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant took steps toward possession of the substance.</li>
-          <li>Intent existed but possession was incomplete.</li>
+          <li>The defendant engaged in disruptive or abusive conduct.</li>
+          <li>The conduct disturbed public peace or safety.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Possession of 1st Degree Controlled Substance -->
+  <!-- Disturbing the Peace -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Possession of 1st Degree Controlled Substance (FELONY)</div>
-      <div class="charge-row principal">Principal - 25 months - $2,500</div>
-      <div class="charge-row accomplice">Accomplice - 25 months - $2,500</div>
-      <div class="charge-row accessory">Accessory - 15 months - $1,500</div>
+      <div class="charge-row charge-name">Disturbing the Peace (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 8 months - $750</div>
+      <div class="charge-row accomplice">Accomplice - 8 months - $750</div>
+      <div class="charge-row accessory">Accessory - 5 months - $450</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Possessing a large quantity of an illegal controlled substance.
+        Engaging in loud, unruly, or disruptive behaviour that interferes with public order.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant knowingly possessed the substance.</li>
-          <li>Quantity indicates intent for distribution or serious offense.</li>
-          <li>Possession was unlawful and without authorization.</li>
+          <li>The defendant caused a disturbance through noise or actions.</li>
+          <li>The behaviour disrupted public order or peace.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Attempted Possession of 1st Degree Controlled Substance -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- False Reporting -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Possession of 1st Degree Controlled Substance (FELONY)</div>
-      <div class="charge-row principal">Principal - 12 months - $1,250</div>
-      <div class="charge-row accomplice">Accomplice - 12 months - $1,250</div>
-      <div class="charge-row accessory">Accessory - 8 months - $750</div>
+      <div class="charge-row charge-name">False Reporting (MISDEMEANOR)</div>
+      <div class="charge-row principal">Principal - 7 months - $240</div>
+      <div class="charge-row accomplice">Accomplice - 7 months - $240</div>
+      <div class="charge-row accessory">Accessory - 6 months - $168</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Attempting to possess a large quantity of a controlled substance without completing the act.
+        Making a knowingly false report to law enforcement or public authorities.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant took steps toward possession.</li>
-          <li>Intent existed but possession was incomplete.</li>
+          <li>The defendant provided information to authorities.</li>
+          <li>The information was knowingly false.</li>
+          <li>The act was intended to mislead, obstruct, or cause investigation into non-existent events.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Prescription Without Script -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- Harassment -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Prescription Without Script (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 10 months - $750</div>
-      <div class="charge-row accomplice">Accomplice - 10 months - $750</div>
-      <div class="charge-row accessory">Accessory - 6 months - $450</div>
+      <div class="charge-row charge-name">Harassment (MISDEMEANOR)</div>
+      <div class="charge-row principal">Principal - 7 months - $240</div>
+      <div class="charge-row accomplice">Accomplice - 7 months - $240</div>
+      <div class="charge-row accessory">Accessory - 6 months - $168</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Possessing or carrying prescription medication without a valid prescription.
+        Engaging in repeated or targeted behavior intended to annoy, intimidate, or alarm another individual.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant possessed prescription medication.</li>
-          <li>No valid prescription was provided.</li>
-          <li>Possession was unauthorized and unlawful.</li>
+          <li>The defendant acted repeatedly or persistently.</li>
+          <li>The actions were intended to cause distress or fear.</li>
+          <li>The behavior was unwelcome and without legal justification.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Attempted Prescription Without Script -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- Misdemeanor Obstruction of Justice -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Prescription Without Script (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 5 months - $375</div>
-      <div class="charge-row accomplice">Accomplice - 5 months - $375</div>
-      <div class="charge-row accessory">Accessory - 3 months - $225</div>
+      <div class="charge-row charge-name">Misdemeanor Obstruction of Justice (MISDEMEANOR)</div>
+      <div class="charge-row principal">Principal - 12 months - $400</div>
+      <div class="charge-row accomplice">Accomplice - 12 months - $400</div>
+      <div class="charge-row accessory">Accessory - 10 months - $340</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Attempting to possess prescription medication without authorization, without fully completing the act.
+        Interfering with a law enforcement investigation in a minor or non-felony capacity.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant took steps to possess prescription medication.</li>
-          <li>Intent existed but possession was incomplete.</li>
+          <li>The defendant knowingly acted to impede a minor investigation.</li>
+          <li>The interference did not rise to felony-level obstruction.</li>
+          <li>The act was intentional and without lawful excuse.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Criminal Transaction of Drugs -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- Vandalism -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Criminal Transaction of Drugs (FELONY)</div>
-      <div class="charge-row principal">Principal - 35 months - $2,500</div>
-      <div class="charge-row accomplice">Accomplice - 35 months - $2,500</div>
-      <div class="charge-row accessory">Accessory - 21 months - $1,500</div>
+      <div class="charge-row charge-name">Vandalism (MISDEMEANOR)</div>
+      <div class="charge-row principal">Principal - 0 months - $110</div>
+      <div class="charge-row accomplice">Accomplice - 0 months - $110</div>
+      <div class="charge-row accessory">Accessory - 0 months - $80</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Conducting or facilitating an illegal exchange of controlled substances for value.
+        Damaging, defacing, or destroying property without authorization.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant engaged in sale or distribution of illegal drugs.</li>
-          <li>Transaction was for financial gain or value.</li>
-          <li>Defendant acted knowingly and without authorization.</li>
+          <li>The defendant intentionally damaged property.</li>
+          <li>The property was not owned by the defendant.</li>
+          <li>The act was unauthorized and deliberate.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Attempted Criminal Transaction of Drugs -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- Vandalism of Government Property -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Criminal Transaction of Drugs (FELONY)</div>
-      <div class="charge-row principal">Principal - 18 months - $1,250</div>
-      <div class="charge-row accomplice">Accomplice - 18 months - $1,250</div>
-      <div class="charge-row accessory">Accessory - 11 months - $750</div>
+      <div class="charge-row charge-name">Vandalism of Government Property (MISDEMEANOR)</div>
+      <div class="charge-row principal">Principal - 5 months - $400</div>
+      <div class="charge-row accomplice">Accomplice - 5 months - $400</div>
+      <div class="charge-row accessory">Accessory - 4 months - $270</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Attempting to conduct or facilitate the illegal exchange of controlled substances without completing the act.
+        Defacing, damaging, or destroying government-owned property without permission.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant took steps toward an illegal transaction.</li>
-          <li>Intent existed but the transaction was incomplete.</li>
+          <li>The property was owned by a government entity.</li>
+          <li>The defendant intentionally caused damage.</li>
+          <li>The act was unauthorized and deliberate.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Drug Trafficking -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- Stalking -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Drug Trafficking (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
+      <div class="charge-row charge-name">Stalking (MISDEMEANOR)</div>
+      <div class="charge-row principal">Principal - 7 months - $110</div>
+      <div class="charge-row accomplice">Accomplice - 7 months - $110</div>
+      <div class="charge-row accessory">Accessory - 6 months - $90</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Manufacturing, distributing, or transporting illegal drugs or controlled substances.
+        Repeatedly following, monitoring, or harassing another individual in a way that causes fear or distress.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant knowingly engaged in production, transport, or distribution.</li>
-          <li>Substances involved are illegal controlled substances.</li>
-          <li>Act was deliberate and without legal authority.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Attempted Drug Trafficking -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Drug Trafficking (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Attempting to manufacture, distribute, or transport illegal drugs without completing the act.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took steps toward trafficking.</li>
-          <li>Intent existed but act was incomplete.</li>
+          <li>The defendant engaged in repeated or continuous behavior targeting a specific person.</li>
+          <li>The actions were likely to cause fear, distress, or emotional harm.</li>
+          <li>The conduct was intentional and unwelcome.</li>
         </ul>
       </div>
     </div>
