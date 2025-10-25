@@ -5,6 +5,7 @@ export default {
   cleanUrls: true,
   // If this is disabled, when building it it will give deadlink errors if your markdown has the wrong links
   ignoreDeadLinks: true,
+  appearance: false, // Disable theme toggle completely
   
   themeConfig: {
     logo: "/logo-big.png",
@@ -47,6 +48,7 @@ export default {
       collapsible: false,
       collapsed: false,
       items: [
+        { text: "Updates & Amendments", link: "/legislation/updates" },
         /* { text: "Setup", link: "/legislation/setup" }, */
         {
           text: "Legislation",
