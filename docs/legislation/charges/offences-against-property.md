@@ -162,7 +162,7 @@ __***ALL CAPITAL OFFENCES ARE HUT CHARGES***__
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Felony Trespassing (FELONY)</div>
-      <div class="charge-row principal">Principal - 15 months - $1500</div>
+      <div class="charge-row principal">Principal - 30 months - $3000</div>
       <div class="charge-row accomplice">Accomplice - 15 months - $1500</div>
       <div class="charge-row accessory">Accessory - 9 months - $900</div>
       <div class="charge-description">

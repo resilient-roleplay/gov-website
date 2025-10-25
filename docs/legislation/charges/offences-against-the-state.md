@@ -90,49 +90,6 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
-  <!-- Possession of Explosives -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Possession of Explosives (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Possessing or manufacturing explosive or incendiary devices without lawful authority or for unlawful purposes.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant possessed or manufactured explosives.</li>
-          <li>No lawful authority or permission existed.</li>
-          <li>Possession or manufacturing was intentional and unlawful.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Attempted Possession of Explosives -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Possession of Explosives (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Taking substantial steps toward possessing or manufacturing explosives without completing the act.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took deliberate steps to possess or manufacture explosives.</li>
-          <li>No lawful authority existed.</li>
-          <li>Acts were intentional and unlawful.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
 
   <!-- Bomb Threat -->
   <div class="charge felony-charge">

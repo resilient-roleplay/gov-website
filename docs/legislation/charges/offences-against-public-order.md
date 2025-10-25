@@ -102,6 +102,53 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+<!-- Illegal Gambling -->
+<div class="charge misdemeanor">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Illegal Gambling</div>
+    <div class="charge-row principal">15 months - $5000</div>
+    <div class="charge-row accomplice">15 months - $5000</div>
+    <div class="charge-row accessory">9 months - $500</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Engaging in or operating an unlicensed gambling activity, including underground betting, fight clubs, or wagering events without state authorization.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant participated in, organized, or facilitated a gambling activity.</li>
+        <li>The gambling operation lacked proper authorization or licensing.</li>
+        <li>The activity involved monetary bets, wagers, or prizes of value.</li>
+        <li>The defendant acted knowingly and without lawful justification.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Aiding and Abetting -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Aiding and Abetting</div>
+    <div class="charge-row principal">15onths - $800/div>
+    <div class="charge-row accomplice">20 months - $1000</div>
+    <div class="charge-row accessory">15 months - $750</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Aiding and Abetting occurs when an individual intentionally assists, supports, encourages, or facilitates another person in the commission of a criminal offense. The aider or abettor shares criminal responsibility with the principal offender, even if they did not personally commit the main act.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>A crime was committed by another person (the principal offender).</li>
+        <li>The defendant knowingly aided, assisted, encouraged, or facilitated the commission of that crime.</li>
+        <li>The defendant acted with intent to promote or assist in the offense’s success.</li>
+        <li>The defendant’s actions or words contributed to the commission or attempted commission of the offense.</li>
+        <li>The defendant was aware of the criminal intent or unlawful purpose of the principal offender.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
   <!-- False Reporting -->
   <div class="charge misdemeanor-charge">
     <div class="misdemeanor"></div>

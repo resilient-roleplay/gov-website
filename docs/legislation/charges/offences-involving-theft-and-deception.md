@@ -755,6 +755,28 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+<!-- Joyriding -->
+<div class="charge misdemeanor">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Joyriding</div>
+    <div class="charge-row principal">15 months - $600</div>
+    <div class="charge-row accomplice">15 months - $600</div>
+    <div class="charge-row accessory">10 months - $400</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Taking or operating another person’s vehicle without consent but without intent to permanently deprive the owner of it.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant took or operated a vehicle belonging to another person.</li>
+        <li>The act occurred without the owner’s consent.</li>
+        <li>The defendant did not intend to permanently steal the vehicle.</li>
+        <li>The vehicle was moved or operated unlawfully.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 
   <!-- Bribery of a Government Official -->

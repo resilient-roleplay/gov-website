@@ -194,28 +194,50 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
-  <!-- Vehicular Evasion -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Vehicular Evasion</div>
-      <div class="charge-row principal">40 months - $3,500</div>
-      <div class="charge-row accomplice">40 months - $3,500</div>
-      <div class="charge-row description">Operating a vehicle with intent to flee from law enforcement attempting a lawful stop.</div>
-      <div class="charge-row points">Officer pursuit records, dashcam footage, or GPS logs showing active evasion.</div>
+  <!-- Evading -->
+<div class="charge misdemeanor">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Evading</div>
+    <div class="charge-row principal">15 months - $800</div>
+    <div class="charge-row accomplice">15 months - $800</div>
+    <div class="charge-row accessory">12 months - $600</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Failing to stop or fleeing from a lawful police signal or command.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>A law enforcement officer gave a lawful signal or command to stop.</li>
+        <li>The defendant was aware of that command.</li>
+        <li>The defendant willfully failed to comply or fled.</li>
+        <li>The officer was acting in the lawful execution of duty.</li>
+      </ul>
     </div>
   </div>
+</div>
 
-  <!-- Attempted Vehicular Evasion -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Vehicular Evasion</div>
-      <div class="charge-row principal">20 months - $1,500</div>
-      <div class="charge-row accomplice">20 months - $1,500</div>
-      <div class="charge-row description">Beginning to evade or failing to stop for law enforcement without completing the escape.</div>
-      <div class="charge-row points">Initiation of flight, such as acceleration or maneuvering, followed by compliance or capture.</div>
+<!-- Reckless Evading -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Reckless Evading</div>
+    <div class="charge-row principal">25 months - $1500</div>
+    <div class="charge-row accomplice">25 months - $1500</div>
+    <div class="charge-row accessory">20 months - $1200</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Fleeing from law enforcement while operating a vehicle in a reckless or dangerous manner that endangers others.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>A law enforcement officer issued a lawful signal to stop.</li>
+        <li>The defendant willfully fled or attempted to flee.</li>
+        <li>The defendant operated a vehicle recklessly or dangerously during the flight.</li>
+        <li>The conduct created a substantial risk to others or property.</li>
+      </ul>
     </div>
   </div>
+</div>
 
 </div>
