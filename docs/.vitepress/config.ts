@@ -65,6 +65,7 @@ export default {
             { text: "First Time Felony Diversion Program Act", link: "/legislation/fdp" },
             { text: "Impeachment and Authority Conduct Review Act", link: "/legislation/impeachment-acr" },
             { text: "Freedom of Information Act", link: "/legislation/foia" },
+            { text: "Controlled Substances and Narcotics Act (CSNA)", link: "/legislation/CSNA" },
             { text: "Medical Information Privacy and Protection Act (MIPPA)", link: "/legislation/mippa" },
             { text: "DNA Legislation Act", link: "/legislation/dna" },
             { text: "Statute of Limitations Legislation", link: "/legislation/statute" },
