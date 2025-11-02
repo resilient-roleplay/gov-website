@@ -1,209 +1,166 @@
-<!-- Controlled Substances and Narcotics Act (CSNA) -->
-<div class="legislation-container">
-  <h1>CSNA: Controlled Substances and Narcotics Act</h1>
-  <h3>State of San Andreas – State Register of Laws</h3>
+# CSNA: Controlled Substances and Narcotics Act  
+### State of San Andreas – State Register of Laws  
 
-  <section class="legislation-intro">
-    <h2>Introduction and Purpose</h2>
-    <p>
-      The <strong>Controlled Substances and Narcotics Act (CSNA)</strong> establishes the legal framework for the control, regulation, and enforcement of drug-related offenses within the <strong>State of San Andreas</strong>.
-      Its purpose is to protect public health and safety by defining lawful use, regulating medical access, and imposing proportionate penalties for unlawful possession, manufacture, and distribution of controlled substances.
-    </p>
-    <p>
-      This Act promotes fairness and accountability, focusing on rehabilitation for minor offenses and strict penalties for trafficking and organized criminal activity. Enforcement is led by the
-      <strong>Los Santos Police Department (LSPD)</strong>, the <strong>San Andreas State Troopers (SAST)</strong>, and prosecuted under the <strong>Department of Justice (DOJ)</strong>.
-    </p>
-  </section>
+---
 
-  <section>
-    <h2>Constitutional Justification</h2>
-    <p>
-      This legislation is enacted under the authority of the <strong>State Constitution of San Andreas</strong>, empowering the State to protect public welfare and regulate controlled substances.
-      It upholds citizens’ <strong>Right to Due Process</strong> and ensures that penalties remain consistent, fair, and proportionate to the nature of the offense.
-    </p>
-  </section>
+## Introduction and Purpose  
 
-  <details open>
-    <summary><strong>Article I – Classification of Controlled Substances</strong></summary>
-    <p>
-      Controlled substances are classified into five schedules based on medical use, potential for abuse, and dependency risk.
-    </p>
-    <table>
-      <thead>
-        <tr><th>Schedule</th><th>Classification</th><th>Description</th></tr>
-      </thead>
-      <tbody>
-        <tr><td>I</td><td>Prohibited Substances</td><td>No accepted medical use; extremely high potential for abuse.</td></tr>
-        <tr><td>II</td><td>Restricted Medical Substances</td><td>Limited medical use; high potential for dependency.</td></tr>
-        <tr><td>III</td><td>Regulated Medical Substances</td><td>Medical use permitted; moderate potential for misuse.</td></tr>
-        <tr><td>IV</td><td>Controlled Prescription Substances</td><td>Commonly prescribed; lower abuse potential.</td></tr>
-        <tr><td>V</td><td>Minimal-Control Substances</td><td>Low-risk or therapeutic substances; permitted under regulation.</td></tr>
-      </tbody>
-    </table>
-  </details>
+The **Controlled Substances and Narcotics Act (CSNA)** establishes the statewide legal framework for the **classification, possession, cultivation, and distribution of controlled substances** within the **State of San Andreas**.  
 
-  <details>
-    <summary><strong>Article II – Substance Reference Schedule</strong></summary>
-    <table>
-      <thead>
-        <tr><th>Schedule</th><th>Substance</th><th>Examples</th><th>Legal Status</th></tr>
-      </thead>
-      <tbody>
-        <tr><td>I</td><td>Heroin</td><td>Black tar heroin</td><td>Fully prohibited.</td></tr>
-        <tr><td>I</td><td>Methamphetamine</td><td>Crystal meth, “ice”</td><td>Fully prohibited.</td></tr>
-        <tr><td>I</td><td>LSD / PCP / MDMA</td><td>Acid, angel dust, ecstasy</td><td>Fully prohibited hallucinogens.</td></tr>
-        <tr><td>I</td><td>Crack Cocaine</td><td>Cocaine base</td><td>Fully prohibited.</td></tr>
-        <tr><td>II</td><td>Cocaine Hydrochloride</td><td>Medical cocaine topical</td><td>Hospital-use only.</td></tr>
-        <tr><td>II</td><td>Oxycodone / Fentanyl</td><td>OxyContin, fentanyl patches</td><td>Prescription only.</td></tr>
-        <tr><td>II</td><td>Morphine / Metamorphine</td><td>Pain management</td><td>Prescription only.</td></tr>
-        <tr><td>III</td><td>Ketamine</td><td>Veterinary anesthetic</td><td>Prescription required.</td></tr>
-        <tr><td>III</td><td>Codeine Mixtures</td><td>Co-codamol, low-dose syrups</td><td>Controlled prescription.</td></tr>
-        <tr><td>III</td><td>Anabolic Steroids</td><td>Testosterone, nandrolone</td><td>Regulated use only.</td></tr>
-        <tr><td>IV</td><td>Diazepam / Alprazolam</td><td>Valium, Xanax</td><td>Prescription medication.</td></tr>
-        <tr><td>IV</td><td>Tramadol / Zolpidem</td><td>Pain relief / sleep aid</td><td>Controlled prescription only.</td></tr>
-        <tr><td>V</td><td>Cannabis (Marijuana)</td><td>Dried flower, resin, oil</td><td>Legal under state limits (see Article IX).</td></tr>
-        <tr><td>V</td><td>CBD Products</td><td>Non-psychoactive cannabis</td><td>Fully legal under regulation.</td></tr>
-        <tr><td>V</td><td>Cough Syrups (Codeine-based)</td><td>Mild opioid content</td><td>Regulated sale only.</td></tr>
-      </tbody>
-    </table>
-  </details>
+This legislation regulates substances that may be harmful to public health, ensuring that they are used only under lawful, medical, or licensed circumstances. It defines the limits of lawful possession, cultivation, and sale, and creates a structured approach for enforcement and judicial review.  
 
-  <details>
-    <summary><strong>Article III – Possession and Personal Use</strong></summary>
-    <ul>
-      <li>Possession of a <strong>Schedule I</strong> substance is strictly prohibited.</li>
-      <li>Possession of any controlled substance requires valid prescription, license, or authorization.</li>
-      <li>Possession limits:
-        <ul>
-          <li>Schedule II–III: Up to 14-day prescribed supply.</li>
-          <li>Schedule IV–V: Up to 30-day prescribed supply.</li>
-        </ul>
-      </li>
-      <li>Exceeding these limits constitutes <em>Unlawful Possession of a Controlled Substance</em>.</li>
-      <li>Intent to distribute without license constitutes <em>Drug Trafficking</em>.</li>
-    </ul>
-  </details>
+At present, **Cannabis (Marijuana)** is the only controlled substance recognized under this Act, with the framework allowing for future expansion as additional narcotics enter circulation.  
 
-  <details>
-    <summary><strong>Article IV – Manufacture, Sale, and Distribution</strong></summary>
-    <ul>
-      <li>Unlicensed manufacture or packaging of controlled substances constitutes <strong>Illegal Manufacture of Narcotics</strong>.</li>
-      <li>Unlicensed sale or supply constitutes <strong>Drug Trafficking</strong>.</li>
-      <li>Enhanced penalties apply for offenses near <strong>schools, hospitals, or public institutions</strong>.</li>
-      <li>Possession of production materials without authorization constitutes <strong>Possession of Drug Paraphernalia</strong>.</li>
-    </ul>
-  </details>
+---
 
-  <details>
-    <summary><strong>Article V – Medical and Pharmaceutical Regulation</strong></summary>
-    <ul>
-      <li>Licensed practitioners and pharmacists may prescribe and distribute controlled substances.</li>
-      <li>Prescriptions must include patient details, substance, dosage, duration, and license signature.</li>
-      <li>Forgery or unlawful acquisition of prescriptions constitutes <strong>Prescription Fraud</strong>.</li>
-      <li>Pharmacies must retain prescription records for <strong>five (5) years</strong>.</li>
-    </ul>
-  </details>
+## Constitutional Justification  
 
-  <details>
-    <summary><strong>Article VI – Enforcement Authority</strong></summary>
-    <ul>
-      <li><strong>LSPD</strong> – City jurisdiction and narcotics investigations.</li>
-      <li><strong>SAST</strong> – Statewide enforcement and interdiction.</li>
-      <li><strong>DOJ</strong> – Prosecution and judicial oversight.</li>
-      <li>LSPD Narcotics Division leads city-based operations; SAST handles inter-county and highway cases.</li>
-      <li>DOJ Narcotics Division coordinates large-scale investigations and prosecutions.</li>
-    </ul>
-  </details>
+This legislation is enacted under the authority of the **State Constitution of San Andreas**, granting the State the power to regulate matters of **public health, safety, and welfare**.  
 
-  <details>
-    <summary><strong>Article VII – Seizure and Forfeiture</strong></summary>
-    <ul>
-      <li>Assets used in trafficking or manufacture may be seized under <strong>State Asset Forfeiture Laws</strong>.</li>
-      <li>Property remains under DOJ custody pending court review.</li>
-      <li>Lawful property is restored upon acquittal or dismissal.</li>
-    </ul>
-  </details>
+The Act protects citizens’ **Right to Liberty** and **Right to Due Process** while enabling proportionate enforcement and penalties for violations.  
 
-  <details>
-    <summary><strong>Article VIII – Rehabilitation and Diversion</strong></summary>
-    <ul>
-      <li>First-time offenders for Schedule III–V possession may enter <strong>rehabilitation programs</strong>.</li>
-      <li>Successful completion may result in case dismissal or record sealing.</li>
-      <li>Diversion is unavailable for trafficking or manufacture offenses.</li>
-    </ul>
-  </details>
+---
 
-  <details>
-    <summary><strong>Article IX – Cannabis Possession and Cultivation</strong></summary>
-    <ul>
-      <li><strong>Cannabis (marijuana)</strong> is classified as a Schedule V substance.</li>
-      <li>Legal personal possession limits:
-        <ul>
-          <li>Up to <strong>5 joints</strong> per individual.</li>
-          <li>Up to <strong>10 bagged units</strong> of cannabis flower.</li>
-          <li>Up to <strong>3 cannabis plants</strong> per household.</li>
-        </ul>
-      </li>
-      <li>Exceeding these limits constitutes:
-        <ul>
-          <li><em>Over 5 joints:</em> Misdemeanor – Possession Over Personal Limit.</li>
-          <li><em>Over 10 bags:</em> Felony – Possession for Distribution.</li>
-          <li><em>Over 3 plants:</em> Felony – Illegal Cultivation.</li>
-        </ul>
-      </li>
-      <li>All cultivation must occur on private property, in a secure and enclosed area not visible from public spaces.</li>
-      <li>Sale or supply requires a <strong>State Dispensary License</strong>.</li>
-      <li>Public use or consumption is prohibited.</li>
-    </ul>
-  </details>
+<details open>
+<summary><strong>Article I – Classification of Controlled Substances</strong></summary>
 
-  <details>
-    <summary><strong>Article X – Penalties and Sentencing</strong></summary>
-    <table>
-      <thead>
-        <tr><th>Offense</th><th>Classification</th><th>Sentence</th><th>Fine</th></tr>
-      </thead>
-      <tbody>
-        <tr><td>Possession of Heroin</td><td>Felony</td><td>25 months</td><td>$1,100</td></tr>
-        <tr><td>Possession of Methamphetamine</td><td>Felony</td><td>25 months</td><td>$1,000</td></tr>
-        <tr><td>Possession of Cocaine</td><td>Felony</td><td>25 months</td><td>$950</td></tr>
-        <tr><td>Possession of Ketamine</td><td>Felony</td><td>25 months</td><td>$940</td></tr>
-        <tr><td>Possession of Fentanyl / Oxycodone</td><td>Felony</td><td>25 months</td><td>$940</td></tr>
-        <tr><td>Possession of Metamorphine</td><td>Felony</td><td>25 months</td><td>$940</td></tr>
-        <tr><td>Possession of Prescription Drugs (Xanax / Valium)</td><td>Misdemeanor</td><td>20 months</td><td>$780</td></tr>
-        <tr><td>Possession of Paraphernalia</td><td>Misdemeanor</td><td>15 months</td><td>$500</td></tr>
-        <tr><td>Possession of Marijuana (Over 10 Bags)</td><td>Felony</td><td>20 months</td><td>$800</td></tr>
-        <tr><td>Possession of Marijuana (Over 5 Joints)</td><td>Misdemeanor</td><td>15 months</td><td>$600</td></tr>
-        <tr><td>Cultivation of Marijuana (Over 3 Plants)</td><td>Felony</td><td>25 months</td><td>$940</td></tr>
-        <tr><td>Unlicensed Distribution of Cannabis</td><td>Felony</td><td>30 months</td><td>$1,200</td></tr>
-        <tr><td>Drug Trafficking (Schedule I–II)</td><td>Felony</td><td>40 months</td><td>$1,600</td></tr>
-        <tr><td>Drug Trafficking (Schedule III–V)</td><td>Felony</td><td>30 months</td><td>$1,200</td></tr>
-        <tr><td>Illegal Manufacture of Narcotics</td><td>Felony</td><td>35 months</td><td>$1,400</td></tr>
-        <tr><td>Prescription Fraud / Forgery</td><td>Felony</td><td>25 months</td><td>$950</td></tr>
-        <tr><td>Sale or Distribution to a Minor</td><td>Felony</td><td>45 months</td><td>$1,800</td></tr>
-        <tr><td>Public Use / Consumption</td><td>Civil Infraction</td><td>10 months</td><td>$500</td></tr>
-        <tr><td>Driving Under the Influence (Narcotics)</td><td>Felony</td><td>25 months</td><td>$1,000</td></tr>
-      </tbody>
-    </table>
-  </details>
+Controlled substances are organized into five (5) schedules based on medical value, risk of abuse, and safety for use under medical supervision.
 
-  <details>
-    <summary><strong>Article XI – Record Reform and Expungement</strong></summary>
-    <ul>
-      <li>Individuals convicted of non-violent possession offenses may apply for <strong>record expungement</strong> after three (3) years without reoffense.</li>
-      <li>The DOJ must issue a determination within 45 days.</li>
-      <li>Expungement does not apply to trafficking, manufacture, or violent drug-related crimes.</li>
-    </ul>
-  </details>
+| Schedule | Classification | Description |
+|-----------|----------------|-------------|
+| I | Prohibited Substances | No accepted medical use; extremely high potential for abuse. |
+| II | Restricted Medical Substances | Limited medical use; high potential for dependency. |
+| III | Regulated Medical Substances | Medical use permitted; moderate potential for misuse. |
+| IV | Controlled Prescription Substances | Commonly prescribed; lower abuse potential. |
+| V | Minimal-Control Substances | Low-risk or therapeutic substances; permitted under regulation. |
 
-  <section class="legislation-signatories">
-    <h2>Signatories</h2>
-    <ul>
-      <li>Justice Bailey Harvey</li>
-      <li>Justice Peter Brackley</li>
-      <li>Justice Mina Mercy</li>
-      <li>Justice Tess Timony</li>
-      <li>Justice James Anderson</li>
-    </ul>
-  </section>
-</div>
+</details>
+
+---
+
+<details>
+<summary><strong>Article II – Substance Reference Schedule</strong></summary>
+
+| Schedule | Substance | Examples | Legal Status |
+|-----------|------------|-----------|---------------|
+| V | Cannabis (Marijuana) | Dried flower, joints, oil, resin | Legal in limited quantities (see Article IV) |
+| V | CBD Products | Non-psychoactive cannabis | Fully legal under regulation. |
+| V | Cough Syrups (Codeine-based) | Mild opioid content | Regulated sale only. |
+
+**Note:**  
+Schedules I–IV currently have no active entries.  
+The **Department of Justice (DOJ)** and **State Legislature** reserve authority to add new substances by legislative amendment or executive order as new narcotics enter circulation.  
+
+</details>
+
+---
+
+<details>
+<summary><strong>Article III – General Possession and Use</strong></summary>
+
+- Possession of any controlled substance must fall within the limits defined by this Act or an authorized medical prescription.  
+- Possession, use, or distribution of a **Schedule I** substance is strictly prohibited under all circumstances.  
+- All controlled substances must be stored safely and out of public view.  
+- Public consumption or open use of controlled substances is prohibited.  
+
+</details>
+
+---
+
+<details>
+<summary><strong>Article IV – Cannabis (Marijuana) Regulation</strong></summary>
+
+- Cannabis is classified under **Schedule V** as a regulated substance permitted for personal use under the following limits:  
+  - Up to **5 joints** per individual.  
+  - Up to **10 bagged units** of cannabis flower.  
+  - Up to **3 cannabis plants** cultivated per household.  
+- Possession exceeding these limits constitutes an offense under this Act.  
+- Cannabis must be kept in a sealed container when transported and may not be consumed in vehicles or public areas.  
+- Individuals under **21 years of age** are prohibited from possessing or consuming cannabis.  
+- Sale or supply of cannabis without a **State Dispensary License** constitutes *Unlicensed Distribution of Cannabis*.  
+- Cultivation over the legal limit constitutes *Illegal Cultivation of Marijuana*.  
+
+</details>
+
+---
+
+<details>
+<summary><strong>Article V – Distribution and Licensing</strong></summary>
+
+- The commercial sale or distribution of controlled substances requires a valid **State Dispensary or Distribution License**.  
+- All licenses shall be issued and regulated by the **Department of Justice (DOJ)** and **San Andreas Medical Services (SAMS)**.  
+- License holders must:  
+  - Maintain accurate transaction records.  
+  - Refrain from selling to individuals under 21.  
+  - Comply with state health and taxation laws.  
+- Any person or entity selling or transferring a controlled substance without proper authorization commits a felony offense.  
+
+</details>
+
+---
+
+<details>
+<summary><strong>Article VI – Enforcement Authority</strong></summary>
+
+- **Los Santos Police Department (LSPD)** – for city enforcement and investigation of controlled substance offenses.  
+- **San Andreas State Troopers (SAST)** – for statewide enforcement, interdiction, and rural investigations.  
+- **Department of Justice (DOJ)** – for prosecution, oversight, and judicial interpretation.  
+- Law enforcement officers must enforce this Act proportionally and in accordance with citizens’ constitutional rights.  
+- Agencies must maintain records of all seizures, arrests, and charges filed under this Act for public accountability.  
+
+</details>
+
+---
+
+<details>
+<summary><strong>Article VII – Penalties and Sentencing</strong></summary>
+
+| Offense | Classification | Sentence | Fine |
+|----------|----------------|-----------|------|
+| Possession of Marijuana (Over 10 Bags) | Felony | 20 months | $800 |
+| Possession of Marijuana (Over 5 Joints) | Misdemeanor | 15 months | $600 |
+| Cultivation of Marijuana (Over 3 Plants) | Felony | 25 months | $940 |
+| Unlicensed Distribution of Cannabis | Felony | 30 months | $1,200 |
+
+</details>
+
+---
+
+<details>
+<summary><strong>Article VIII – Expansion of Controlled Schedules</strong></summary>
+
+- The **State Legislature**, in consultation with the **Department of Justice** and **SAMS**, may add, amend, or reclassify substances under this Act.  
+- Any new narcotic, stimulant, depressant, or hallucinogenic drug introduced into circulation may be designated under Schedules I–IV by legislative update.  
+- Once added, the relevant penalties and possession limits will be defined through an **Official Amendment to the CSNA**.  
+- Law enforcement agencies shall be notified of all schedule changes by formal bulletin.  
+
+</details>
+
+---
+
+<details>
+<summary><strong>Article IX – Record Reform and Expungement</strong></summary>
+
+- Individuals convicted of non-violent possession offenses may petition the **Department of Justice** for expungement after **1 month** without reoffense.  
+- Expungement does not apply to trafficking, distribution, or violent offenses.  
+- The DOJ must issue a written determination within **45 days** of application.  
+
+</details>
+
+---
+
+## Conclusion  
+
+The **Controlled Substances and Narcotics Act (CSNA)** provides the foundational structure for regulating controlled substances within the **State of San Andreas**.  
+
+It establishes current standards for lawful cannabis use and ensures readiness for future inclusion of other narcotics as they emerge, balancing **public safety**, **personal freedom**, and **judicial fairness**.  
+
+---
+
+### Signatories  
+
+- Justice Bailey Harvey  
+- Justice Peter Brackley  
+- Justice Mina Mercy  
+- Justice James Anderson  
+- Cheif Of SAMS Tommy Price  
