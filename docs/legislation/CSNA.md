@@ -102,8 +102,7 @@ The **Department of Justice (DOJ)** and **State Legislature** reserve authority 
 <details>
 <summary><strong>Article VI – Enforcement Authority</strong></summary>
 
-- **Los Santos Police Department (LSPD)** – for city enforcement and investigation of controlled substance offenses.  
-- **San Andreas State Troopers (SAST)** – for statewide enforcement, interdiction, and rural investigations.  
+- **Los Santos Police Department (LSPD)** – for enforcement and investigation of controlled substance offenses.  
 - **Department of Justice (DOJ)** – for prosecution, oversight, and judicial interpretation.  
 - Law enforcement officers must enforce this Act proportionally and in accordance with citizens’ constitutional rights.  
 - Agencies must maintain records of all seizures, arrests, and charges filed under this Act for public accountability.  
