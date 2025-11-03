@@ -132,50 +132,71 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+<!-- Attempted Robbery -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Attempted Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 24 months - $2,500</div>
+    <div class="charge-row accomplice">Accomplice - 24 months - $2,500</div>
+    <div class="charge-row accessory">Accessory - 17 months - $1,750</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Attempting to unlawfully take property from another person through the use of force, threat, or intimidation, without completing the act.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant took a substantial step toward committing a robbery.</li>
+        <li>The act involved intent to use force, threats, or intimidation.</li>
+        <li>The robbery was not completed.</li>
+        <li>The act was intentional and unlawful.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 <!-- Robbery -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Robbery (FELONY)</div>
-      <div class="charge-row principal">Principal - 48 months - $5000</div>
-      <div class="charge-row accomplice">Accomplice - 48 months - $5000</div>
-      <div class="charge-row accessory">Accessory - 28 months - $3000</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Taking property from another by force, intimidation, or threat.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took property from another person.</li>
-          <li>Force, threat, or intimidation was used.</li>
-          <li>Taking was intentional and unlawful.</li>
-        </ul>
-      </div>
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 48 months - $5,000</div>
+    <div class="charge-row accomplice">Accomplice - 48 months - $5,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Taking or attempting to take property from another person by use of force, intimidation, or threat.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant took or attempted to take property belonging to another person.</li>
+        <li>The taking was done through force, threat, or intimidation.</li>
+        <li>The victim did not consent to the taking.</li>
+        <li>The defendant intended to permanently deprive the victim of the property.</li>
+      </ul>
     </div>
   </div>
+</div>
 
-  <!-- Attempted Robbery -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Robbery (FELONY)</div>
-      <div class="charge-row principal">Principal - 24 months - $2500</div>
-      <div class="charge-row accomplice">Accomplice - 24 months - $2500</div>
-      <div class="charge-row accessory">Accessory - 14 months - $1500</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Attempting to take property by force or threat without completion.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant attempted to take property using force or threat.</li>
-          <li>The act was intentional.</li>
-          <li>No property was successfully taken.</li>
-        </ul>
-      </div>
+<!-- Accessory to Robbery -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Accessory to Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 28 months - $3,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Assisting, supporting, or facilitating another person in the commission or attempted commission of a robbery.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>A robbery was committed or attempted by another person.</li>
+        <li>The defendant knowingly aided, assisted, or encouraged the offender.</li>
+        <li>The defendant acted with intent to promote or facilitate the crime.</li>
+        <li>The defendant’s assistance contributed to the robbery.</li>
+      </ul>
     </div>
   </div>
-
+</div>
 
   <!-- Possession of Stolen Property -->
   <div class="charge felony-charge">
@@ -220,27 +241,48 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
-  <!-- Armed Robbery -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Armed Robbery (FELONY)</div>
-      <div class="charge-row principal">Principal - 50 months - $5,000</div>
-      <div class="charge-row accomplice">Accomplice - 50 months - $5,000</div>
-      <div class="charge-row accessory">Accessory - 30 months - $3,000</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Taking property by force, threat, or intimidation while armed.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took property by force, threat, or intimidation.</li>
-          <li>Defendant was armed with a weapon.</li>
-          <li>Act was intentional and unlawful.</li>
-        </ul>
-      </div>
+ <!-- Armed Robbery -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Armed Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 50 months - $5,000</div>
+    <div class="charge-row accomplice">Accomplice - 50 months - $5,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Committing a robbery while in possession of, displaying, or using a deadly weapon or firearm.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant committed or attempted a robbery.</li>
+        <li>The defendant used, displayed, or possessed a deadly weapon or firearm.</li>
+        <li>The weapon was used to intimidate or coerce the victim.</li>
+        <li>The act was intentional and unlawful.</li>
+      </ul>
     </div>
   </div>
+</div>
+
+<!-- Accessory to Armed Robbery -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Accessory to Armed Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 30 months - $3,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Knowingly assisting, aiding, or facilitating another person in committing or attempting to commit an armed robbery.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>An armed robbery was committed or attempted by another person.</li>
+        <li>The defendant knowingly aided or assisted the offender.</li>
+        <li>The defendant knew a firearm or deadly weapon was involved.</li>
+        <li>The defendant intended to promote or facilitate the crime.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
   <!-- Attempted Armed Robbery -->
   <div class="charge felony-charge">

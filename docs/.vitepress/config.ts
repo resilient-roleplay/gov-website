@@ -39,7 +39,7 @@ export default {
         items: [
           { text: "Los Santos Police Department", link: "https://forms.gle/yNHm7wY1fsTd7Xxw9" },
           { text: "San Andreas Medical Service", link: "https://forms.gle/kWgRzEh1b1WDZqNJ9" },
-          { text: "Department of Justice", link: "https://forms.gle/4PCFAA6P4aAqa2ev6" },
+          { text: "Department of Justice", link: "https://forms.gle/qxXcfLoTPJxhYzNv5" },
         ],
       },
       {
@@ -73,6 +73,7 @@ export default {
             { text: "Law Enforcement Negotiation and Sentencing Adjustment (LENSA) Act", link: "/legislation/lensa" },
             { text: "Bail Legislation Act", link: "/legislation/bail" },
             { text: "Mutual Combat and Trial by Combat Legislation", link: "/legislation/mutual-combat" },
+            { text: "Police K-9 Legal Protections Act", link: "/legislation/k9" },
             { text: "Weapons & Drivers License Legislation Act", link: "/legislation/weapons-driving-licenses" },
             { text: "Statewide Traffic Ordinances Act", link: "/legislation/traffic-ordinance" },
             { text: "Legal Profession Classification and BAR Licensing Act", link: "/legislation/lawyers" },

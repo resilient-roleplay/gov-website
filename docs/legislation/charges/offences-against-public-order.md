@@ -62,25 +62,28 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
-  <!-- Resisting Arrest -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Resisting Arrest (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 20 months - $2,000</div>
-      <div class="charge-row accomplice">Accomplice - 20 months - $2,000</div>
-      <div class="charge-row accessory">Accessory - 15 months - $1,500</div>
-      <div class="charge-description">
-        <strong>Description:</strong> Deliberately obstructing, fleeing from, or opposing a lawful arrest.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant knowingly resisted or fled from a lawful arrest.</li>
-          <li>Actions were deliberate and obstructed law enforcement.</li>
-        </ul>
-      </div>
+<!-- Resisting Arrest -->
+<div class="charge misdemeanor">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Resisting Arrest (MISDEMEANOR)</div>
+    <div class="charge-row principal">Principal - 20 months - $2,000</div>
+    <div class="charge-row accomplice">Accomplice - 20 months - $2,000</div>
+    <div class="charge-row accessory">Accessory - 14 months - $1,400</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Intentionally obstructing, resisting, or opposing a law enforcement officer during a lawful arrest or detention.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant knowingly resisted or obstructed a law enforcement officer.</li>
+        <li>The officer was performing a lawful duty or arrest.</li>
+        <li>The defendant was aware the individual was a law enforcement officer.</li>
+        <li>The resistance was intentional and without lawful justification.</li>
+      </ul>
     </div>
   </div>
+</div>
 
   <!-- Attempted Evading -->
   <div class="charge misdemeanor-charge">
