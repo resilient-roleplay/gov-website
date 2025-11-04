@@ -2,306 +2,233 @@
 __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
 <div class="charges-container">
 
-  <!-- Riot -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Riot (FELONY)</div>
-      <div class="charge-row principal">Principal - 18 months - $810</div>
-      <div class="charge-row accomplice">Accomplice - 18 months - $810</div>
-      <div class="charge-row accessory">Accessory - 15 months - $670</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Participating in a public disturbance involving a group of people that creates a risk of injury, property damage, or threat to public safety.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant participated in an assembly of three or more people.</li>
-          <li>The assembly engaged in violent, tumultuous, or threatening behavior.</li>
-          <li>The defendant knowingly contributed to the riotous activity.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Evidence Tampering -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Evidence Tampering (FELONY)</div>
-      <div class="charge-row principal">Principal - 15 months - $3500</div>
-      <div class="charge-row accomplice">Accomplice - 15 months - $3500</div>
-      <div class="charge-row accessory">Accessory - 12 months - $3000</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Altering, concealing, destroying, or fabricating evidence with intent to interfere with an investigation or legal proceeding.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant intentionally interfered with evidence.</li>
-          <li>The evidence was relevant to an official investigation or proceeding.</li>
-          <li>The defendant acted knowingly and with intent to obstruct justice.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
- <!-- Public Intoxication -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Public Intoxication (INFRACTION)</div>
-      <div class="charge-row principal">Principal - 5 months - $500</div>
-      <div class="charge-row accomplice">Accomplice - 5 months - $500</div>
-      <div class="charge-row accessory">Accessory - 3 months - $300</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Being visibly intoxicated in public to the point of causing disruption or risk to safety.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant was intoxicated in a public place.</li>
-          <li>The intoxication posed risk or disruption to public safety.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Destruction of Government Property -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Destruction of Government Property (FELONY)</div>
-      <div class="charge-row principal">Principal - 10 months - $600</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Intentionally damaging, defacing, or destroying property owned or maintained by the government.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The property belonged to a government entity.</li>
-          <li>The defendant caused damage or destruction.</li>
-          <li>The act was intentional and unauthorized.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Felony Obstruction of Justice -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Felony Obstruction of Justice (FELONY)</div>
-      <div class="charge-row principal">Principal - 24 months - $900</div>
-      <div class="charge-row accomplice">Accomplice - 24 months - $900</div>
-      <div class="charge-row accessory">Accessory - 20 months - $750</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Acting to impede or interfere with the administration of justice, including influencing witnesses or tampering with investigations.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant knowingly took steps to obstruct justice.</li>
-          <li>The obstruction was related to an ongoing investigation or legal proceeding.</li>
-          <li>The act was intentional and unauthorized.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- DISOBEYING A PEACE OFFICER (MISDEMEANOR) -->
+  <!-- Disorderly Conduct -->
   <div class="charge misdemeanor-charge">
     <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Disobeying a Peace Officer (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 7 months - $240</div>
-      <div class="charge-row accomplice">Accomplice - 7 months - $240</div>
-      <div class="charge-row accessory">Accessory - 6 months - $168</div>
+      <div class="charge-row charge-name">Disorderly Conduct (INFRACTION)</div>
+      <div class="charge-row principal">Principal - 0 months - $500</div>
+      <div class="charge-row accomplice">Accomplice - 0 months - $500</div>
+      <div class="charge-row accessory">Accessory - 0 months - $300</div>
       <div class="charge-description">
-        <strong>Description:</strong>
-        Failing to comply with lawful commands or instructions issued by a peace officer.
+        <strong>Description:</strong> Acting in a disruptive, abusive, or violent manner that disturbs public peace or safety.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant received a lawful order from a peace officer.</li>
-          <li>The defendant intentionally refused or ignored the order.</li>
-          <li>The disobedience occurred knowingly and without legal justification.</li>
+          <li>Defendant acted disruptively, abusively, or violently in public.</li>
+          <li>Actions disturbed or had the potential to disturb public peace or safety.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Disorderly Conduct -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- Public Intoxication -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Disorderly Conduct (INFRACTION)</div>
-      <div class="charge-row principal">Principal - 5 months - $500</div>
-      <div class="charge-row accomplice">Accomplice - 5 months - $500</div>
-      <div class="charge-row accessory">Accessory - 3 months - $300</div>
+      <div class="charge-row charge-name">Public Intoxication (INFRACTION)</div>
+      <div class="charge-row principal">Principal - 0 months - $500</div>
+      <div class="charge-row accomplice">Accomplice - 0 months - $500</div>
+      <div class="charge-row accessory">Accessory - 0 months - $300</div>
       <div class="charge-description">
-        <strong>Description:</strong>
-        Acting in a disruptive, abusive, or violent manner that disturbs public peace or safety.
+        <strong>Description:</strong> Being visibly intoxicated in public to the point of causing disruption or risk to safety.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant engaged in disruptive or abusive conduct.</li>
-          <li>The conduct disturbed public peace or safety.</li>
+          <li>Defendant was visibly intoxicated in a public space.</li>
+          <li>Intoxication caused or risked public disruption or safety hazards.</li>
         </ul>
       </div>
     </div>
   </div>
 
   <!-- Disturbing the Peace -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Disturbing the Peace (MISDEMEANOUR)</div>
       <div class="charge-row principal">Principal - 8 months - $750</div>
       <div class="charge-row accomplice">Accomplice - 8 months - $750</div>
-      <div class="charge-row accessory">Accessory - 5 months - $450</div>
+      <div class="charge-row accessory">Accessory - 6 months - $500</div>
       <div class="charge-description">
-        <strong>Description:</strong>
-        Engaging in loud, unruly, or disruptive behaviour that interferes with public order.
+        <strong>Description:</strong> Engaging in loud, unruly, or disruptive behaviour that interferes with public order.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant caused a disturbance through noise or actions.</li>
-          <li>The behaviour disrupted public order or peace.</li>
+          <li>Defendant engaged in loud or disruptive behavior in public.</li>
+          <li>Behavior interfered with normal public order or safety.</li>
         </ul>
       </div>
     </div>
   </div>
+
+<!-- Resisting Arrest -->
+<div class="charge misdemeanor">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Resisting Arrest (MISDEMEANOR)</div>
+    <div class="charge-row principal">Principal - 20 months - $2,000</div>
+    <div class="charge-row accomplice">Accomplice - 20 months - $2,000</div>
+    <div class="charge-row accessory">Accessory - 14 months - $1,400</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Intentionally obstructing, resisting, or opposing a law enforcement officer during a lawful arrest or detention.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant knowingly resisted or obstructed a law enforcement officer.</li>
+        <li>The officer was performing a lawful duty or arrest.</li>
+        <li>The defendant was aware the individual was a law enforcement officer.</li>
+        <li>The resistance was intentional and without lawful justification.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+  <!-- Attempted Evading -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Evading (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 18 months - $1,500</div>
+      <div class="charge-row accomplice">Accomplice - 18 months - $1,500</div>
+      <div class="charge-row accessory">Accessory - 12 months - $1,000</div>
+      <div class="charge-description">
+        <strong>Description:</strong> Attempting to flee law enforcement but failing to successfully escape.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took deliberate steps to evade law enforcement.</li>
+          <li>Escape attempt was unsuccessful, interrupted, or incomplete.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- Illegal Gambling -->
+<div class="charge misdemeanor">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Illegal Gambling</div>
+    <div class="charge-row principal">15 months - $5000</div>
+    <div class="charge-row accomplice">15 months - $5000</div>
+    <div class="charge-row accessory">9 months - $500</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Engaging in or operating an unlicensed gambling activity, including underground betting, fight clubs, or wagering events without state authorization.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant participated in, organized, or facilitated a gambling activity.</li>
+        <li>The gambling operation lacked proper authorization or licensing.</li>
+        <li>The activity involved monetary bets, wagers, or prizes of value.</li>
+        <li>The defendant acted knowingly and without lawful justification.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Aiding and Abetting -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Aiding and Abetting</div>
+    <div class="charge-row principal">15 months - $800/div>
+    <div class="charge-row accomplice">20 months - $1000</div>
+    <div class="charge-row accessory">15 months - $750</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Aiding and Abetting occurs when an individual intentionally assists, supports, encourages, or facilitates another person in the commission of a criminal offense. The aider or abettor shares criminal responsibility with the principal offender, even if they did not personally commit the main act.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>A crime was committed by another person (the principal offender).</li>
+        <li>The defendant knowingly aided, assisted, encouraged, or facilitated the commission of that crime.</li>
+        <li>The defendant acted with intent to promote or assist in the offense’s success.</li>
+        <li>The defendant’s actions or words contributed to the commission or attempted commission of the offense.</li>
+        <li>The defendant was aware of the criminal intent or unlawful purpose of the principal offender.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
   <!-- False Reporting -->
   <div class="charge misdemeanor-charge">
     <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">False Reporting (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 7 months - $240</div>
-      <div class="charge-row accomplice">Accomplice - 7 months - $240</div>
-      <div class="charge-row accessory">Accessory - 6 months - $168</div>
+      <div class="charge-row charge-name">False Reporting (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 15 months - $1,500</div>
+      <div class="charge-row accomplice">Accomplice - 15 months - $1,500</div>
+      <div class="charge-row accessory">Accessory - 10 months - $1,000</div>
       <div class="charge-description">
-        <strong>Description:</strong>
-        Making a knowingly false report to law enforcement or public authorities.
+        <strong>Description:</strong> Knowingly providing false or misleading information to authorities.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant provided information to authorities.</li>
-          <li>The information was knowingly false.</li>
-          <li>The act was intended to mislead, obstruct, or cause investigation into non-existent events.</li>
+          <li>Defendant provided information to authorities that was false or misleading.</li>
+          <li>Actions were intentional and could affect enforcement or safety.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Harassment -->
+  <!-- Misuse of 911 -->
   <div class="charge misdemeanor-charge">
     <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Harassment (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 7 months - $240</div>
-      <div class="charge-row accomplice">Accomplice - 7 months - $240</div>
-      <div class="charge-row accessory">Accessory - 6 months - $168</div>
+      <div class="charge-row charge-name">Misuse of 911 (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 10 months - $1,000</div>
+      <div class="charge-row accomplice">Accomplice - 10 months - $1,000</div>
+      <div class="charge-row accessory">Accessory - 6 months - $600</div>
       <div class="charge-description">
-        <strong>Description:</strong>
-        Engaging in repeated or targeted behavior intended to annoy, intimidate, or alarm another individual.
+        <strong>Description:</strong> Making prank, false, or non-emergency calls to emergency services.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant acted repeatedly or persistently.</li>
-          <li>The actions were intended to cause distress or fear.</li>
-          <li>The behavior was unwelcome and without legal justification.</li>
+          <li>Defendant initiated a call to 911 that was false, prank, or non-emergency.</li>
+          <li>Action disrupted emergency services or risked harm to the public.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Misdemeanor Obstruction of Justice -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
+  <!-- Riot / Unlawful Assembly -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Misdemeanor Obstruction of Justice (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 12 months - $400</div>
-      <div class="charge-row accomplice">Accomplice - 12 months - $400</div>
-      <div class="charge-row accessory">Accessory - 10 months - $340</div>
+      <div class="charge-row charge-name">Riot / Unlawful Assembly (FELONY)</div>
+      <div class="charge-row principal">Principal - 45 months - $5,000</div>
+      <div class="charge-row accomplice">Accomplice - 45 months - $5,000</div>
+      <div class="charge-row accessory">Accessory - 35 months - $4,000</div>
       <div class="charge-description">
-        <strong>Description:</strong>
-        Interfering with a law enforcement investigation in a minor or non-felony capacity.
+        <strong>Description:</strong> Participating in violent or destructive group activity that disrupts public order.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant knowingly acted to impede a minor investigation.</li>
-          <li>The interference did not rise to felony-level obstruction.</li>
-          <li>The act was intentional and without lawful excuse.</li>
+          <li>Defendant participated in a group of three or more people.</li>
+          <li>The assembly engaged in violent or destructive behavior.</li>
+          <li>Defendant knowingly contributed to the riotous activity.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Vandalism -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
+  <!-- Attempted Riot -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Vandalism (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 0 months - $110</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $110</div>
-      <div class="charge-row accessory">Accessory - 0 months - $80</div>
+      <div class="charge-row charge-name">Attempted Riot (FELONY)</div>
+      <div class="charge-row principal">Principal - 30 months - $3,500</div>
+      <div class="charge-row accomplice">Accomplice - 30 months - $3,500</div>
+      <div class="charge-row accessory">Accessory - 25 months - $3,000</div>
       <div class="charge-description">
-        <strong>Description:</strong>
-        Damaging, defacing, or destroying property without authorization.
+        <strong>Description:</strong> Attempting to incite or organize a group of people to engage in riotous or violent conduct that threatens public safety.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The defendant intentionally damaged property.</li>
-          <li>The property was not owned by the defendant.</li>
-          <li>The act was unauthorized and deliberate.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Vandalism of Government Property -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Vandalism of Government Property (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 5 months - $400</div>
-      <div class="charge-row accomplice">Accomplice - 5 months - $400</div>
-      <div class="charge-row accessory">Accessory - 4 months - $270</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Defacing, damaging, or destroying government-owned property without permission.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The property was owned by a government entity.</li>
-          <li>The defendant intentionally caused damage.</li>
-          <li>The act was unauthorized and deliberate.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Stalking -->
-  <div class="charge misdemeanor-charge">
-    <div class="misdemeanor"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Stalking (MISDEMEANOR)</div>
-      <div class="charge-row principal">Principal - 7 months - $110</div>
-      <div class="charge-row accomplice">Accomplice - 7 months - $110</div>
-      <div class="charge-row accessory">Accessory - 6 months - $90</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Repeatedly following, monitoring, or harassing another individual in a way that causes fear or distress.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant engaged in repeated or continuous behavior targeting a specific person.</li>
-          <li>The actions were likely to cause fear, distress, or emotional harm.</li>
-          <li>The conduct was intentional and unwelcome.</li>
+          <li>Defendant took substantial steps toward causing or joining a riot.</li>
+          <li>The attempt involved more than one person and posed potential public danger.</li>
+          <li>The riot did not fully materialize due to intervention or other causes.</li>
         </ul>
       </div>
     </div>

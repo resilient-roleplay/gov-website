@@ -45,6 +45,8 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  
+
   <!-- Possession of Weapon Class 0 (Melee) -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -240,27 +242,6 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
-  <!-- Attempted Discharging a Firearm in Public -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Discharging a Firearm in Public (FELONY)</div>
-      <div class="charge-row principal">Principal - 13 months - $1,000</div>
-      <div class="charge-row accomplice">Accomplice - 13 months - $1,000</div>
-      <div class="charge-row accessory">Accessory - 8 months - $600</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Substantial steps toward discharging a firearm in public without completing the act.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant intended to discharge a firearm unlawfully in public.</li>
-          <li>Substantial steps toward the act were taken.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
   <!-- Possession of a Prohibited Weapon -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -400,7 +381,7 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
       <div class="charge-row accessory">Accessory - 0 months - $0</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Transporting or selling large quantities of Class 1 firearms illegally or unregistered.
+        Transporting or selling  6 or more illegally or unregistered. Class 1 firearms.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
@@ -422,7 +403,7 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
       <div class="charge-row accessory">Accessory - 0 months - $0</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Substantial steps toward trafficking Class 1 firearms without completing the act.
+        Substantial steps toward trafficking 6 or more Class 1 firearms without completing the act.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
@@ -443,11 +424,11 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
       <div class="charge-row accessory">Accessory - 0 months - $0</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Transporting or selling large quantities of Class 2 firearms (semi-auto / shotguns) illegally or unregistered.
+        Transporting or selling  4 or more illegally or unregistered. Class 2 firearms (semi-auto / shotguns).
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant transported or sold Class 2 firearms.</li>
+          <li>Defendant transported or sold 4 or more Class 2 firearms.</li>
           <li>Firearms were illegal or unregistered.</li>
           <li>Intent to distribute or traffic existed.</li>
         </ul>
@@ -465,11 +446,11 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
       <div class="charge-row accessory">Accessory - 0 months - $0</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Substantial steps toward trafficking Class 2 firearms without completing the act.
+        Substantial steps toward trafficking 4 or more Class 2 firearms without completing the act.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant intended to traffic Class 2 firearms.</li>
+          <li>Defendant intended to traffic 4 or more Class 2 firearms.</li>
           <li>Substantial steps toward trafficking were taken.</li>
         </ul>
       </div>
@@ -486,11 +467,11 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
       <div class="charge-row accessory">Accessory - 0 months - $0</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Transporting or selling large quantities of Class 3 firearms (full-auto / military) illegally or unregistered.
+        Transporting or selling 2 or more illegally or unregistered Class 3 firearms (full-auto / military)
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant transported or sold Class 3 firearms.</li>
+          <li>Defendant transported or sold 2 or more Class 3 firearms.</li>
           <li>Firearms were illegal or unregistered.</li>
           <li>Intent to distribute or traffic existed.</li>
         </ul>
@@ -508,11 +489,11 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
       <div class="charge-row accessory">Accessory - 0 months - $0</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Substantial steps toward trafficking Class 3 firearms without completing the act.
+        Substantial steps toward trafficking 2 or more Class 3 firearms without completing the act.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant intended to traffic Class 3 firearms.</li>
+          <li>Defendant intended to traffic 2 or more Class 3 firearms.</li>
           <li>Substantial steps toward trafficking were taken.</li>
          </ul>
       </div>

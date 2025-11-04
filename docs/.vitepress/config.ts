@@ -5,6 +5,7 @@ export default {
   cleanUrls: true,
   // If this is disabled, when building it it will give deadlink errors if your markdown has the wrong links
   ignoreDeadLinks: true,
+  appearance: false, // Disable theme toggle completely
   
   themeConfig: {
     logo: "/logo-big.png",
@@ -38,7 +39,7 @@ export default {
         items: [
           { text: "Los Santos Police Department", link: "https://forms.gle/yNHm7wY1fsTd7Xxw9" },
           { text: "San Andreas Medical Service", link: "https://forms.gle/kWgRzEh1b1WDZqNJ9" },
-          { text: "Department of Justice", link: "https://forms.gle/4PCFAA6P4aAqa2ev6" },
+          { text: "Department of Justice", link: "https://forms.gle/qxXcfLoTPJxhYzNv5" },
         ],
       },
       {
@@ -47,6 +48,7 @@ export default {
       collapsible: false,
       collapsed: false,
       items: [
+        { text: "Updates & Amendments", link: "/legislation/updates" },
         /* { text: "Setup", link: "/legislation/setup" }, */
         {
           text: "Legislation",
@@ -63,6 +65,7 @@ export default {
             { text: "First Time Felony Diversion Program Act", link: "/legislation/fdp" },
             { text: "Impeachment and Authority Conduct Review Act", link: "/legislation/impeachment-acr" },
             { text: "Freedom of Information Act", link: "/legislation/foia" },
+            { text: "Controlled Substances and Narcotics Act (CSNA)", link: "/legislation/CSNA" },
             { text: "Medical Information Privacy and Protection Act (MIPPA)", link: "/legislation/mippa" },
             { text: "DNA Legislation Act", link: "/legislation/dna" },
             { text: "Statute of Limitations Legislation", link: "/legislation/statute" },
@@ -70,6 +73,7 @@ export default {
             { text: "Law Enforcement Negotiation and Sentencing Adjustment (LENSA) Act", link: "/legislation/lensa" },
             { text: "Bail Legislation Act", link: "/legislation/bail" },
             { text: "Mutual Combat and Trial by Combat Legislation", link: "/legislation/mutual-combat" },
+            { text: "Police K-9 Legal Protections Act", link: "/legislation/k9" },
             { text: "Weapons & Drivers License Legislation Act", link: "/legislation/weapons-driving-licenses" },
             { text: "Statewide Traffic Ordinances Act", link: "/legislation/traffic-ordinance" },
             { text: "Legal Profession Classification and BAR Licensing Act", link: "/legislation/lawyers" },
@@ -83,7 +87,6 @@ export default {
           items: [
             { text: "Offenses Against Persons", link: "/legislation/charges/offences-against-persons" },
             { text: "Offenses Involving Theft and Deception", link: "/legislation/charges/offences-involving-theft-and-deception" },
-            { text: "Offenses Involving Fraud", link: "/legislation/charges/offences-involving-fraud" },
             { text: "Offenses Against Property", link: "/legislation/charges/offences-against-property" },
             { text: "Offenses Against Public Administration", link: "/legislation/charges/offences-against-public-administration" },
             { text: "Offenses Against Public Order", link: "/legislation/charges/offences-against-public-order" },

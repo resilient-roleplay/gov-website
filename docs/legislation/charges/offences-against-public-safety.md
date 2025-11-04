@@ -2,28 +2,6 @@
 __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
 <div class="charges-container">
 
-  <!-- Treason -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Treason (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Acting to betray one’s country by levying war against it or aiding its enemies.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant committed an act of betrayal against the state.</li>
-          <li>The act involved intent to harm the government or aid its enemies.</li>
-          <li>The actions were deliberate and unlawful under national law.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
   <!-- Weapons Manufacturing -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -46,34 +24,13 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
-  <!-- Terrorism -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Terrorism (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Using violence, threats, or intimidation to achieve political, ideological, or social objectives.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant engaged in acts intended to intimidate or coerce.</li>
-          <li>The acts were aimed at political, social, or ideological goals.</li>
-          <li>The behavior created or intended to create fear among the public or government.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
+ 
   <!-- Harboring a Fugitive -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Harboring a Fugitive (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
+      <div class="charge-row principal">Principal - 70 months - $1,500</div>
       <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
       <div class="charge-row accessory">Accessory - 0 months - $0</div>
       <div class="charge-description">
@@ -139,9 +96,9 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Criminal Possession of a Government Issued Firearm (FELONY)</div>
-      <div class="charge-row principal">Principal - 1,440 months - $100,000</div>
-      <div class="charge-row accomplice">Accomplice - 1,440 months - $100,000</div>
-      <div class="charge-row accessory">Accessory - 1,150 months - $80,000</div>
+      <div class="charge-row principal">Principal - 50 months - $1,500</div>
+      <div class="charge-row accomplice">Accomplice - 50 months - $1,500</div>
+      <div class="charge-row accessory">Accessory - 25 months - $750</div>
       <div class="charge-description">
         <strong>Description:</strong>
         Unauthorized possession or use of firearms issued to government personnel or agencies.
@@ -195,138 +152,6 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
           <li>The defendant knowingly possessed explosives.</li>
           <li>The possession lacked legal authorization.</li>
           <li>The act posed potential danger or risk to others.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Criminal Sale of an Illegal Weapon -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Criminal Sale of an Illegal Weapon (FELONY)</div>
-      <div class="charge-row principal">Principal - 35 months - $1,580</div>
-      <div class="charge-row accomplice">Accomplice - 35 months - $1,580</div>
-      <div class="charge-row accessory">Accessory - 28 months - $1,260</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Selling or distributing firearms, explosives, or weapons without legal authorization.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant sold or transferred an illegal weapon.</li>
-          <li>The weapon was unauthorized for possession or sale.</li>
-          <li>The act was intentional and knowingly unlawful.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Criminal Possession of a Firearm [Class 3] -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Criminal Possession of a Firearm [Class 3] (FELONY)</div>
-      <div class="charge-row principal">Principal - 75 months - $7,500</div>
-      <div class="charge-row accomplice">Accomplice - 75 months - $7,500</div>
-      <div class="charge-row accessory">Accessory - 60 months - $6,000</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Possessing a restricted Class 3 firearm without proper license or authorization.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant possessed a Class 3 firearm.</li>
-          <li>They lacked proper licensing or authorization.</li>
-          <li>The possession was intentional and unlawful.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Criminal Sale of a Firearm [Class 1] -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Criminal Sale of a Firearm [Class 1] (FELONY)</div>
-      <div class="charge-row principal">Principal - 20 months - $2,500</div>
-      <div class="charge-row accomplice">Accomplice - 20 months - $2,500</div>
-      <div class="charge-row accessory">Accessory - 14 months - $1,750</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Selling a Class 1 firearm without required licenses or government approval.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The firearm was Class 1.</li>
-          <li>The defendant sold it without authorization or license.</li>
-          <li>The act was intentional and unlawful.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Criminal Possession of a Firearm [Class 1] -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Criminal Possession of a Firearm [Class 1] (FELONY)</div>
-      <div class="charge-row principal">Principal - 35 months - $3,500</div>
-      <div class="charge-row accomplice">Accomplice - 35 months - $3,500</div>
-      <div class="charge-row accessory">Accessory - 28 months - $2,800</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Possessing a Class 1 firearm without required authorization or license.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant possessed a Class 1 firearm.</li>
-          <li>They lacked proper authorization or license.</li>
-          <li>The possession was intentional and unlawful.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Criminal Possession of a Firearm [Class 2] -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Criminal Possession of a Firearm [Class 2] (FELONY)</div>
-      <div class="charge-row principal">Principal - 50 months - $5,000</div>
-      <div class="charge-row accomplice">Accomplice - 50 months - $5,000</div>
-      <div class="charge-row accessory">Accessory - 40 months - $4,000</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Possessing a Class 2 firearm without required authorization or license.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant possessed a Class 2 firearm.</li>
-          <li>They lacked proper authorization or license.</li>
-          <li>The possession was intentional and unlawful.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Weapons Trafficking -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Weapons Trafficking (FELONY)</div>
-      <div class="charge-row principal">Principal - 0 months - $0</div>
-      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
-      <div class="charge-row accessory">Accessory - 0 months - $0</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Illegally transporting, importing, exporting, or distributing weapons across jurisdictions.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>The defendant moved or distributed weapons illegally.</li>
-          <li>The act crossed legal jurisdictions or violated transport laws.</li>
-          <li>The act was intentional and without lawful justification.</li>
         </ul>
       </div>
     </div>
@@ -425,8 +250,8 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Criminal Possession of a Government Issued Taser/Baton (FELONY)</div>
-      <div class="charge-row principal">Principal - 100 months - $5,000</div>
-      <div class="charge-row accomplice">Accomplice - 100 months - $5,000</div>
+      <div class="charge-row principal">Principal - 20 months - $1,200</div>
+      <div class="charge-row accomplice">Accomplice - 20 months - $1,200</div>
       <div class="charge-row accessory">Accessory - 80 months - $4,000</div>
       <div class="charge-description">
         <strong>Description:</strong>
@@ -447,9 +272,9 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Criminal Possession of a Government Issued Equipment (FELONY)</div>
-      <div class="charge-row principal">Principal - 50 months - $2,500</div>
-      <div class="charge-row accomplice">Accomplice - 50 months - $2,500</div>
-      <div class="charge-row accessory">Accessory - 40 months - $2,000</div>
+      <div class="charge-row principal">Principal - 20 months - $750</div>
+      <div class="charge-row accomplice">Accomplice - 20 months - $750</div>
+      <div class="charge-row accessory">Accessory - 10 months - $300</div>
       <div class="charge-description">
         <strong>Description:</strong>
         Possessing government-issued equipment without permission.

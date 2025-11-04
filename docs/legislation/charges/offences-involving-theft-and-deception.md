@@ -2,6 +2,50 @@
 __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
 <div class="charges-container">
 
+  <!-- Theft -->
+  <div class="charge misdemeanour-charge">
+    <div class="misdemeanour"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Theft (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 12 months - $1000</div>
+      <div class="charge-row accomplice">Accomplice - 12 months - $1000</div>
+      <div class="charge-row accessory">Accessory - 6 months - $600</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Taking another person’s property without consent.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took property belonging to another.</li>
+          <li>The act was without consent or legal right.</li>
+          <li>Defendant intended to deprive the owner of the property.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Theft -->
+  <div class="charge misdemeanour-charge">
+    <div class="misdemeanour"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Theft (MISDEMEANOUR)</div>
+      <div class="charge-row principal">Principal - 6 months - $500</div>
+      <div class="charge-row accomplice">Accomplice - 6 months - $500</div>
+      <div class="charge-row accessory">Accessory - 3 months - $300</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Attempting to take property without completing the act.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant took substantial steps to commit theft.</li>
+          <li>The act was intentional.</li>
+          <li>No actual deprivation of property occurred.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Petty Larceny -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -88,6 +132,72 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+<!-- Attempted Robbery -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Attempted Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 24 months - $2,500</div>
+    <div class="charge-row accomplice">Accomplice - 24 months - $2,500</div>
+    <div class="charge-row accessory">Accessory - 17 months - $1,750</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Attempting to unlawfully take property from another person through the use of force, threat, or intimidation, without completing the act.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant took a substantial step toward committing a robbery.</li>
+        <li>The act involved intent to use force, threats, or intimidation.</li>
+        <li>The robbery was not completed.</li>
+        <li>The act was intentional and unlawful.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Robbery -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 48 months - $5,000</div>
+    <div class="charge-row accomplice">Accomplice - 48 months - $5,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Taking or attempting to take property from another person by use of force, intimidation, or threat.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant took or attempted to take property belonging to another person.</li>
+        <li>The taking was done through force, threat, or intimidation.</li>
+        <li>The victim did not consent to the taking.</li>
+        <li>The defendant intended to permanently deprive the victim of the property.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Accessory to Robbery -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Accessory to Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 28 months - $3,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Assisting, supporting, or facilitating another person in the commission or attempted commission of a robbery.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>A robbery was committed or attempted by another person.</li>
+        <li>The defendant knowingly aided, assisted, or encouraged the offender.</li>
+        <li>The defendant acted with intent to promote or facilitate the crime.</li>
+        <li>The defendant’s assistance contributed to the robbery.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
   <!-- Possession of Stolen Property -->
   <div class="charge felony-charge">
     <div class="felony"></div>
@@ -131,27 +241,48 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
-  <!-- Armed Robbery -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Armed Robbery (FELONY)</div>
-      <div class="charge-row principal">Principal - 50 months - $5,000</div>
-      <div class="charge-row accomplice">Accomplice - 50 months - $5,000</div>
-      <div class="charge-row accessory">Accessory - 30 months - $3,000</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Taking property by force, threat, or intimidation while armed.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant took property by force, threat, or intimidation.</li>
-          <li>Defendant was armed with a weapon.</li>
-          <li>Act was intentional and unlawful.</li>
-        </ul>
-      </div>
+ <!-- Armed Robbery -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Armed Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 50 months - $5,000</div>
+    <div class="charge-row accomplice">Accomplice - 50 months - $5,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Committing a robbery while in possession of, displaying, or using a deadly weapon or firearm.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant committed or attempted a robbery.</li>
+        <li>The defendant used, displayed, or possessed a deadly weapon or firearm.</li>
+        <li>The weapon was used to intimidate or coerce the victim.</li>
+        <li>The act was intentional and unlawful.</li>
+      </ul>
     </div>
   </div>
+</div>
+
+<!-- Accessory to Armed Robbery -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Accessory to Armed Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 30 months - $3,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Knowingly assisting, aiding, or facilitating another person in committing or attempting to commit an armed robbery.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>An armed robbery was committed or attempted by another person.</li>
+        <li>The defendant knowingly aided or assisted the offender.</li>
+        <li>The defendant knew a firearm or deadly weapon was involved.</li>
+        <li>The defendant intended to promote or facilitate the crime.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
   <!-- Attempted Armed Robbery -->
   <div class="charge felony-charge">
@@ -399,7 +530,7 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
       <div class="charge-row accessory">Accessory - 18 months - $2,100</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Creating or distributing fake currency or documents.
+        Creating or distributing fake currency.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
@@ -603,6 +734,92 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
       </div>
     </div>
   </div>
+
+<!-- Extortion -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Extortion (FELONY)</div>
+      <div class="charge-row principal">Principal - 14 months - $630</div>
+      <div class="charge-row accomplice">Accomplice - 14 months - $630</div>
+      <div class="charge-row accessory">Accessory - 12 months - $510</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Obtaining money, property, or services through threats, intimidation, or coercion.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant threatened harm, property damage, or exposure to compel action.</li>
+          <li>The victim was coerced to provide money, property, or services.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attempted Extortion -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Attempted Extortion (FELONY)</div>
+      <div class="charge-row principal">Principal - 0 months - $0</div>
+      <div class="charge-row accomplice">Accomplice - 0 months - $0</div>
+      <div class="charge-row accessory">Accessory - 0 months - $0</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Taking substantial steps to threaten or coerce a victim without completing the extortion.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant attempted threats or coercion to obtain property or services.</li>
+          <li>Intent to compel the victim existed.</li>
+          <li>Acts were unlawful and intentional.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Possession of a Tampered Firearm -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Possession of a Tampered Firearm (FELONY)</div>
+      <div class="charge-row principal">Principal - 50 months - $15,000</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Possessing a firearm that has been illegally altered, modified, or tampered with.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>The defendant possessed a firearm modified from its original state.</li>
+          <li>The modifications were illegal or prohibited by law.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- Joyriding -->
+<div class="charge misdemeanor">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Joyriding</div>
+    <div class="charge-row principal">15 months - $600</div>
+    <div class="charge-row accomplice">15 months - $600</div>
+    <div class="charge-row accessory">10 months - $400</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Taking or operating another person’s vehicle without consent but without intent to permanently deprive the owner of it.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant took or operated a vehicle belonging to another person.</li>
+        <li>The act occurred without the owner’s consent.</li>
+        <li>The defendant did not intend to permanently steal the vehicle.</li>
+        <li>The vehicle was moved or operated unlawfully.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 
   <!-- Bribery of a Government Official -->
   <div class="charge felony-charge">

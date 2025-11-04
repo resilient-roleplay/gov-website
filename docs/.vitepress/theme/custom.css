@@ -1,6 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Space+Mono:regular,italic,700,700italic);
 @import url(https://fonts.googleapis.com/css?family=Space+Grotesk:regular,italic,700,700italic);
 
+/* Force dark mode */
+html {
+  color-scheme: dark !important;
+}
+
+html.dark {
+  --vp-c-bg: #1a1a1a;
+}
+
 :root {
   --vp-c-brand: #ff7340;
   --vp-c-brand-light: #ff5719;
@@ -25,6 +34,12 @@
   /* Code Snippet font */
   --vp-font-family-mono: "Space Mono", Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+/* Hide theme toggle button */
+.VPSwitch,
+.VPSwitchAppearance {
+  display: none !important;
 }
 
 /* Custom Stlye */
