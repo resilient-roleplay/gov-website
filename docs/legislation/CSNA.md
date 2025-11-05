@@ -71,8 +71,8 @@ The **Department of Justice (DOJ)** and **State Legislature** reserve authority 
 <summary><strong>Article IV – Cannabis (Marijuana) Regulation</strong></summary>
 
 - Cannabis is classified under **Schedule V** as a regulated substance permitted for personal use under the following limits:  
-  - Up to **5 joints** per individual.  
-  - Up to **10 bagged units** of cannabis flower.  
+  - Up to **10 joints** per individual.  
+  - Up to **5 bagged units** of cannabis flower.  
   - Up to **3 cannabis plants** cultivated per household.  
 - Possession exceeding these limits constitutes an offense under this Act.  
 - Cannabis must be kept in a sealed container when transported and may not be consumed in vehicles or public areas.  
@@ -116,8 +116,8 @@ The **Department of Justice (DOJ)** and **State Legislature** reserve authority 
 
 | Offense | Classification | Sentence | Fine |
 |----------|----------------|-----------|------|
-| Possession of Marijuana (Over 10 Bags) | Felony | 20 months | $800 |
-| Possession of Marijuana (Over 5 Joints) | Misdemeanor | 15 months | $600 |
+| Possession of Marijuana (Over 5 Bags) | Felony | 20 months | $800 |
+| Possession of Marijuana (Over 10 Joints) | Misdemeanor | 15 months | $600 |
 | Cultivation of Marijuana (Over 3 Plants) | Felony | 25 months | $940 |
 | Unlicensed Distribution of Cannabis | Felony | 30 months | $1,200 |
 
