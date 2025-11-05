@@ -1,5 +1,9 @@
+
 # CSNA: Controlled Substances and Narcotics Act  
 ### State of San Andreas – State Register of Laws  
+
+*Legislated by the San Andreas Mental & Health Authority (SAMHA) and San Andreas Medical Services (SAMS).  
+Enforced under the oversight of the Department of Justice (DOJ).*
 
 ---
 
@@ -9,7 +13,7 @@ The **Controlled Substances and Narcotics Act (CSNA)** establishes the statewide
 
 This legislation regulates substances that may be harmful to public health, ensuring that they are used only under lawful, medical, or licensed circumstances. It defines the limits of lawful possession, cultivation, and sale, and creates a structured approach for enforcement and judicial review.  
 
-At present, **Cannabis (Marijuana)** is the only controlled substance recognized under this Act, with the framework allowing for future expansion as additional narcotics enter circulation.  
+At present, **Cannabis (Marijuana)** is the only non-medical controlled substance recognized under this Act, with the framework allowing for future expansion as additional narcotics enter circulation.  
 
 ---
 
@@ -41,15 +45,49 @@ Controlled substances are organized into five (5) schedules based on medical val
 <details>
 <summary><strong>Article II – Substance Reference Schedule</strong></summary>
 
-| Schedule | Substance | Examples | Legal Status |
-|-----------|------------|-----------|---------------|
-| V | Cannabis (Marijuana) | Dried flower, joints, oil, resin | Legal in limited quantities (see Article IV) |
-| V | CBD Products | Non-psychoactive cannabis | Fully legal under regulation. |
-| V | Cough Syrups (Codeine-based) | Mild opioid content | Regulated sale only. |
+### Schedule I – Prohibited Substances  
+*(Currently no active entries; reserved for illegal narcotics such as heroin, LSD, and methamphetamine should they enter circulation.)*
+
+---
+
+### Schedule II – Restricted Medical Substances  
+| Substance | Examples | Legal Status |
+|------------|-----------|---------------|
+| Strong Opioids | Morphine, Oxycodone, Fentanyl | Prescription required; misuse constitutes felony possession. |
+| Barbiturates | Pentobarbital, Secobarbital | Prescription required; controlled administration only. |
+| Ketamine | Medical anesthetic form | Restricted to authorized medical professionals. |
+| Codeine-based Compounds (High Dose) | Pure codeine or combined with morphine | Prescription only; limited dispensing. |
+
+---
+
+### Schedule III – Regulated Medical Substances  
+| Substance | Examples | Legal Status |
+|------------|-----------|---------------|
+| Co-Codamol / Tramadol | Mild to moderate opioid painkillers | Prescription required; overuse constitutes misdemeanor offense. |
+| Benzodiazepines | Diazepam, Lorazepam | Prescription only; moderate potential for dependency. |
+| Low-dose Codeine Formulations | Cough mixtures or mild analgesics | Controlled sale; pharmacist-dispensed only. |
+| Steroidal Compounds | Testosterone, Nandrolone | Prescription only; performance enhancement misuse prohibited. |
+
+---
+
+### Schedule IV – Controlled Prescription Substances  
+| Substance | Examples | Legal Status |
+|------------|-----------|---------------|
+| General Pain Relief & OTC Medicines | Ibuprofen, Paracetamol | Legal over-the-counter sale under standard regulation. |
+| Mild Antihistamines / Cold Remedies | Cetirizine, Loratadine | Legal under regulated retail sale. |
+| Antibiotics (Prescription) | Amoxicillin, Doxycycline | Prescription required; standard medical control. |
+
+---
+
+### Schedule V – Minimal-Control Substances  
+| Substance | Examples | Legal Status |
+|------------|-----------|---------------|
+| Cannabis (Marijuana) | Dried flower, joints, oil, resin | Legal in limited quantities (see Article IV). |
+| CBD Products | Non-psychoactive cannabis | Fully legal under regulation. |
+| Cough Syrups (Codeine-based) | Mild opioid content | Regulated sale only. |
 
 **Note:**  
-Schedules I–IV currently have no active entries.  
-The **Department of Justice (DOJ)** and **State Legislature** reserve authority to add new substances by legislative amendment or executive order as new narcotics enter circulation.  
+Schedules I–IV are subject to expansion or amendment by the **Department of Justice (DOJ)** and **State Legislature** via official bulletin or legislative order.  
 
 </details>
 
@@ -120,8 +158,12 @@ The **Department of Justice (DOJ)** and **State Legislature** reserve authority 
 | Possession of Marijuana (Over 10 Joints) | Misdemeanor | 15 months | $600 |
 | Cultivation of Marijuana (Over 3 Plants) | Felony | 25 months | $940 |
 | Unlicensed Distribution of Cannabis | Felony | 30 months | $1,200 |
+| Possession of Controlled Medical Substance (Over 4 bottles) | Misdemeanor | 15 months | $700 |
+| Possession of Controlled Medical Substance Without Prescription | Felony | 25 months | $950 |
+| Unlawful Distribution of Controlled Medical Substance | Felony | 30 months | $1,200 |
 
 </details>
+
 
 ---
 
@@ -162,4 +204,5 @@ It establishes current standards for lawful cannabis use and ensures readiness f
 - Justice Peter Brackley  
 - Justice Mina Mercy  
 - Justice James Anderson  
-- Cheif Of SAMS Tommy Price  
+- Chief of SAMS Tommy Price  
+

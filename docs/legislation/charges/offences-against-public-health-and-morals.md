@@ -395,4 +395,70 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
   </div>
 </div>
 
+<!-- Possession of Controlled Medical Substance (Over 4 Bottles) -->
+<div class="charge misdemeanor">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Possession of Controlled Medical Substance (Over 4 Bottles) (MISDEMEANOR)</div>
+    <div class="charge-row principal">Principal - 15 months - $700</div>>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Possessing more than four bottles or containers of a controlled medical substance without valid justification, indicating potential misuse or intent to distribute.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant knowingly possessed a controlled medical substance.</li>
+        <li>The quantity exceeded four bottles or containers.</li>
+        <li>The possession was not medically or lawfully justified.</li>
+        <li>The defendant acted intentionally and unlawfully.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Possession of Controlled Medical Substance Without Prescription -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Possession of Controlled Medical Substance Without Prescription (FELONY)</div>
+    <div class="charge-row principal">Principal - 25 months - $950</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Possessing a controlled or regulated medical substance without a valid prescription, license, or authorization from a medical professional.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant possessed a controlled medical substance.</li>
+        <li>The substance required a lawful prescription or authorization.</li>
+        <li>The defendant did not possess such authorization.</li>
+        <li>The possession was intentional and unlawful.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Unlawful Distribution of Controlled Medical Substance -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Unlawful Distribution of Controlled Medical Substance (FELONY)</div>
+    <div class="charge-row principal">Principal - 30 months - $1,200</div>
+    <div class="charge-row accomplice">Accomplice - 30 months - $1,200</div>
+    <div class="charge-row accessory">Accessory - 25 months - $950</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Selling, supplying, or providing controlled medical substances without proper licensing, prescription authority, or state authorization.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant sold, supplied, or distributed a controlled medical substance.</li>
+        <li>The defendant was not authorized or licensed to distribute such substances.</li>
+        <li>The distribution involved gain, benefit, or unlawful exchange.</li>
+        <li>The act was deliberate and unlawful under state law.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
 </div>
