@@ -133,7 +133,7 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
   <div class="felony"></div>
   <div class="charge-content">
     <div class="charge-row charge-name">Aiding and Abetting</div>
-    <div class="charge-row principal">15 months - $800/div>
+    <div class="charge-row principal">15 months - $800</div>
     <div class="charge-row accomplice">20 months - $1000</div>
     <div class="charge-row accessory">15 months - $750</div>
     <div class="charge-description">

@@ -219,47 +219,44 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
- <!-- Possession of Marijuana (Over 10 Bags) -->
+
+<!-- Possession of Marijuana (Over 5 Bags) -->
 <div class="charge felony-charge">
   <div class="felony"></div>
   <div class="charge-content">
-    <div class="charge-row charge-name">Possession of Marijuana (Over 10 Bags)</div>
-    <div class="charge-row principal">20 months - $800</div>
-    <div class="charge-row accomplice">20 months - $800</div>
-    <div class="charge-row accessory">15 months - $600</div>
+    <div class="charge-row charge-name">Possession of Marijuana (Over 5 Bags) (FELONY)</div>
+    <div class="charge-row principal">Principal - 20 months - $800</div>
     <div class="charge-description">
       <strong>Description:</strong>
-      Possessing more than ten bags of marijuana, indicating intent to distribute or supply without lawful authorization.
+      Possessing more than five bags of marijuana, indicating possession with intent to distribute or supply without lawful authorization.
       <br><br>
       <strong>Points to Prove:</strong>
       <ul>
         <li>The defendant knowingly possessed marijuana.</li>
-        <li>The total quantity exceeded ten bags.</li>
-        <li>The possession was unlawful and without a valid license.</li>
-        <li>The amount suggests intent to distribute or supply to others.</li>
+        <li>The total quantity exceeded five individual bags.</li>
+        <li>The possession was unlawful and without a valid license or authorization.</li>
+        <li>The amount indicates intent to distribute or supply to others.</li>
       </ul>
     </div>
   </div>
 </div>
 
-<!-- Possession of Marijuana (Over 5 Joints) -->
+<!-- Possession of Marijuana (Over 10 Joints) -->
 <div class="charge misdemeanor">
   <div class="felony"></div>
   <div class="charge-content">
-    <div class="charge-row charge-name">Possession of Marijuana (Over 5 Joints)</div>
-    <div class="charge-row principal">15 months - $600</div>
-    <div class="charge-row accomplice">15 months - $600</div>
-    <div class="charge-row accessory">10 months - $450</div>
+    <div class="charge-row charge-name">Possession of Marijuana (Over 10 Joints) (MISDEMEANOR)</div>
+    <div class="charge-row principal">Principal - 15 months - $600</div>
     <div class="charge-description">
       <strong>Description:</strong>
-      Possessing more than five marijuana joints for personal use without authorization, exceeding the legal limit for recreational possession.
+      Possessing more than ten marijuana joints for personal use without medical or recreational authorization, exceeding the legal possession limit.
       <br><br>
       <strong>Points to Prove:</strong>
       <ul>
-        <li>The defendant was in possession of marijuana in joint form.</li>
-        <li>The total number of joints exceeded five.</li>
-        <li>The possession was not for medical or licensed personal use.</li>
-        <li>The possession was intentional and unlawful.</li>
+        <li>The defendant was in possession of marijuana in rolled or joint form.</li>
+        <li>The quantity exceeded ten joints.</li>
+        <li>The possession was not medically or lawfully authorized.</li>
+        <li>The possession was knowing and unlawful.</li>
       </ul>
     </div>
   </div>
@@ -269,20 +266,18 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
 <div class="charge felony-charge">
   <div class="felony"></div>
   <div class="charge-content">
-    <div class="charge-row charge-name">Cultivation of Marijuana (Over 3 Plants)</div>
-    <div class="charge-row principal">25 months - $940</div>
-    <div class="charge-row accomplice">25 months - $940</div>
-    <div class="charge-row accessory">20 months - $780</div>
+    <div class="charge-row charge-name">Cultivation of Marijuana (Over 3 Plants) (FELONY)</div>
+    <div class="charge-row principal">Principal - 25 months - $940</div>
     <div class="charge-description">
       <strong>Description:</strong>
-      Growing, cultivating, or maintaining more than three marijuana plants without a valid cultivation license or permit.
+      Growing or maintaining more than three marijuana plants without a valid cultivation license, medical authorization, or state-issued permit.
       <br><br>
       <strong>Points to Prove:</strong>
       <ul>
         <li>The defendant cultivated or maintained marijuana plants.</li>
-        <li>The number of plants exceeded three.</li>
-        <li>The cultivation was intentional and unlawful.</li>
-        <li>The defendant did not hold a valid cultivation or medical grow license.</li>
+        <li>The total number of plants exceeded three.</li>
+        <li>The defendant lacked lawful authorization or a valid permit.</li>
+        <li>The act was intentional and unlawful.</li>
       </ul>
     </div>
   </div>
@@ -292,20 +287,83 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
 <div class="charge felony-charge">
   <div class="felony"></div>
   <div class="charge-content">
-    <div class="charge-row charge-name">Unlicensed Distribution of Cannabis</div>
-    <div class="charge-row principal">30 months - $1,200</div>
-    <div class="charge-row accomplice">30 months - $1,200</div>
-    <div class="charge-row accessory">25 months - $950</div>
+    <div class="charge-row charge-name">Unlicensed Distribution of Cannabis (FELONY)</div>
+    <div class="charge-row principal">Principal - 30 months - $1,200</div>>
     <div class="charge-description">
       <strong>Description:</strong>
-      Selling, supplying, or distributing cannabis or cannabis products without the required business license or state authorization.
+      Selling, supplying, or distributing cannabis or cannabis products without holding the required business license or state authorization.
       <br><br>
       <strong>Points to Prove:</strong>
       <ul>
-        <li>The defendant knowingly distributed or sold cannabis products.</li>
-        <li>The defendant did not possess a valid distribution or retail license.</li>
-        <li>The sale or supply involved monetary exchange or benefit.</li>
-        <li>The act was intentional and in violation of state law.</li>
+        <li>The defendant knowingly sold or distributed cannabis products.</li>
+        <li>The distribution was not authorized by a valid license or permit.</li>
+        <li>The exchange involved monetary gain or benefit.</li>
+        <li>The act was intentional and unlawful under state law.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Possession of Controlled Medical Substance (Over 4 Bottles) -->
+<div class="charge misdemeanor">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Possession of Controlled Medical Substance (Over 4 Bottles) (MISDEMEANOR)</div>
+    <div class="charge-row principal">Principal - 15 months - $700</div>>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Possessing more than four bottles or containers of a controlled medical substance without valid justification, indicating potential misuse or intent to distribute.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant knowingly possessed a controlled medical substance.</li>
+        <li>The quantity exceeded four bottles or containers.</li>
+        <li>The possession was not medically or lawfully justified.</li>
+        <li>The defendant acted intentionally and unlawfully.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Possession of Controlled Medical Substance Without Prescription -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Possession of Controlled Medical Substance Without Prescription (FELONY)</div>
+    <div class="charge-row principal">Principal - 25 months - $950</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Possessing a controlled or regulated medical substance without a valid prescription, license, or authorization from a medical professional.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant possessed a controlled medical substance.</li>
+        <li>The substance required a lawful prescription or authorization.</li>
+        <li>The defendant did not possess such authorization.</li>
+        <li>The possession was intentional and unlawful.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Unlawful Distribution of Controlled Medical Substance -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Unlawful Distribution of Controlled Medical Substance (FELONY)</div>
+    <div class="charge-row principal">Principal - 30 months - $1,200</div>
+    <div class="charge-row accomplice">Accomplice - 30 months - $1,200</div>
+    <div class="charge-row accessory">Accessory - 25 months - $950</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Selling, supplying, or providing controlled medical substances without proper licensing, prescription authority, or state authorization.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant sold, supplied, or distributed a controlled medical substance.</li>
+        <li>The defendant was not authorized or licensed to distribute such substances.</li>
+        <li>The distribution involved gain, benefit, or unlawful exchange.</li>
+        <li>The act was deliberate and unlawful under state law.</li>
       </ul>
     </div>
   </div>

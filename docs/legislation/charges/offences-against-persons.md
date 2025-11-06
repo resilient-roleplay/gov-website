@@ -289,6 +289,54 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+<!-- Hostage Taking of a Government Official / Peace Officer -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Hostage Taking of a Government Official / Peace Officer (FELONY)</div>
+    <div class="charge-row principal">Principal - 65 months - $2,800</div>
+    <div class="charge-row accomplice">Accomplice - 65 months - $2,800</div>
+    <div class="charge-row accessory">Accessory - 48 months - $2,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Unlawfully detaining or holding a government official or peace officer against their will by use or threat of force, intimidation, or coercion, in order to influence or obstruct lawful duties.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The victim was a government official or peace officer acting in an official capacity.</li>
+        <li>The defendant intentionally detained or restrained the victim against their will.</li>
+        <li>The act involved force, threat, or intimidation.</li>
+        <li>The intent was to compel, obstruct, or retaliate against lawful duties.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Attempted Hostage Taking of a Government Official / Peace Officer -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Attempted Hostage Taking of a Government Official / Peace Officer (FELONY)</div>
+    <div class="charge-row principal">Principal - 50 months - $2,000</div>
+    <div class="charge-row accomplice">Accomplice - 50 months - $2,000</div>
+    <div class="charge-row accessory">Accessory - 36 months - $1,400</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Attempting to unlawfully seize, detain, or hold a government official or peace officer against their will through force, threat, or intimidation, but failing to complete the act.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The victim was a government official or peace officer acting in an official capacity.</li>
+        <li>The defendant intended to detain or restrain the victim against their will.</li>
+        <li>The defendant took a substantial step toward committing the act.</li>
+        <li>The act was not completed but was deliberate and unlawful.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+
   <!-- Torture -->
   <div class="charge felony-charge">
     <div class="felony"></div>
