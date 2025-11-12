@@ -75,9 +75,11 @@ export default {
             { text: "Mutual Combat and Trial by Combat Legislation", link: "/legislation/mutual-combat" },
             { text: "Police K-9 Legal Protections Act", link: "/legislation/k9" },
             { text: "Weapons & Drivers License Legislation Act", link: "/legislation/weapons-driving-licenses" },
+            { text: "Firearms Control and Licensing Act (FCLA)", link: "/legislation/FCLA" },
             { text: "Statewide Traffic Ordinances Act", link: "/legislation/traffic-ordinance" },
             { text: "Legal Profession Classification and BAR Licensing Act", link: "/legislation/lawyers" },
             { text: "Judicial Structure, Powers, and Appointment Act", link: "/legislation/judiciary" },
+            { text: "Repeat Offender Sentencing Enhancement Act (ROSEA)", link: "/legislation/ROSEA" },
           ],
         },
         {
