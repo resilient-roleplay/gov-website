@@ -98,6 +98,7 @@ export default {
             { text: "Offenses Involving Operation of a Vehicle/General Citations", link: "/legislation/charges/offences-involving-operation-of-a-vehicle-general-citations" },
             { text: "Offences Involving Weapons and Firearms", link: "/legislation/charges/offences-involving-weapons-and-firearms" },
             { text: "Offences Against the State", link: "/legislation/charges/offences-against-the-state" },
+            { text: "Offences Involving Narcotics", link: "/legislation/charges/offences-involving-narcotics" },
             { text: "Offences Against Civil Conduct", link: "/legislation/charges/offences-against-civil-conduct" },
           ],
         },

@@ -2,21 +2,38 @@
 __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
 <div class="charges-container">
 
-  <!-- Unlicensed Possession of a Class 1 Firearm (M1911) -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- Possession of Weapon Class 0 (Melee) -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Unlicensed Possession of a Class 1 Firearm (M1911)</div>
-      <div class="charge-row principal">Principal - 24 months - $500</div>
-      <div class="charge-row accomplice">Accomplice - 24 months - $500</div>
-      <div class="charge-row accessory">Accessory - 14 months - $300</div>
+      <div class="charge-row charge-name">Possession of Weapon Class 0 (Melee)</div>
+      <div class="charge-row principal">Principal - 10 months - $150</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Possession of an M1911 handgun without a valid DOJ-issued firearms licence under the Weapons & Drivers License Legislation Act.
+        Possession of a melee weapon (knife, crowbar, hammer, golf club, etc.) without lawful justification.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant possessed a Class 1 firearm (M1911).</li>
+          <li>Defendant possessed a Class 0 weapon.</li>
+          <li>No lawful purpose or authorisation existed.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Unlicensed Possession of a Class 1 Firearm -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Unlicensed Possession of a Class 1 Firearm</div>
+      <div class="charge-row principal">Principal - 24 months - $500</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Possession of a Class 1 firearm without a valid DOJ licence.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant possessed a Class 1 firearm.</li>
           <li>No valid DOJ firearms licence was held.</li>
           <li>Possession was intentional and unlawful.</li>
         </ul>
@@ -29,106 +46,94 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Possession of a Government-Issued Class 1 Weapon (PD Pistol)</div>
-      <div class="charge-row principal">Principal - 48 months - $1,200</div>
-      <div class="charge-row accomplice">Accomplice - 48 months - $1,200</div>
-      <div class="charge-row accessory">Accessory - 28 months - $720</div>
+      <div class="charge-row principal">Principal - 48 months - $900</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Possession of a government-issued PD pistol by a civilian without lawful authority or duty status.
+        Possession of a PD-issued Class 1 firearm by a civilian or unauthorised person.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>The firearm was identified as a government-issued Class 1 weapon (PD pistol).</li>
-          <li>Defendant was not authorised or on law enforcement duty.</li>
+          <li>Weapon identified as a PD-issued Class 1 firearm.</li>
+          <li>Defendant lacked lawful authorisation.</li>
           <li>Possession was intentional and unlawful.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Possession of a Class 2 Weapon (Prohibited) -->
+  <!-- Possession of Weapon Class 2 (Prohibited) -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Possession of a Class 2 Weapon (Prohibited)</div>
-      <div class="charge-row principal">Principal - 36 months - $640</div>
-      <div class="charge-row accomplice">Accomplice - 36 months - $640</div>
-      <div class="charge-row accessory">Accessory - 21 months - $380</div>
+      <div class="charge-row charge-name">Possession of Weapon Class 2 (Prohibited)</div>
+      <div class="charge-row principal">Principal - 36 months - $1,200</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Possession of a prohibited Class 2 firearm such as a submachine gun or sawn-off shotgun.
+        Possession of a prohibited Class 2 firearm such as an SMG or sawn-off shotgun.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
           <li>Defendant possessed a Class 2 firearm.</li>
-          <li>Weapon type is prohibited under the Firearms Control and Licensing Act.</li>
-          <li>Possession was intentional and unlawful.</li>
+          <li>No licence or legal justification existed.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Possession of a Class 3 Weapon (Restricted Military) -->
+  <!-- Possession of Weapon Class 3 (Restricted Military) -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Possession of a Class 3 Weapon (Restricted Military)</div>
-      <div class="charge-row principal">Principal - 48 months - $720</div>
-      <div class="charge-row accomplice">Accomplice - 48 months - $720</div>
-      <div class="charge-row accessory">Accessory - 28 months - $430</div>
+      <div class="charge-row charge-name">Possession of Weapon Class 3 (Restricted Military)</div>
+      <div class="charge-row principal">Principal - 48 months - $2,675</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Possession of a restricted Class 3 weapon such as a select-fire or fully automatic rifle.
+        Possession of a restricted or military-grade Class 3 weapon.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
           <li>Defendant possessed a Class 3 firearm.</li>
-          <li>Weapon was restricted or military in nature.</li>
-          <li>Possession was intentional and unlawful.</li>
+          <li>Weapon was restricted or prohibited.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Possession of a Class 4 Weapon (Explosive / Heavy) -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
+  <!-- Brandishing a Firearm -->
+  <div class="charge misdemeanor-charge">
+    <div class="misdemeanor"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Possession of a Class 4 Weapon (Explosive / Heavy)</div>
-      <div class="charge-row principal">Principal - 60 months - $1,000</div>
-      <div class="charge-row accomplice">Accomplice - 60 months - $1,000</div>
-      <div class="charge-row accessory">Accessory - 36 months - $600</div>
+      <div class="charge-row charge-name">Brandishing a Firearm</div>
+      <div class="charge-row principal">Principal - 20 months - $700</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Possession of a heavy or explosive Class 4 weapon, including RPGs or anti-material rifles.
+        Displaying or waving a firearm in a threatening or intimidating manner without lawful justification.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant possessed a Class 4 weapon.</li>
-          <li>Weapon was designed for explosive or high-calibre use.</li>
-          <li>Possession was intentional and unlawful.</li>
+          <li>Defendant displayed or drew a firearm.</li>
+          <li>Display caused fear, alarm, or intimidation.</li>
+          <li>No lawful justification existed (e.g. self-defence).</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Possession of a Class 5 Weapon (Government Issue / Sensitive Ordnance) -->
+  <!-- Discharging a Firearm in Public -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Possession of a Class 5 Weapon (Government Issue / Sensitive Ordnance)</div>
-      <div class="charge-row principal">Principal - 72 months - $2,400</div>
-      <div class="charge-row accomplice">Accomplice - 72 months - $2,400</div>
-      <div class="charge-row accessory">Accessory - 43 months - $1,400</div>
+      <div class="charge-row charge-name">Discharging a Firearm in Public</div>
+      <div class="charge-row principal">Principal - 25 months - $1,200</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Possession of Class 5 ordnance, evidence-marked, or government-issued firearms without authorisation.
+        Firing a firearm in a public area without lawful reason or endangering others.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Weapon was identified as a government Class 5 firearm or ordnance.</li>
-          <li>Defendant lacked authorisation to possess the item.</li>
-          <li>Possession was intentional and unlawful.</li>
+          <li>Defendant discharged a firearm in a public place.</li>
+          <li>The act was reckless or endangered others.</li>
+          <li>No legal or defensive justification existed.</li>
         </ul>
       </div>
     </div>
@@ -139,18 +144,16 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Unlicensed Manufacture of Firearms or Parts</div>
-      <div class="charge-row principal">Principal - 48 months - $1,000</div>
-      <div class="charge-row accomplice">Accomplice - 48 months - $1,000</div>
-      <div class="charge-row accessory">Accessory - 28 months - $600</div>
+      <div class="charge-row principal">Principal - 48 months - $1,500</div>
       <div class="charge-description">
         <strong>Description:</strong>
         Manufacturing or assembling any firearm or major component without DOJ authorisation.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant constructed or assembled a firearm or component.</li>
+          <li>Defendant manufactured or modified a firearm or component.</li>
           <li>No valid DOJ manufacturing licence existed.</li>
-          <li>Action was intentional and unlawful.</li>
+          <li>Act was intentional and unlawful.</li>
         </ul>
       </div>
     </div>
@@ -161,18 +164,16 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Stockpiling / Possession with Intent to Distribute</div>
-      <div class="charge-row principal">Principal - 48 months - $800</div>
-      <div class="charge-row accomplice">Accomplice - 48 months - $800</div>
-      <div class="charge-row accessory">Accessory - 28 months - $480</div>
+      <div class="charge-row principal">Principal - 48 months - $1,000</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Possession of large quantities of firearms, parts, or ammunition suggesting intent to distribute.
+        Possession of large quantities of firearms, ammunition, or parts indicating intent to distribute.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant possessed multiple firearms, parts, or ammunition.</li>
-          <li>Volume exceeded reasonable personal use.</li>
-          <li>Evidence indicated intent to distribute or traffic.</li>
+          <li>Defendant possessed multiple firearms or ammunition.</li>
+          <li>Quantity exceeded reasonable personal use.</li>
+          <li>Intent to distribute or traffic can be inferred.</li>
         </ul>
       </div>
     </div>
@@ -183,12 +184,10 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Illegal Distribution / Trafficking of Firearms</div>
-      <div class="charge-row principal">Principal - 60 months - $1,200</div>
-      <div class="charge-row accomplice">Accomplice - 60 months - $1,200</div>
-      <div class="charge-row accessory">Accessory - 36 months - $720</div>
+      <div class="charge-row principal">Principal - 60 months - $1,050</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Selling, transferring, or transporting firearms or ammunition without a DOJ-issued licence.
+        Selling, transferring, or transporting firearms or ammunition without DOJ authorisation.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
@@ -200,89 +199,99 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
-  <!-- Carrying Loaded Firearm in Public (No Permit) -->
+  <!-- Possession of a Class 4 Weapon (Explosive / Heavy) -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Carrying Loaded Firearm in Public (No Permit)</div>
-      <div class="charge-row principal">Principal - 18 months - $400</div>
-      <div class="charge-row accomplice">Accomplice - 18 months - $400</div>
-      <div class="charge-row accessory">Accessory - 10 months - $240</div>
+      <div class="charge-row charge-name">Possession of a Class 4 Weapon (Explosive / Heavy)</div>
+      <div class="charge-row principal">Principal - 0 months - $0</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Carrying or displaying a loaded firearm in public without a valid DOJ permit.
+        Possession of heavy or explosive weaponry such as RPGs or high-calibre ordnance.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant carried or displayed a loaded firearm.</li>
-          <li>No valid DOJ carry permit existed.</li>
-          <li>Conduct occurred in a public setting.</li>
+          <li>Weapon identified as Class 4.</li>
+          <li>Possession was intentional and unlawful.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Failure to Secure Firearm (Resulting in Harm) -->
+  <!-- Possession of a Class 5 Weapon (Government / Sensitive Ordnance) -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Failure to Secure Firearm (Resulting in Harm)</div>
-      <div class="charge-row principal">Principal - 36 months - $600</div>
-      <div class="charge-row accomplice">Accomplice - 36 months - $600</div>
-      <div class="charge-row accessory">Accessory - 21 months - $360</div>
+      <div class="charge-row charge-name">Possession of a Class 5 Weapon (Government / Sensitive Ordnance)</div>
+      <div class="charge-row principal">Principal - 72 months - $1,800</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Failing to store or secure a firearm properly, resulting in harm, injury, or loss of life.
+        Possession of government-issued or sensitive Class 5 weaponry without authorisation.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant was the legal owner of the firearm.</li>
-          <li>Firearm was not safely secured.</li>
-          <li>Negligence directly led to harm or injury.</li>
+          <li>Weapon was a government-issue Class 5 item.</li>
+          <li>Defendant lacked lawful authority.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Forgery / Fraud in Licence Application -->
+  <!-- Weapon Trafficking Class 1 (HUT) -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Forgery / Fraud in Licence Application</div>
-      <div class="charge-row principal">Principal - 30 months - $480</div>
-      <div class="charge-row accomplice">Accomplice - 30 months - $480</div>
-      <div class="charge-row accessory">Accessory - 18 months - $280</div>
+      <div class="charge-row charge-name">Weapon Trafficking Class 1 (HUT)</div>
+      <div class="charge-row principal">Principal - 0 months - $0</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Providing false or misleading information on a DOJ firearm licence application or renewal.
+        Transporting or selling six or more illegal or unregistered Class 1 firearms.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant submitted or altered official DOJ documents.</li>
-          <li>Information was false, incomplete, or misleading.</li>
-          <li>Act was intentional and designed to deceive.</li>
+          <li>Defendant transported or sold six or more Class 1 firearms.</li>
+          <li>Firearms were illegal, unregistered, or unlicensed.</li>
+          <li>Intent to traffic or distribute can be inferred.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <!-- Dealer / Licence Misconduct (Licensed Seller) -->
+  <!-- Weapon Trafficking Class 2 (HUT) -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Dealer / Licence Misconduct (Licensed Seller)</div>
-      <div class="charge-row principal">Principal - 36 months - $800</div>
-      <div class="charge-row accomplice">Accomplice - 36 months - $800</div>
-      <div class="charge-row accessory">Accessory - 21 months - $480</div>
+      <div class="charge-row charge-name">Weapon Trafficking Class 2 (HUT)</div>
+      <div class="charge-row principal">Principal - 0 months - $0</div>
       <div class="charge-description">
         <strong>Description:</strong>
-        Breach of DOJ firearm dealer regulations, including unlawful sales or falsified records.
+        Transporting or selling four or more illegal or unregistered Class 2 firearms.
         <br><br>
         <strong>Points to Prove:</strong>
         <ul>
-          <li>Defendant held a DOJ firearm dealer licence.</li>
-          <li>Regulatory breach occurred under their operation.</li>
-          <li>Action was intentional, reckless, or negligent.</li>
+          <li>Defendant transported or sold four or more Class 2 firearms.</li>
+          <li>Firearms were illegal or unregistered.</li>
+          <li>Intent to traffic or distribute can be inferred.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Weapon Trafficking Class 3 (HUT) -->
+  <div class="charge felony-charge">
+    <div class="felony"></div>
+    <div class="charge-content">
+      <div class="charge-row charge-name">Weapon Trafficking Class 3 (HUT)</div>
+      <div class="charge-row principal">Principal - 0 months - $0</div>
+      <div class="charge-description">
+        <strong>Description:</strong>
+        Transporting or selling two or more illegal or unregistered Class 3 firearms.
+        <br><br>
+        <strong>Points to Prove:</strong>
+        <ul>
+          <li>Defendant transported or sold two or more Class 3 firearms.</li>
+          <li>Firearms were illegal or unregistered.</li>
+          <li>Intent to traffic or distribute can be inferred.</li>
         </ul>
       </div>
     </div>
