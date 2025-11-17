@@ -170,6 +170,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Unlawful Use of Disabled Parking Space (INFRACTION) -->
+<div class="charge infraction">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Unlawful Use of Disabled Parking Space (INFRACTION)</div>
+    <div class="charge-row principal">Principal - 0 months - $250</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Parking in a designated disabled parking space without a valid blue badge or disabled parking permit visibly displayed.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The vehicle was parked in a marked disabled parking space.</li>
+        <li>No valid disabled permit was clearly visible on the vehicle.</li>
+        <li>The defendant was not authorized to use the disabled bay.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
   <!-- Street Racing -->
   <div class="charge felony-charge">
     <div class="felony"></div>
