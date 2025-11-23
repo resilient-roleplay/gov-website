@@ -56,6 +56,7 @@ export default {
           collapsed: true,
           items: [
             { text: "Constitution of the State of San Andreas", link: "/legislation/constitution" },
+            { text: "Business Licensing & Operations Act", link: "/legislation/business-licensing" },
             { text: "Due Process and Jurisprudence Act", link: "/legislation/due-process" },
             { text: "Search and Seizure Act", link: "/legislation/search-seizure" },
             { text: "Legislative Enactment and Contest Procedure Act", link: "/legislation/legislation-enactment" },
