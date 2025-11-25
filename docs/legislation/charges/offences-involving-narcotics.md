@@ -197,6 +197,27 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+<!-- Possession of Cannabis Seeds (Over 50 Seeds) -->
+<div class="charge felony">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Possession of Cannabis Seeds (Over 50 Seeds) (FELONY)</div>
+    <div class="charge-row principal">Principal - 20 months - $1,200</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Possessing more than fifty cannabis seeds of any type (male or female), indicating unlawful intent to cultivate beyond legal limits or engage in illegal distribution.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant possessed cannabis seeds.</li>
+        <li>The total quantity exceeded fifty seeds.</li>
+        <li>The seeds were not lawfully authorized for cultivation or business use.</li>
+        <li>The possession was knowing and unlawful.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
   <!-- Unlicensed Distribution of Cannabis -->
   <div class="charge felony-charge">
     <div class="felony"></div>
