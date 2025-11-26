@@ -17,37 +17,78 @@ The purpose of this legislation is to define the authority, responsibilities, me
 ## Constitutional Justification  
 
 **Right to Health:** Guarantees access to professional medical treatment, emergency care, and continued hospital services.  
+
 **Right to Life and Safety:** Requires the State to maintain systems capable of preserving life at all stages—from emergency response to in-hospital care.  
-**Right to Public Protection:** Authorises coordinated medical, rescue, and aero-medical services during emergencies and critical incidents.
+
+**Right to Public Protection:** Authorises coordinated medical, rescue, and aero-medical services during emergencies and critical incidents.  
+
+**Right to Refusal of Treatment:** Recognises that all competent individuals maintain the constitutional right to decline medical treatment, examination, transport, or hospital care, except where lawful exceptions apply.  
+
+**Right to a Safe Working Environment (SAMS):** Ensures that medical professionals are not required to provide treatment when they are subjected to abuse, threats, violence, or behaviour that compromises their safety. SAMS personnel may lawfully withdraw, delay, or refuse **non-life-saving** treatment when continuing would endanger staff, other patients, or public safety. If such refusal occurs, the individual may still obtain medical assistance by attending **Pillbox Hospital** and speaking with **Nurse Nancy** at the front desk for alternative treatment.
 
 ---
 
 <details open>
 <summary><strong>Section 1 – Definitions</strong></summary>
 
+**San Andreas Medical Authority (SAMA):**  
+The San Andreas Medical Authority (SAMA) is the State’s governing body for all clinical, hospital, surgical, and emergency medical standards. Operating under the Department of Justice, SAMA functions as the central regulatory authority responsible for licensing, oversight, and compliance across all SAMS operations and associated medical divisions. SAMA is empowered to issue directives, establish statewide medical policy, regulate healthcare practice, and ensure all SAMS personnel and facilities adhere to statutory medical, ethical, and operational requirements.
+
+---
+
+**Chief Medical Director:**  
+A senior licensed medical authority appointed by the Department of Justice to preside over the San Andreas Medical Authority (SAMA). The Chief Medical Director holds supreme responsibility for all clinical governance within SAMS, including establishing hospital standards, authorising surgical practices, approving treatment protocols, certifying medical personnel, and ensuring full compliance with State medical regulations, ethics, and SAMA directives.
+
+**Assistant Medical Director:**  
+A licensed medical authority appointed by the Department of Justice to support the Chief Medical Director within the San Andreas Medical Authority (SAMA). The Assistant Medical Director assists in overseeing clinical governance, maintaining hospital and surgical standards, managing certifications, reviewing treatment protocols, and ensuring adherence to authorised medical procedures, regulatory requirements, and SAMA-issued policies across all SAMS operations.
+
+---
+
 **San Andreas Medical Services (SAMS):**  
 The State-recognised emergency medical, hospital care, and rescue provider responsible for pre-hospital treatment, patient transport, in-hospital care, and specialised rescue operations.
 
-**Medical Director:**  
-A licensed medical authority appointed by the Department of Justice to oversee all clinical governance, hospital standards, surgical authorisations, certifications, and medical regulations within SAMS.
+---
 
-**Emergency Medical Technician (EMT):**  
-A certified responder trained to provide Basic Life Support (BLS) and foundational emergency care.
+**SAMS Chief's:** 
+A member of SAMS High Command, Responsible for overseeing the entire SAMS strategic planning and organisational goals, and makes the final decision on disciplinary matters and decisions brought to them.
+
+**Lieutenant:**
+A member of the SAMS Command. Responsible for leading the shift. If Complaints/Issues can't be resolved by paramedics, lieutenants can take over. They can also give in-character punishments and are responsible for overseeing the FTO program and training for certification.
 
 **Paramedic:**  
-An advanced practitioner authorised to perform Advanced Life Support (ALS) interventions under SAMS clinical protocols.
+A Member of SAMS who is in charge of running the FTO program and being the first point for Complaints/Issues & and conducting interviews. They also assist the command in decision-making within the department.
+
+**Senior Emergency Medical Technician (S-EMT):**  
+A More Senior EMT who has shown dedication to SAMS; they assist command by ensuring EMTs/trainees are attending calls, and they can also become an FTI. They can also obtain more advanced certificatio
+
+**Emergency Medical Technician (EMT):**  
+A fully trained EMT who has completed their trainee phase; they can earn additional certifications. They can earn the FTO to help trainees with mandatory certs. Finally, they can take Civilians on authorised ride-alongs
+
+**Traniee:**
+ New hires to the SAMS learn the basics by shadowing experienced SAMS personnel and gaining knowledge
+
+---
+
+### Approved Cetrification:
 
 **Hospital Practitioner:**  
 A SAMS-certified medical professional authorised to provide in-hospital care, postoperative treatment, and medical oversight under the Medical Director.
 
-**Surgeon:**  
+**Surgery:**  
 A medically qualified practitioner authorised by the Medical Director to conduct invasive surgical procedures within authorised SAMS medical facilities.
 
-**Aero-Medical (Air Med) Operations:**  
+**Aero-Medical (Angel One) Operations:**  
 Emergency medical response and patient transport delivered via helicopter or other aircraft for critical, remote, or time-sensitive incidents.
 
-**Rescue Operations:**  
+**Search And Rescue:**  
 Mountain rescue, high-angle, water rescue, or any emergency extraction requiring specialised equipment and training.
+
+**Veterinary Practitioner:**  
+A licensed animal healthcare professional authorised to provide medical assessment, treatment, and emergency care to animals. Veterinary Practitioners may be requested to support  State agencies in incidents involving injured service animals, wildlife, or situations requiring specialised animal medical expertise.
+
+**Mental Health Practitioner:**  
+A licensed and trained professional authorised to assess, diagnose, and provide therapeutic intervention for individuals experiencing mental health crises or psychiatric conditions. Mental Health Practitioners may be deployed by SAMS or requested by State agencies to support crisis response, conduct mental health evaluations, manage behavioural emergencies, and ensure the safe and ethical treatment of individuals requiring psychological care.
+
 
 </details>
 
@@ -66,18 +107,6 @@ Mountain rescue, high-angle, water rescue, or any emergency extraction requiring
 - Certifying EMTs, Paramedics, Hospital Practitioners, and Surgeons.  
 - Approving clinical protocols, surgical procedures, and hospital standards.  
 - Ensuring compliance with State healthcare regulations and ethics.
-
----
-
-**Rank Structure:**  
-- Chief of SAMS  
-- Deputy Chief  
-- Lieutenant  
-- Paramedic  
-- Senior EMT  
-- EMT  
-- Trainee / Probationary Member  
-- (Hospital Divisions operate on separate clinical titles authorised by the Medical Director.)  
 
 </details>
 

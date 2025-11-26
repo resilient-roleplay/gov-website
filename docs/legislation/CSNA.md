@@ -112,6 +112,7 @@ Schedules I–IV are subject to expansion or amendment by the **Department of Ju
   - Up to **10 joints** per individual.  
   - Up to **5 bagged units** of cannabis flower.  
   - Up to **3 cannabis plants** cultivated per household.  
+  - Up to **50 cannabis seeds** (male or female) may be legally possessed for personal cultivation purposes.  
 - Possession exceeding these limits constitutes an offense under this Act.  
 - Cannabis must be kept in a sealed container when transported and may not be consumed in vehicles or public areas.  
 - Individuals under **21 years of age** are prohibited from possessing or consuming cannabis.  
@@ -156,6 +157,7 @@ Schedules I–IV are subject to expansion or amendment by the **Department of Ju
 |----------|----------------|-----------|------|
 | Possession of Marijuana (Over 5 Bags) | Felony | 20 months | $800 |
 | Possession of Marijuana (Over 10 Joints) | Misdemeanor | 15 months | $600 |
+| Possession of Cannabis Seeds (Over 50 Seeds) | Felony | 20 months | $1,200 |
 | Cultivation of Marijuana (Over 3 Plants) | Felony | 25 months | $940 |
 | Unlicensed Distribution of Cannabis | Felony | 30 months | $1,200 |
 | Possession of Controlled Medical Substance (Over 4 bottles) | Misdemeanor | 15 months | $700 |
