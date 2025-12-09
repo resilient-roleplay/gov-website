@@ -25,17 +25,9 @@ Traffic citations are exempt from this restriction.
 
 The initial expungement request shall cost $50,000. Each additional expungement thereafter will triple (3x) in cost.
 
-Grave Offence Protocol charges as denotes in the Due Process and Jurisprudence Act, are not eligable for 'regular' expungement. These can be expunged as detailed in Artice III.
+HUT charges as denotes in the Due Process and Jurisprudence Act, are not eligable for expungement. 
 
-##  Article III - GOP Expungement Procedure
-1. This provision allows a one-time exceptional opportunity for expungement of a single GOP (Grave Offence Protocol) charge.
-- The applicant must pay a non-refundable fee of $250,000, regardless of outcome.
-- Upon payment, the applicant is entitled to a formal court hearing before a Justice, with a possible panel of Judges, to present their case for clemency.
-- The hearing shall be public, allowing testimony or objection from concerned citizens and Law Enforcement Officers.
-- The panel may grant conditional clemency, which may include specific performance (e.g. community service) or a probationary period requiring the applicant to remain crime-free for a defined duration.
-- Approval of a GOP expungement fully removes the associated conviction from the applicant’s criminal record.
-
-## Article IV - Administrative Recordkeeping and Notification
+## Article III - Administrative Recordkeeping and Notification
 
 1. Upon completion of an expungement, the presiding Judge or Justice must ensure the following administrative actions are taken:
    - A note shall be placed on the individual’s MDT profile, clearly stating:
@@ -53,5 +45,4 @@ The Expungement Legislation Act provides citizens with a structured process for 
 - Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
-- Justice Tess Timony
 - Justice James Anderson
