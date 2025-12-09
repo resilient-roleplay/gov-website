@@ -139,9 +139,9 @@ Common Law may arise from **any judicial proceeding**, whether civil or criminal
 1. No individual shall face prosecution twice for the same criminal incident.
 2. Exception - Delayed Death Clause: If a victim later dies from injuries sustained during the original incident, the matter may be refiled under applicable homicide charges.
 
-## Section 16 - Maximum Sentences for Non-GOP Cases
-1. Sentences for non-Grave Offence cases arising from a single incident shall not exceed 150 months of incarceration, unless:
-   - The offence qualifies under the Grave Offence Provisions;
+## Section 16 - Maximum Sentences for Non-HUT Cases
+1. Sentences for non-HUT cases arising from a single incident shall not exceed 150 months of incarceration, unless:
+   - The offence qualifies under the Held Until Trial Provisions;
    - The sentence results from a judicial ruling; or
    - The offence involves contempt or violation of court order.
 
