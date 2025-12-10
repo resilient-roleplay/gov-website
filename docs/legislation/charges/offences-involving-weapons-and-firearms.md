@@ -297,4 +297,50 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+  <!-- Gang Related Shooting -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Gang Related Shooting</div>
+    <div class="charge-row principal">Principal - 60 months - $2,800</div>
+
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Discharging a firearm during gang activity, including retaliation, intimidation, territorial disputes, or coordinated criminal actions.
+      <br><br>
+
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant discharged a firearm or participated in a shooting.</li>
+        <li>The act was connected to gang affiliation, rivalry, or benefit.</li>
+        <li>The shooting endangered an individual or the public.</li>
+        <li>The defendant acted knowingly and unlawfully.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Accessory to Gang Related Shooting -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Accessory to Gang Related Shooting</div>
+    <div class="charge-row principal">Principal - 45 months - $2,000</div>
+
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Assisting, aiding, or enabling a gang-related shooting before, during, or after the offense without personally firing a weapon.
+      <br><br>
+
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>A gang-related shooting occurred.</li>
+        <li>The defendant intentionally aided, encouraged, or supported the offender.</li>
+        <li>The defendant knew the act was gang-related.</li>
+        <li>The defendant’s actions contributed to the commission or escape.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 </div>

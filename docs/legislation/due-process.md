@@ -48,18 +48,36 @@ Under Article III, Section 6 of the Constitution of San Andreas, all citizens ar
 4. Small Claims (up to $50,000) may be heard immediately at judicial discretion.
 5. If the respondent is a Judicial Officer, they must be named individually; the DOJ itself may not be named as a defendant. This exception is to protect it's constitutional mandate of preserving citizens rights to due process.
 
-## Section 6 - Grave Offence Provisions (GOP)
-1. Individuals charged with Grave Offences may be detained for up to twenty-four (24) hours pending arraignment, extendable only with judicial approval.
-2. All defendants must be afforded the opportunity for bail unless explicitly denied by a Justice.
-3. Arraignment occurs upon judicial review or when bail conditions are approved on the docket.
-4. Charges must be filed within seventy-two (72) hours of detainment.
-5. Standard bail conditions include restrictions on residence, substance use, weapons, and conduct, as well as full cooperation with the Court.
-6. Bail may only be revoked or modified by the presiding Judge or Justice.
-7. Failure to comply results in remand to Bolingbroke Penitentiary until trial.
+## Section 6 - Held Until Trial (HUT) Provisions
 
-**Grave Offences include:**
+1. Individuals subject to **Held Until Trial (HUT)** status may be detained for up to **twenty-four (24) hours** pending arraignment, extendable only with judicial approval.  
+2. All defendants must be afforded the opportunity for **bail**, unless explicitly denied by a Justice.  
+3. Arraignment occurs upon judicial review or when bail conditions are approved on the docket.  
+4. Charges must be filed within **seventy-two (72) hours** of detainment.  
+5. Standard bail conditions include restrictions on residence, substance use, weapons, association, and conduct, as well as **full cooperation with the Court**.  
+6. Bail may only be revoked or modified by the presiding Judge or Justice.  
+7. Failure to comply results in **remand to Bolingbroke Penitentiary until trial** under HUT status.
 
-- TO BE ADDED
+**Offences eligible for HUT designation include:**
+
+- Murder of a Government Employee (HUT)  
+- 1st Degree Murder (HUT)  
+- 2nd Degree Murder (HUT)  
+- Manslaughter (HUT)  
+- Attempted 1st Degree Murder (HUT)  
+
+- Torture (HUT)  
+
+- Weapon Trafficking (HUT)  
+- Weapons Manufacturing (HUT)  
+
+- Terrorism (HUT)  
+- Attempted Terrorism (HUT)  
+- Aiding or Abetting Terrorism (HUT)  
+- Attempted Aiding or Abetting Terrorism (HUT)   
+- Treason (HUT)  
+
+- Illegal Exhumation (HUT)  
 
 ## Section 7 - Fruit of the Poisonous Tree Doctrine
 1. Evidence obtained directly or indirectly through illegal, unconstitutional, or procedurally defective means shall be deemed inadmissible in any judicial proceeding.
@@ -121,9 +139,9 @@ Common Law may arise from **any judicial proceeding**, whether civil or criminal
 1. No individual shall face prosecution twice for the same criminal incident.
 2. Exception - Delayed Death Clause: If a victim later dies from injuries sustained during the original incident, the matter may be refiled under applicable homicide charges.
 
-## Section 16 - Maximum Sentences for Non-GOP Cases
-1. Sentences for non-Grave Offence cases arising from a single incident shall not exceed 150 months of incarceration, unless:
-   - The offence qualifies under the Grave Offence Provisions;
+## Section 16 - Maximum Sentences for Non-HUT Cases
+1. Sentences for non-HUT cases arising from a single incident shall not exceed 150 months of incarceration, unless:
+   - The offence qualifies under the Held Until Trial Provisions;
    - The sentence results from a judicial ruling; or
    - The offence involves contempt or violation of court order.
 
@@ -157,7 +175,6 @@ Common Law may arise from **any judicial proceeding**, whether civil or criminal
 - Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
-- Justice Tess Timony
 - Justice James Anderson
 
 
