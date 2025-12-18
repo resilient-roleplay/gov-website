@@ -306,47 +306,66 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
   </div>
 
   <!-- ATM Robbery -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">ATM Robbery (FELONY)</div>
-      <div class="charge-row principal">Principal - 45 months - $5,000</div>
-      <div class="charge-row accomplice">Accomplice - 45 months - $5,000</div>
-      <div class="charge-row accessory">Accessory - 27 months - $3,000</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Using tools or explosives to rob an ATM.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant used force, tools, or explosives on an ATM.</li>
-          <li>The act intended to unlawfully take money.</li>
-          <li>Act was deliberate and without consent.</li>
-        </ul>
-      </div>
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">ATM Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 25 months - $2,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Using force, tools, or explosives to unlawfully access or damage an automated teller machine (ATM) in order to steal money.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant used force, tools, or explosives on an ATM.</li>
+        <li>The act was intended to unlawfully obtain money.</li>
+        <li>The ATM was damaged or accessed without consent.</li>
+        <li>The act was deliberate and unlawful.</li>
+      </ul>
     </div>
   </div>
+</div>
+
+<!-- Accessory to ATM Robbery -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Accessory to ATM Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 18 months - $1,400</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Knowingly assisting, facilitating, or concealing another person in the commission of an ATM robbery.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>An ATM robbery was committed or attempted.</li>
+        <li>The defendant knowingly assisted or facilitated the offense.</li>
+        <li>The defendant was aware of the unlawful purpose.</li>
+        <li>The assistance helped commit or conceal the crime.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
   <!-- Attempted ATM Robbery -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Attempted ATM Robbery (FELONY)</div>
-      <div class="charge-row principal">Principal - 22 months - $2,500</div>
-      <div class="charge-row accomplice">Accomplice - 22 months - $2,500</div>
-      <div class="charge-row accessory">Accessory - 13 months - $1,500</div>
-      <div class="charge-description">
-        <strong>Description:</strong>
-        Substantial steps toward robbing an ATM without completing the act.
-        <br><br>
-        <strong>Points to Prove:</strong>
-        <ul>
-          <li>Defendant intended to commit ATM robbery.</li>
-          <li>Substantial steps toward the act were taken.</li>
-        </ul>
-      </div>
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Attempted ATM Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 18 months - $1,400</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Taking substantial steps toward robbing an ATM using force, tools, or explosives without completing the act.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant intended to commit an ATM robbery.</li>
+        <li>Substantial steps toward the act were taken.</li>
+        <li>The robbery was not completed.</li>
+      </ul>
     </div>
   </div>
+</div>
 
   <!-- Vehicle Theft -->
   <div class="charge felony-charge">

@@ -51,9 +51,7 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     <div class="misdemeanour"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Criminal Threats (MISDEMEANOUR)</div>
-      <div class="charge-row principal">Principal - 20 months - $1500</div>
-      <div class="charge-row accomplice">Accomplice - 20 months - $1500</div>
-      <div class="charge-row accessory">Accessory - 12 months - $900</div>
+      <div class="charge-row principal">Principal - 10 months - $800</div>
       <div class="charge-description">
         <strong>Description:</strong>
         Communicating a credible threat to injure or kill another person.
@@ -139,9 +137,7 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Hostage Taking (FELONY)</div>
-      <div class="charge-row principal">Principal - 30 months - $5000</div>
-      <div class="charge-row accomplice">Accomplice - 30 months - $5000</div>
-      <div class="charge-row accessory">Accessory - 18 months - $3000</div>
+      <div class="charge-row principal">Principal - 30 months - $3,500</div>
       <div class="charge-description">
         <strong>Description:</strong>
         Holding another person against their will to compel action or advantage.
@@ -156,14 +152,34 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+<!-- Accessory to Hostage Taking -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Accessory to Hostage Taking (FELONY)</div>
+    <div class="charge-row principal">Principal - 20 months - $2,500</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Knowingly assisting, facilitating, or supporting another person in unlawfully detaining or holding a victim against their will to compel action or gain advantage.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>A hostage taking occurred or was attempted.</li>
+        <li>The defendant knowingly assisted or supported the offender.</li>
+        <li>The defendant was aware of the unlawful purpose.</li>
+        <li>The assistance helped commit or conceal the offense.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
   <!-- Attempted Hostage Taking -->
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Attempted Hostage Taking (FELONY)</div>
-      <div class="charge-row principal">Principal - 15 months - $2500</div>
-      <div class="charge-row accomplice">Accomplice - 15 months - $2500</div>
-      <div class="charge-row accessory">Accessory - 9 months - $1500</div>
+      <div class="charge-row principal">Principal - 15 months - $2,000</div>
       <div class="charge-description">
         <strong>Description:</strong>
         Attempting to detain or hold another person against their will to compel action or advantage.
@@ -534,5 +550,7 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
       </div>
     </div>
   </div>
+
+
 
 </div>
