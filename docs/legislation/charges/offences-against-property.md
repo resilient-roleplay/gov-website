@@ -7,9 +7,7 @@ __***ALL CAPITAL OFFENCES ARE HUT CHARGES***__
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Burglary (FELONY)</div>
-      <div class="charge-row principal">Principal - 36 months - $4000</div>
-      <div class="charge-row accomplice">Accomplice - 36 months - $4000</div>
-      <div class="charge-row accessory">Accessory - 21 months - $2400</div>
+      <div class="charge-row principal">Principal - 15 months - $1200</div>
       <div class="charge-description">
         <strong>Description:</strong>
         Unlawfully entering a building to commit theft or another felony.
@@ -29,9 +27,7 @@ __***ALL CAPITAL OFFENCES ARE HUT CHARGES***__
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Attempted Burglary (FELONY)</div>
-      <div class="charge-row principal">Principal - 18 months - $2000</div>
-      <div class="charge-row accomplice">Accomplice - 18 months - $2000</div>
-      <div class="charge-row accessory">Accessory - 10 months - $1200</div>
+      <div class="charge-row principal">Principal - 7 months - $900</div>
       <div class="charge-description">
         <strong>Description:</strong>
         Attempting to unlawfully enter a building to commit theft or another felony without completing the act.
@@ -222,7 +218,45 @@ __***ALL CAPITAL OFFENCES ARE HUT CHARGES***__
   </div>
 </div>
 
+<!-- ATM Robbery -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">ATM Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 15 months - $1,200</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Using force, tools, or other means to unlawfully access or damage an automated teller machine (ATM) in order to steal money.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant used force, tools, or damage against an ATM.</li>
+        <li>The act was intended to unlawfully obtain money.</li>
+        <li>The ATM was accessed or damaged without consent.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
+<!-- Attempted ATM Robbery -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Attempted ATM Robbery (FELONY)</div>
+    <div class="charge-row principal">Principal - 10 months - $700</div>>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Taking substantial steps toward robbing an ATM without successfully completing the offense.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant intended to commit an ATM robbery.</li>
+        <li>Substantial steps toward the act were taken.</li>
+        <li>The robbery was not completed.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
   <!-- Breaking and Entering -->
   <div class="charge felony-charge">
