@@ -164,7 +164,7 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Stockpiling / Possession with Intent to Distribute</div>
-      <div class="charge-row principal">Principal - 48 months - $1,000</div>
+      <div class="charge-row principal">Principal - 0 months - $0</div>
       <div class="charge-description">
         <strong>Description:</strong>
         Possession of large quantities of firearms, ammunition, or parts indicating intent to distribute.
@@ -303,12 +303,10 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
   <div class="charge-content">
     <div class="charge-row charge-name">Gang Related Shooting</div>
     <div class="charge-row principal">Principal - 60 months - $2,800</div>
-
     <div class="charge-description">
       <strong>Description:</strong>
       Discharging a firearm during gang activity, including retaliation, intimidation, territorial disputes, or coordinated criminal actions.
       <br><br>
-
       <strong>Points to Prove:</strong>
       <ul>
         <li>The defendant discharged a firearm or participated in a shooting.</li>
@@ -326,12 +324,10 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
   <div class="charge-content">
     <div class="charge-row charge-name">Accessory to Gang Related Shooting</div>
     <div class="charge-row principal">Principal - 45 months - $2,000</div>
-
     <div class="charge-description">
       <strong>Description:</strong>
       Assisting, aiding, or enabling a gang-related shooting before, during, or after the offense without personally firing a weapon.
       <br><br>
-
       <strong>Points to Prove:</strong>
       <ul>
         <li>A gang-related shooting occurred.</li>
