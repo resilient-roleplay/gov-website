@@ -37,9 +37,9 @@ export default {
         text: "Applications",
         link: "/applications",
         items: [
-          { text: "Los Santos Police Department", link: "https://forms.gle/yNHm7wY1fsTd7Xxw9" },
-          { text: "San Andreas Medical Service", link: "https://forms.gle/kWgRzEh1b1WDZqNJ9" },
-          { text: "Department of Justice", link: "https://forms.gle/qxXcfLoTPJxhYzNv5" },
+          { text: "Los Santos Police Department", link: "https://discord.gg/Fpzq3RqX" },
+          { text: "San Andreas Medical Service", link: "https://discord.gg/bevFqxYN" },
+          { text: "Department of Justice", link: "https://discord.gg/Fpzq3RqX" },
         ],
       },
       {
