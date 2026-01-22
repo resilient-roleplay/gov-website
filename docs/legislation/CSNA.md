@@ -57,6 +57,7 @@ Controlled substances are organized into five (5) schedules based on medical val
 | Barbiturates | Pentobarbital, Secobarbital | Prescription required; controlled administration only. |
 | Ketamine | Medical anesthetic form | Restricted to authorized medical professionals. |
 | Codeine-based Compounds (High Dose) | Pure codeine or combined with morphine | Prescription only; limited dispensing. |
+| Cocaine | Powdered cocaine, bagged cocaine | Illegal for all civilian possession. Any medical use is limited strictly to authorized clinical settings. Civilian possession constitutes criminal possession of a Schedule II narcotic. |
 
 ---
 
@@ -100,6 +101,10 @@ Schedules I–IV are subject to expansion or amendment by the **Department of Ju
 - Possession, use, or distribution of a **Schedule I** substance is strictly prohibited under all circumstances.  
 - All controlled substances must be stored safely and out of public view.  
 - Public consumption or open use of controlled substances is prohibited.  
+- Possession of **Schedule II substances** is lawful only where expressly authorized by this Act.  
+- **Cocaine is prohibited for civilian possession under all circumstances.**  
+- Any civilian found in possession of cocaine commits **criminal possession of a Schedule II narcotic**, regardless of quantity.  
+- Nothing in this Act authorizes public use, transport, sale, or distribution of cocaine..
 
 </details>
 
@@ -163,6 +168,16 @@ Schedules I–IV are subject to expansion or amendment by the **Department of Ju
 | Possession of Controlled Medical Substance (Over 4 bottles) | Misdemeanor | 15 months | $700 |
 | Possession of Controlled Medical Substance Without Prescription | Felony | 25 months | $950 |
 | Unlawful Distribution of Controlled Medical Substance | Felony | 30 months | $1,200 |
+| Possession of Cocaine (Baseline) | Felony | 20 months | $900 |
+| Possession of Cocaine (5+ Bags) | Felony | 25 months | $1,200 |
+| Possession of Cocaine (10+ Bags) | Felony | 35 months | $2,000 |
+| Possession of Cocaine (20+ Bags) | Felony | 45 months | $3,000 |
+| Possession of Cocaine (50+ Bags) | Felony | 65 months | $4,500 |
+| Possession of Cocaine (100+ Bags) | Felony | 85 months | $6,000 |
+| Possession of Cocaine (200+ Bags) | Felony | 120 months | $8,000 |
+| Distribution of Cocaine | Felony | 45 months | $3,500 |
+| Possession of Materials for Manufacturing Cocaine | Felony | 40 months | $3,000 |
+| Manufacturing of Cocaine | **HUT Felony** | 150 months | $10,000 |
 
 </details>
 
