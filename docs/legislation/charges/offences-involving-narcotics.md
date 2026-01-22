@@ -457,5 +457,213 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
+<!-- Possession of Cocaine -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Possession of Cocaine (FELONY)</div>
+    <div class="charge-row principal">Principal - 30 months - $1,500</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Knowingly possessing cocaine or a cocaine-based substance without lawful authorization.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant knowingly possessed cocaine.</li>
+        <li>The substance was identified as cocaine or a cocaine-based narcotic.</li>
+        <li>The possession was unlawful and without authorization.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Possession of Cocaine (20+ Bags) -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Possession of Cocaine (20+ Bags) (FELONY)</div>
+    <div class="charge-row principal">Principal - 45 months - $3,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Possessing twenty or more individual bags of cocaine, clearly exceeding personal use and indicating large-scale possession.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant knowingly possessed cocaine.</li>
+        <li>The cocaine was packaged in twenty or more individual bags.</li>
+        <li>The quantity exceeded personal possession limits.</li>
+        <li>The possession was unlawful.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Possession of Cocaine (50+ Bags) -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Possession of Cocaine (50+ Bags) (FELONY)</div>
+    <div class="charge-row principal">Principal - 65 months - $4,500</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Possessing fifty or more individual bags of cocaine, indicating intent to distribute on a significant scale.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant knowingly possessed cocaine.</li>
+        <li>The cocaine was packaged in fifty or more individual bags.</li>
+        <li>The quantity indicates large-scale distribution intent.</li>
+        <li>The possession was unlawful.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Possession of Cocaine (100+ Bags) -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Possession of Cocaine (100+ Bags) (FELONY)</div>
+    <div class="charge-row principal">Principal - 85 months - $6,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Possessing one hundred or more individual bags of cocaine, consistent with organized narcotics distribution.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant knowingly possessed cocaine.</li>
+        <li>The cocaine was packaged in one hundred or more bags.</li>
+        <li>The quantity demonstrates organized distribution activity.</li>
+        <li>The possession was unlawful.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Possession of Cocaine (200+ Bags) -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Possession of Cocaine (200+ Bags) (FELONY)</div>
+    <div class="charge-row principal">Principal - 120 months - $8,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Possessing two hundred or more individual bags of cocaine, representing high-level narcotics trafficking quantities.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant knowingly possessed cocaine.</li>
+        <li>The cocaine was packaged in two hundred or more bags.</li>
+        <li>The quantity indicates large-scale trafficking.</li>
+        <li>The possession was unlawful.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Distribution of Cocaine -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Distribution of Cocaine (FELONY)</div>
+    <div class="charge-row principal">Principal - 45 months - $3,500</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Selling, supplying, transferring, or otherwise distributing cocaine to another person without lawful authorization.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant sold, supplied, or transferred cocaine.</li>
+        <li>The substance was identified as cocaine.</li>
+        <li>The distribution was unlawful and unauthorized.</li>
+        <li>The act was intentional.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Accessory to Distribution of Cocaine -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Accessory to Distribution of Cocaine (FELONY)</div>
+    <div class="charge-row principal">Principal - 34 months - $2,600</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Knowingly assisting, facilitating, transporting, concealing, or otherwise supporting another person in the unlawful distribution of cocaine.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The principal offender distributed or attempted to distribute cocaine.</li>
+        <li>The defendant knowingly assisted, facilitated, or supported the distribution.</li>
+        <li>The defendant was aware of the unlawful nature of the activity.</li>
+        <li>The assistance helped enable the distribution or evade law enforcement.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Manufacturing of Cocaine -->
+<div class="charge felony-charge hut-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Manufacturing of Cocaine (HUT CHARGE)</div>
+    <div class="charge-row principal">Principal - 0 months - $0</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Producing, processing, refining, or chemically manufacturing cocaine or cocaine-based substances, including operating or maintaining facilities, equipment, or processes used in its creation.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant knowingly manufactured, processed, or refined cocaine.</li>
+        <li>The activity involved chemical processes, equipment, or facilities used to create cocaine.</li>
+        <li>The defendant lacked lawful authorization to manufacture controlled substances.</li>
+        <li>The act was intentional and part of an unlawful narcotics operation.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Accessory to Manufacturing of Cocaine -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Accessory to Manufacturing of Cocaine (FELONY)</div>
+    <div class="charge-row principal">Principal - 85 months - $5,500</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Knowingly assisting, facilitating, supplying materials, providing locations, or otherwise supporting the unlawful manufacturing or production of cocaine, without directly performing the manufacturing process.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The principal offender manufactured or attempted to manufacture cocaine.</li>
+        <li>The defendant knowingly assisted or supported the manufacturing activity.</li>
+        <li>The defendant was aware the activity involved unlawful cocaine production.</li>
+        <li>The assistance materially aided the offense.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Possession of Materials for Manufacturing Cocaine -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Possession of Materials for Manufacturing Cocaine (FELONY)</div>
+    <div class="charge-row principal">Principal - 40 months - $3,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Knowingly possessing chemicals, equipment, tools, or materials commonly used in the manufacture of cocaine, with intent to use them for unlawful production.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant possessed chemicals, equipment, or materials used in cocaine production.</li>
+        <li>The items are commonly associated with manufacturing cocaine.</li>
+        <li>The defendant intended the items to be used for unlawful drug manufacturing.</li>
+        <li>The defendant lacked lawful authorization.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 </div>

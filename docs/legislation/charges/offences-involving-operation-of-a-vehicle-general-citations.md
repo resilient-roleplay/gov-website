@@ -62,17 +62,131 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     </div>
   </div>
 
-  <!-- Driving Under the Influence -->
-  <div class="charge felony-charge">
-    <div class="felony"></div>
-    <div class="charge-content">
-      <div class="charge-row charge-name">Driving Under the Influence (DUI)</div>
-      <div class="charge-row principal">25 months - $2,500</div>
-      <div class="charge-row accomplice">25 months - $2,500</div>
-      <div class="charge-row description">Operating a motor vehicle while impaired by alcohol, narcotics, or controlled substances.</div>
-      <div class="charge-row points">Breathalyser, blood test, or officer observation of impairment.</div>
+<!-- Driving While Impaired (0.00–0.03 BAC) -->
+<div class="charge infraction">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Driving While Impaired (0.00–0.03 BAC) (INFRACTION)</div>
+    <div class="charge-row principal">Principal - 0 months - $250</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Operating a motor vehicle after consuming alcohol where impairment is minimal but detectable.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>Defendant operated a motor vehicle.</li>
+        <li>Alcohol was present in the defendant’s system.</li>
+        <li>BAC measured between 0.00 and 0.03.</li>
+        <li>Driving ability was affected.</li>
+      </ul>
     </div>
   </div>
+</div>
+
+<!-- Driving While Impaired (0.03–0.05 BAC) -->
+<div class="charge misdemeanor">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Driving While Impaired (0.03–0.05 BAC) (MISDEMEANOUR)</div>
+    <div class="charge-row principal">Principal - 6 months - $500</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Operating a motor vehicle while alcohol consumption impaired safe driving ability.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>Defendant operated a motor vehicle.</li>
+        <li>BAC measured between 0.03 and 0.05.</li>
+        <li>Alcohol impaired judgment or reaction time.</li>
+        <li>Driving posed a risk to public safety.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Driving Under the Influence (0.05–0.08 BAC) -->
+<div class="charge misdemeanor">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Driving Under the Influence (0.05–0.08 BAC) (MISDEMEANOUR)</div>
+    <div class="charge-row principal">Principal - 12 months - $1,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Operating a motor vehicle while under the influence of alcohol to a degree that impairs safe operation.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>Defendant operated a motor vehicle.</li>
+        <li>BAC measured between 0.05 and 0.08.</li>
+        <li>Alcohol significantly impaired motor skills or judgment.</li>
+        <li>Driving was unsafe or unlawful.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Driving While Intoxicated (0.08+ BAC) -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Driving While Intoxicated (0.08+ BAC) (FELONY)</div>
+    <div class="charge-row principal">Principal - 20 months - $2,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Operating a motor vehicle while intoxicated by alcohol at or above the legal intoxication threshold.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>Defendant operated a motor vehicle.</li>
+        <li>BAC measured at 0.08 or higher.</li>
+        <li>Defendant was intoxicated.</li>
+        <li>Driving posed a serious risk to public safety.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Driving Under the Influence of Drugs (DUID) -->
+<div class="charge misdemeanor">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Driving Under the Influence of Drugs (DUID) (MISDEMEANOUR)</div>
+    <div class="charge-row principal">Principal - 12 months - $1,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Operating a motor vehicle while impaired by drugs or controlled substances to a degree that affects safe driving.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>Defendant operated a motor vehicle.</li>
+        <li>The defendant was impaired by drugs or controlled substances.</li>
+        <li>The impairment affected safe operation of the vehicle.</li>
+        <li>The act was intentional and unlawful.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Driving Under the Influence of Drugs (DUID) - Aggravated -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Aggravated Driving Under the Influence of Drugs (DUID) (FELONY)</div>
+    <div class="charge-row principal">Principal - 20 months - $2,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Operating a motor vehicle while impaired by drugs or controlled substances in a manner that creates a serious risk to public safety.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>Defendant operated a motor vehicle.</li>
+        <li>The defendant was impaired by drugs or controlled substances.</li>
+        <li>The impairment significantly affected safe driving.</li>
+        <li>The driving created a serious risk to the public.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
   <!-- Hit and Run -->
   <div class="charge felony-charge">
