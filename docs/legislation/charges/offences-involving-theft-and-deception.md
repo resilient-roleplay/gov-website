@@ -372,9 +372,7 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
     <div class="felony"></div>
     <div class="charge-content">
       <div class="charge-row charge-name">Vehicle Theft (FELONY)</div>
-      <div class="charge-row principal">Principal - 30 months - $3,000</div>
-      <div class="charge-row accomplice">Accomplice - 30 months - $3,000</div>
-      <div class="charge-row accessory">Accessory - 18 months - $1,800</div>
+      <div class="charge-row principal">Principal - 10 months - $1,000</div>
       <div class="charge-description">
         <strong>Description:</strong>
         Stealing or unlawfully operating a motor vehicle.
@@ -393,10 +391,8 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
   <div class="charge felony-charge">
     <div class="felony"></div>
     <div class="charge-content">
-      <div class="charge-row charge-name">Attempted Vehicle Theft (FELONY)</div>
-      <div class="charge-row principal">Principal - 15 months - $1,500</div>
-      <div class="charge-row accomplice">Accomplice - 15 months - $1,500</div>
-      <div class="charge-row accessory">Accessory - 9 months - $900</div>
+      <div class="charge-row charge-name">Attempted Vehicle Theft </div>
+      <div class="charge-row principal">Principal - 0 months - $800</div>>
       <div class="charge-description">
         <strong>Description:</strong>
         Taking substantial steps toward unlawfully taking or operating a vehicle without completing the act.
@@ -882,5 +878,68 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
       </div>
     </div>
   </div>
+
+<!-- Grand Theft -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Grand Theft (FELONY)</div>
+    <div class="charge-row principal">Principal - 30 months - $2,500</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Unlawfully taking or exercising control over another person’s property with the intent to permanently deprive the rightful owner of its use or possession.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant took or exercised control over property belonging to another.</li>
+        <li>The taking was without the owner’s consent or lawful authority.</li>
+        <li>The defendant intended to permanently deprive the owner of the property.</li>
+        <li>The property was not returned in its original condition or was altered to prevent recovery.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Accessory to Grand Theft -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Accessory to Grand Theft</div>
+    <div class="charge-row principal">Principal - 22 months - $1,800</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Knowingly assisting, facilitating, concealing, or supporting another person in committing grand theft, with knowledge of the intent to permanently deprive the rightful owner of their property.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>A grand theft was committed or attempted.</li>
+        <li>The defendant knowingly assisted or supported the offense.</li>
+        <li>The defendant knew the property was being unlawfully taken.</li>
+        <li>The assistance was intended to help commit or conceal the theft.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Attempted Grand Theft -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Attempted Grand Theft (FELONY)</div>
+    <div class="charge-row principal">Principal - 20 months - $1,800</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Taking substantial steps toward unlawfully taking or exercising control over another person’s property with intent to permanently deprive the owner, without completing the theft.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant intended to permanently deprive the owner of the property.</li>
+        <li>The defendant took direct and substantial steps toward committing the theft.</li>
+        <li>The property belonged to another person.</li>
+        <li>The theft was not completed due to interruption or failure.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 </div>
