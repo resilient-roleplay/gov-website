@@ -1,4 +1,3 @@
-
 # CSNA: Controlled Substances and Narcotics Act  
 ### State of San Andreas – State Register of Laws  
 
@@ -51,6 +50,7 @@ Controlled substances are organized into five (5) schedules based on medical val
 ---
 
 ### Schedule II – Restricted Medical Substances  
+
 | Substance | Examples | Legal Status |
 |------------|-----------|---------------|
 | Strong Opioids | Morphine, Oxycodone, Fentanyl | Prescription required; misuse constitutes felony possession. |
@@ -62,6 +62,7 @@ Controlled substances are organized into five (5) schedules based on medical val
 ---
 
 ### Schedule III – Regulated Medical Substances  
+
 | Substance | Examples | Legal Status |
 |------------|-----------|---------------|
 | Co-Codamol / Tramadol | Mild to moderate opioid painkillers | Prescription required; overuse constitutes misdemeanor offense. |
@@ -72,6 +73,7 @@ Controlled substances are organized into five (5) schedules based on medical val
 ---
 
 ### Schedule IV – Controlled Prescription Substances  
+
 | Substance | Examples | Legal Status |
 |------------|-----------|---------------|
 | General Pain Relief & OTC Medicines | Ibuprofen, Paracetamol | Legal over-the-counter sale under standard regulation. |
@@ -81,9 +83,10 @@ Controlled substances are organized into five (5) schedules based on medical val
 ---
 
 ### Schedule V – Minimal-Control Substances  
+
 | Substance | Examples | Legal Status |
 |------------|-----------|---------------|
-| Cannabis (Marijuana) | Dried flower, joints, oil, resin | Legal in limited quantities (see Article IV). |
+| Cannabis (Marijuana – THC) | Dried flower, joints, oil, resin | Legal in limited quantities (see Article IV). |
 | CBD Products | Non-psychoactive cannabis | Fully legal under regulation. |
 | Cough Syrups (Codeine-based) | Mild opioid content | Regulated sale only. |
 
@@ -104,7 +107,7 @@ Schedules I–IV are subject to expansion or amendment by the **Department of Ju
 - Possession of **Schedule II substances** is lawful only where expressly authorized by this Act.  
 - **Cocaine is prohibited for civilian possession under all circumstances.**  
 - Any civilian found in possession of cocaine commits **criminal possession of a Schedule II narcotic**, regardless of quantity.  
-- Nothing in this Act authorizes public use, transport, sale, or distribution of cocaine..
+- Nothing in this Act authorizes public use, transport, sale, or distribution of cocaine.  
 
 </details>
 
@@ -113,14 +116,43 @@ Schedules I–IV are subject to expansion or amendment by the **Department of Ju
 <details>
 <summary><strong>Article IV – Cannabis (Marijuana) Regulation</strong></summary>
 
-- Cannabis is classified under **Schedule V** as a regulated substance permitted for personal use under the following limits:  
-  - Up to **10 joints** per individual.  
-  - Up to **5 bagged units** of cannabis flower.  
-  - Up to **3 cannabis plants** cultivated per household.  
-  - Up to **50 cannabis seeds** (male or female) may be legally possessed for personal cultivation purposes.  
-- Possession exceeding these limits constitutes an offense under this Act.  
-- Cannabis must be kept in a sealed container when transported and may not be consumed in vehicles or public areas.  
+### Personal Possession Limits (THC)
+
+- Up to **10 joints** per individual.  
+- Up to **5 bagged units** of cannabis flower.  
+- Up to **3 cannabis plants** cultivated per household.  
+- Up to **50 cannabis seeds** may be possessed for personal cultivation.  
+
+Possession exceeding these limits constitutes an offense under this Act.  
+
+---
+
+### Transport and Use Restrictions
+
+- Cannabis must be kept in a sealed container when transported.  
+- Cannabis may not be consumed in vehicles or public areas.  
 - Individuals under **21 years of age** are prohibited from possessing or consuming cannabis.  
+
+---
+
+### Dispensary Transaction Limits
+
+- State-licensed dispensaries **shall not supply THC cannabis products in quantities exceeding the lawful personal possession limits in any single transaction**.  
+- Attempts to circumvent possession limits through multiple or split purchases shall be treated as a **single transaction** for enforcement purposes.  
+- These provisions are intended to codify compliance expectations and **do not imply dispensaries were expected to oversupply**.
+
+---
+
+### CBD vs THC Classification
+
+- **THC Cannabis Products** are psychoactive and subject to all possession, transport, and sale limits under this Act.  
+- **CBD Products** are non-psychoactive cannabis derivatives and **are not subject to THC possession limits**, provided they meet state regulatory standards.  
+- CBD products may be sold without quantity restriction unless otherwise regulated by SAMS or DOJ.
+
+---
+
+### Cultivation and Sale
+
 - Sale or supply of cannabis without a **State Dispensary License** constitutes *Unlicensed Distribution of Cannabis*.  
 - Cultivation over the legal limit constitutes *Illegal Cultivation of Marijuana*.  
 
@@ -136,8 +168,10 @@ Schedules I–IV are subject to expansion or amendment by the **Department of Ju
 - License holders must:  
   - Maintain accurate transaction records.  
   - Refrain from selling to individuals under 21.  
+  - Prevent the supply of THC cannabis exceeding lawful possession limits.  
   - Comply with state health and taxation laws.  
-- Any person or entity selling or transferring a controlled substance without proper authorization commits a felony offense.  
+- Knowingly supplying THC cannabis over statutory limits constitutes **Unlawful Distribution of Cannabis**.  
+- Administrative or accidental oversupply may be addressed through regulatory enforcement absent evidence of willful misconduct.  
 
 </details>
 
@@ -146,10 +180,10 @@ Schedules I–IV are subject to expansion or amendment by the **Department of Ju
 <details>
 <summary><strong>Article VI – Enforcement Authority</strong></summary>
 
-- **Los Santos Police Department (LSPD)** – for enforcement and investigation of controlled substance offenses.  
-- **Department of Justice (DOJ)** – for prosecution, oversight, and judicial interpretation.  
-- Law enforcement officers must enforce this Act proportionally and in accordance with citizens’ constitutional rights.  
-- Agencies must maintain records of all seizures, arrests, and charges filed under this Act for public accountability.  
+- **Los Santos Police Department (LSPD)** – enforcement and investigation.  
+- **Department of Justice (DOJ)** – prosecution, oversight, and judicial interpretation.  
+- Law enforcement officers must act proportionally and constitutionally.  
+- Agencies must maintain records of all seizures, arrests, and charges for accountability.  
 
 </details>
 
@@ -165,6 +199,7 @@ Schedules I–IV are subject to expansion or amendment by the **Department of Ju
 | Possession of Cannabis Seeds (Over 50 Seeds) | Felony | 20 months | $1,200 |
 | Cultivation of Marijuana (Over 3 Plants) | Felony | 25 months | $940 |
 | Unlicensed Distribution of Cannabis | Felony | 30 months | $1,200 |
+| **Dispensary Supply Over Legal THC Limit** | **Felony** | **30 months** | **$50,000** | Multiplier x5 for each breach
 | Possession of Controlled Medical Substance (Over 4 bottles) | Misdemeanor | 15 months | $700 |
 | Possession of Controlled Medical Substance Without Prescription | Felony | 25 months | $950 |
 | Unlawful Distribution of Controlled Medical Substance | Felony | 30 months | $1,200 |
@@ -181,16 +216,14 @@ Schedules I–IV are subject to expansion or amendment by the **Department of Ju
 
 </details>
 
-
 ---
 
 <details>
 <summary><strong>Article VIII – Expansion of Controlled Schedules</strong></summary>
 
 - The **State Legislature**, in consultation with the **Department of Justice** and **SAMS**, may add, amend, or reclassify substances under this Act.  
-- Any new narcotic, stimulant, depressant, or hallucinogenic drug introduced into circulation may be designated under Schedules I–IV by legislative update.  
-- Once added, the relevant penalties and possession limits will be defined through an **Official Amendment to the CSNA**.  
-- Law enforcement agencies shall be notified of all schedule changes by formal bulletin.  
+- Any new narcotic introduced may be designated under Schedules I–IV by official amendment.  
+- Law enforcement agencies shall be notified by formal bulletin.  
 
 </details>
 
@@ -199,9 +232,9 @@ Schedules I–IV are subject to expansion or amendment by the **Department of Ju
 <details>
 <summary><strong>Article IX – Record Reform and Expungement</strong></summary>
 
-- Individuals convicted of non-violent possession offenses may petition the **Department of Justice** for expungement after **1 month** without reoffense.  
+- Individuals convicted of non-violent possession offenses may petition for expungement after **1 month** without reoffense.  
 - Expungement does not apply to trafficking, distribution, or violent offenses.  
-- The DOJ must issue a written determination within **45 days** of application.  
+- DOJ must issue a determination within **45 days**.  
 
 </details>
 
@@ -209,15 +242,12 @@ Schedules I–IV are subject to expansion or amendment by the **Department of Ju
 
 ## Conclusion  
 
-The **Controlled Substances and Narcotics Act (CSNA)** provides the foundational structure for regulating controlled substances within the **State of San Andreas**.  
-
-It establishes current standards for lawful cannabis use and ensures readiness for future inclusion of other narcotics as they emerge, balancing **public safety**, **personal freedom**, and **judicial fairness**.  
+The **Controlled Substances and Narcotics Act (CSNA)** provides the foundational structure for regulating controlled substances within the **State of San Andreas**, balancing **public safety**, **personal freedom**, and **judicial fairness**.
 
 ---
 
 ### Signatories  
 
-- Justice Bailey Harvey  
 - Justice Peter Brackley  
 - Justice Mina Mercy  
 - Justice James Anderson  
