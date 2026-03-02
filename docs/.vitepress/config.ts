@@ -84,6 +84,7 @@ export default {
             { text: "Legal Profession Classification and BAR Licensing Act", link: "/legislation/lawyers" },
             { text: "Judicial Structure, Powers, and Appointment Act", link: "/legislation/judiciary" },
             { text: "Repeat Offender Sentencing Enhancement Act (ROSEA)", link: "/legislation/ROSEA" },
+            { text: "Alcohol Control & Licensing Act (ACLA)", link: "/legislation/ACLA" },
           ],
         },
         {
