@@ -212,7 +212,7 @@ Possession exceeding these limits constitutes an offense under this Act.
 | Possession of Cannabis Seeds (Over 50 Seeds) | Felony | 20 months | $1,200 |
 | Cultivation of Marijuana (Over 3 Plants) | Felony | 25 months | $940 |
 | Unlicensed Distribution of Cannabis | Felony | 30 months | $1,200 |
-| **Dispensary Supply Over Legal THC Limit** | **Felony** | **30 months** | **$50,000** | Multiplier x5 for each breach
+| Dispensary Supply Over Legal THC Limit - Multiplier x2 for each breach | Felony | 0 months | $50,000 | 
 | Unlicensed Sale of Cannabis Seeds | Felony | 25 months | $1,000 |
 | Dispensary Supply of Cannabis Seeds Over Legal Limit | Felony | 30 months | $2,000 |
 | Possession of Controlled Medical Substance (Over 4 bottles) | Misdemeanor | 15 months | $700 |
