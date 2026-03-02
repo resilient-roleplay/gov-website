@@ -72,6 +72,7 @@ export default {
             { text: "Medical Information Privacy and Protection Act (MIPPA)", link: "/legislation/mippa" },
             { text: "DNA Legislation Act", link: "/legislation/dna" },
             { text: "Statute of Limitations Legislation", link: "/legislation/statute" },
+            { text: "Marriage Act", link: "/legislation/marriage-act" },
             { text: "Powers and Definitions of Law Enforcement Officers (LEOs) Act", link: "/legislation/leos" },
             { text: "Law Enforcement Negotiation and Sentencing Adjustment (LENSA) Act", link: "/legislation/lensa" },
             { text: "Bail Legislation Act", link: "/legislation/bail" },
