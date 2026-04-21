@@ -66,6 +66,7 @@ export default {
             { text: "First Time Felony Diversion Program Act", link: "/legislation/fdp" },
             { text: "Impeachment and Authority Conduct Review Act", link: "/legislation/impeachment-acr" },
             { text: "Freedom of Information Act", link: "/legislation/foia" },
+            { text: "Unified Police Department Establishment Act", link: "/legislation/upd-act" },
             { text: "Police Commissioners Authority Act", link: "/legislation/police-commissioners-authority" },
             { text: "San Andreas Medical Services (SAMS) Authority & Operations Act", link: "/legislation/sams" },
             { text: "Controlled Substances and Narcotics Act (CSNA)", link: "/legislation/CSNA" },
