@@ -256,10 +256,7 @@ Appeals are submitted to the DOJ and reviewed by an appointed Justice or Hearing
 </details>
 
 ---
-
-## **Signatories**  
-
-- Justice Bailey Harvey  
-- Justice Peter Brackley  
-- Justice Mina Mercy  
-- Justice James Anderson  
+### Signatories:
+- Justice Peter Brackley
+- Justice Mina Mercy
+- Justice James Anderson

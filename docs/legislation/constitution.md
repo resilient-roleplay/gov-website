@@ -121,12 +121,8 @@ Any statute, ordinance, or policy in conflict with this Constitution shall be re
 ## Ratification and Signatories
 This Constitution is hereby ratified and enacted by the State of San Andreas as of 17th October 2025.
 
-**Signatories:**
-- Justice Bailey Harvey
+---
+### Signatories:
 - Justice Peter Brackley
 - Justice Mina Mercy
-- Justice Tess Timony
 - Justice James Anderson
-
-**Underwriter:**
-Justice Bailey Harvey

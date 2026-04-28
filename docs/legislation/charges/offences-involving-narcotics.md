@@ -666,4 +666,25 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
   </div>
 </div>
 
+<!-- Dispensary Supply Over Legal THC Limit -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Dispensary Supply Over Legal THC Limit (FELONY)</div>
+    <div class="charge-row principal">Principal - 0 months - $50,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Supplying, selling, or distributing cannabis products through a licensed or unlicensed dispensary that exceed the legally permitted amount.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant supplied or distributed cannabis products.</li>
+        <li>The products exceeded the legally permitted THC concentration.</li>
+        <li>The supply occurred through a dispensary or retail operation.</li>
+        <li>The defendant knew or should have known the THC levels exceeded legal limits.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 </div>

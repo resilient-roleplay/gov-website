@@ -288,4 +288,110 @@ __***ALL CAPITAL OFFENCES & CHARGES WITH $0 ARE HUT CHARGES***__
       </div>
     </div>
   </div>
+
+<!-- Unlicensed Sale or Service of Alcohol -->
+<div class="charge misdemeanor-charge">
+  <div class="misdemeanor"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Unlicensed Sale or Service of Alcohol (MISDEMEANOR)</div>
+    <div class="charge-row principal">Principal - 0 months - $15,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Selling, serving, supplying, or providing alcoholic beverages without holding a valid alcohol license, permit, or lawful authorization.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant sold, served, or supplied alcohol.</li>
+        <li>No valid alcohol license or permit was in effect.</li>
+        <li>The activity occurred in a commercial or event setting.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<!-- Service of Alcohol to Underage Person -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Service of Alcohol to Underage Person (FELONY)</div>
+    <div class="charge-row principal">Principal - 6 months - $25,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Knowingly or negligently selling or providing alcoholic beverages to a person below the legal drinking age.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant sold or provided alcohol.</li>
+        <li>The recipient was under the legal drinking age.</li>
+        <li>The defendant knew or should have known the recipient’s age.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<!-- Service of Alcohol to an Intoxicated Person -->
+<div class="charge misdemeanor-charge">
+  <div class="misdemeanor"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Service of Alcohol to Intoxicated Person (MISDEMEANOR)</div>
+    <div class="charge-row principal">Principal - 0 months - $10,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Serving or providing alcohol to an individual who is visibly intoxicated or impaired.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The individual was visibly intoxicated.</li>
+        <li>The defendant served or provided alcohol.</li>
+        <li>The defendant knew or reasonably should have known of the intoxication.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<!-- Operating Outside License Conditions -->
+<div class="charge misdemeanor-charge">
+  <div class="misdemeanor"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Operating Outside Alcohol License Conditions (MISDEMEANOR)</div>
+    <div class="charge-row principal">Principal - 0 months - $12,500</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Operating an alcohol-licensed premises outside approved hours, approved areas, or imposed license conditions.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant held an alcohol license.</li>
+        <li>Specific license conditions were in effect.</li>
+        <li>The premises operated in violation of those conditions.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<!-- Failure to Control Licensed Premises -->
+<div class="charge felony-charge">
+  <div class="felony"></div>
+  <div class="charge-content">
+    <div class="charge-row charge-name">Failure to Control Licensed Premises (FELONY)</div>
+    <div class="charge-row principal">Principal - 9 months - $30,000</div>
+    <div class="charge-description">
+      <strong>Description:</strong>
+      Failing to maintain order at a licensed premises, resulting in violent conduct, disorderly behavior, or public endangerment.
+      <br><br>
+      <strong>Points to Prove:</strong>
+      <ul>
+        <li>The defendant was a license holder or responsible person.</li>
+        <li>Alcohol was being served on the premises.</li>
+        <li>Violent or disorderly conduct occurred.</li>
+        <li>The defendant failed to take reasonable steps to prevent or stop it.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 </div>

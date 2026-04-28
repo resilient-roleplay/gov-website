@@ -47,8 +47,6 @@ This legislation upholds the Right to Due Process, allowing persons accused of n
 
 ---
 ### Signatories:
-- Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
-- Justice Tess Timony
 - Justice James Anderson
