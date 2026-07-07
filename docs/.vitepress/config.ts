@@ -75,6 +75,7 @@ export default {
             { text: "Statute of Limitations Legislation", link: "/legislation/statute" },
             { text: "Marriage Act", link: "/legislation/marriage-act" },
             { text: "Powers and Definitions of Law Enforcement Officers (LEOs) Act", link: "/legislation/leos" },
+            { text: "Garrity Act", link: "/legislation/garrity" },
             { text: "Law Enforcement Negotiation and Sentencing Adjustment (LENSA) Act", link: "/legislation/lensa" },
             { text: "Bail Legislation Act", link: "/legislation/bail" },
             { text: "Mutual Combat and Trial by Combat Legislation", link: "/legislation/mutual-combat" },

@@ -1,6 +1,7 @@
 import DefaultTheme from "vitepress/theme";
+// @ts-ignore: allow importing CSS as a side-effect in this VitePress theme file
 import "./custom.css";
-import { h, onMounted } from "vue";
+import { onMounted } from "vue";
 
 export default {
   ...DefaultTheme,
