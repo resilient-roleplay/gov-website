@@ -138,6 +138,7 @@ Common Law may arise from **any judicial proceeding**, whether civil or criminal
 ## Section 15 - Double Jeopardy
 1. No individual shall face prosecution twice for the same criminal incident.
 2. Exception - Delayed Death Clause: If a victim later dies from injuries sustained during the original incident, the matter may be refiled under applicable homicide charges.
+3. Exception -Voluntary Confession: A defendant who, following the conclusion of criminal proceedings, voluntarily provides a full confession admitting responsibility for offences arising from the same incident waives the protections of this section and may be prosecuted for those admitted offences.
 
 ## Section 16 - Maximum Sentences for Non-HUT Cases
 1. Sentences for non-HUT cases arising from a single incident shall not exceed 150 months of incarceration, unless:
