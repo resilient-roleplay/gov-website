@@ -173,7 +173,6 @@ Common Law may arise from **any judicial proceeding**, whether civil or criminal
 
 ---
 ### Signatories:
-- Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
 - Justice James Anderson
