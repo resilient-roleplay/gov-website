@@ -23,7 +23,7 @@ Traffic citations are exempt from this restriction.
 
 ## Article II - Chagge and Charges Ineligible for Expungement
 
-The initial expungement request shall cost $50,000. Each additional expungement thereafter will triple (3x) in cost.
+The initial expungement request shall cost $20,000. Each additional expungement thereafter will triple (3x) in cost.
 
 HUT charges as denotes in the Due Process and Jurisprudence Act, are not eligable for expungement. 
 

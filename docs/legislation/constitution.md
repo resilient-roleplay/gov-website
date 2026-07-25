@@ -51,37 +51,106 @@ The defined jurisdictions of Los Santos County are outlined on the official Stat
 
 Citizens have the right to peaceful assembly, provided such actions do not infringe upon the rights or safety of others.
 
+---
+
 **Right to Free Speech and Expression**
 
 Citizens may freely express their opinions, beliefs, and thoughts without censorship, coercion, or reprisal.
+
+---
 
 **Right to Dignity**
 
 Every individual shall be treated equally, free from discrimination, and with respect under the law.
 
+---
+
 **Right to Information**
 
 Citizens have access to public information necessary for personal and collective welfare.
+
+---
 
 **Right to Petition and Vote**
 
 Citizens may submit grievances, petitions, and proposals to their government and participate in free and fair elections.
 
-**Right to Fair Trial and Due Process**
-
-Every citizen shall receive a fair trial and full due process of law.
+---
 
 **Right to Privacy**
 
 Citizens are entitled to personal privacy and protection from unlawful intrusion or disclosure.
 
+---
+
 **Right to Health and Protection of Others**
 
 Citizens have access to essential healthcare and may act reasonably in defence of themselves and others.
 
+---
+
 **Right to Property**
 
 Citizens have the right to own property and possessions, subject to lawful limitations to prevent infringement upon others’ rights.
+---
+
+**Right Against Self-Incrimination**
+
+No person shall be compelled to provide evidence or testimony that would incriminate themselves in any criminal investigation or judicial proceeding.
+
+---
+
+**Right Against Unreasonable Search and Seizure**
+
+Citizens have the right to be free from unreasonable searches and seizures. Searches and seizures shall only be conducted pursuant to lawful authority, a valid warrant, or a recognised exception established by law.
+
+---
+
+**Right to the Presumption of Innocence**
+
+Every person shall be presumed innocent until proven guilty beyond a reasonable doubt before a court of competent jurisdiction.
+
+---
+
+**Protection Against Double Jeopardy**
+
+No person shall be prosecuted or punished more than once for the same criminal offence arising from the same incident, except where otherwise provided by law.
+
+---
+
+**Right to Legal Counsel**
+
+Every person has the right to obtain legal representation and to consult with legal counsel during criminal proceedings.
+
+---
+
+**Right to Equal Protection**
+
+Every person is entitled to the equal protection of the laws and shall not be denied equal treatment under the law without lawful justification.
+
+---
+
+**Right to Freedom from Cruel or Unusual Punishment**
+
+No person shall be subjected to cruel, degrading, or unusual punishment. All penalties imposed shall be lawful and proportionate to the offence committed.
+
+---
+
+**Right to Due Process**
+
+No person shall be deprived of life, liberty, or property except in accordance with due process of law.
+
+---
+
+**Right to a Speedy and Public Trial**
+
+Every person charged with a criminal offence has the right to a prompt, fair, and public trial before an impartial court.
+
+---
+
+**Right to Remain Silent**
+
+Every person has the right to remain silent when questioned by law enforcement. No adverse inference shall be drawn solely from the lawful exercise of this right.
 
 ## Article IV - Social and Civil Services
 
@@ -89,15 +158,41 @@ Citizens have the right to own property and possessions, subject to lawful limit
 
 All citizens are entitled to basic and emergency healthcare.
 
+---
+
 **Right to Housing**
 
 Citizens are entitled to access State-provided housing where available, beginning with subsidised apartments within Los Santos.
+
+---
 
 **Right to Bear Arms**
 
 Citizens holding a valid firearm licence may possess and carry firearms. Melee weapons require no licence.
 
-## Article V - Amendments and Interpretation
+## Article V - Employment
+
+**At-Will Employment**
+
+Employment within the State of San Andreas shall be presumed to be at will. Unless otherwise provided by written contract, statute, or constitutional provision, any employer may terminate employment, and any employee may resign, at any time, with or without notice and with or without cause, provided such termination does not violate this Constitution or applicable law.
+
+**Employment Contracts**
+
+Nothing in this Constitution shall prevent an employer and employee from entering into a written employment contract that provides greater employment protections or establishes specific terms governing hiring, discipline, or termination.
+
+**Freedom of Employment**
+
+Any lawful business, public agency, or government department may hire, promote, discipline, suspend, or dismiss employees in accordance with this Constitution, State law, and any applicable employment contract.
+
+**Equal Opportunity in Employment**
+
+No person shall be denied employment or subjected to adverse employment action solely on the basis of race, ethnicity, nationality, religion, sex, disability, or any other protected characteristic recognised by State law.
+
+**Public Service**
+
+Employment within any State agency shall be considered a public trust. Public employees shall perform their duties impartially, lawfully, and in accordance with the Constitution and laws of the State of San Andreas.
+
+## Article VI - Amendments and Interpretation
 
 **1. Amendments to the Constitution**
 
