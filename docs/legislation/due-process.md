@@ -53,7 +53,7 @@ Under Article III, Section 6 of the Constitution of San Andreas, all citizens ar
 1. Individuals subject to **Held Until Trial (HUT)** status may be detained for up to **twenty-four (24) hours** pending arraignment, extendable only with judicial approval.  
 2. All defendants must be afforded the opportunity for **bail**, unless explicitly denied by a Justice.  
 3. Arraignment occurs upon judicial review or when bail conditions are approved on the docket.  
-4. Charges must be filed within **seventy-two (72) hours** of detainment.  
+4. Failure to file charges within seventy-two (72) hours shall require the defendant's immediate release unless otherwise ordered by a Judge or Justice.  
 5. Standard bail conditions include restrictions on residence, substance use, weapons, association, and conduct, as well as **full cooperation with the Court**.  
 6. Bail may only be revoked or modified by the presiding Judge or Justice.  
 7. Failure to comply results in **remand to Bolingbroke Penitentiary until trial** under HUT status.
@@ -134,6 +134,7 @@ Common Law may arise from **any judicial proceeding**, whether civil or criminal
 1. Attorney-client privilege protects all confidential communications related to legal representation.
 2. This extends to verbal, written, and electronic communications, and to legal aides and paralegals under an attorney’s direction.
 3. Privileged material obtained through subpoena shall be sealed and deemed inadmissible if found protected.
+4. This privilege shall not apply where communications are made for the purpose of committing, planning, or concealing an ongoing or future criminal offence.
 
 ## Section 15 - Double Jeopardy
 1. No individual shall face prosecution twice for the same criminal incident.
@@ -144,6 +145,7 @@ Common Law may arise from **any judicial proceeding**, whether civil or criminal
    - The offence qualifies under the Held Until Trial Provisions;
    - The sentence results from a judicial ruling; or
    - The offence involves contempt or violation of court order.
+   - The Court may exceed the maximum where consecutive sentences are expressly authorised by statute or where required in the interests of justice.
 
 ## Section 17 - Expanded Rights and Protections
 1. Defendants cannot be compelled to self-incriminate. If they testify voluntarily, they must answer truthfully under oath.
@@ -172,7 +174,6 @@ Common Law may arise from **any judicial proceeding**, whether civil or criminal
 
 ---
 ### Signatories:
-- Justice Bailey Harvey
 - Justice Peter Brackley
 - Justice Mina Mercy
 - Justice James Anderson
